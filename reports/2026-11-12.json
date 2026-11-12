@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "found": true,
+  "origin": "archive",
+  "report_date": "2026-11-12",
+  "full_report": true,
+  "response_mode": "verbatim_markdown",
+  "context": "# 对公金融与AI每日简报 · 2026-11-12\n\n## 一、看市场：对公金融AI新需求\n\n### 1. 长江财产保险招标智能影像平台项目\n- **新闻概要：**11月11日，长江财产保险股份有限公司公开招标智能影像平台项目，预算140万元，将各类单证影像统一采集、治理并向量化，通过智能识别实现自动分类、查重比对与关键信息提取，并把识别、提取、检索能力作为AI中台影像域原子能力对外供给，支撑理赔、核保、客服等场景。项目要求2027年4月30日前完成建设上线，现处于招标阶段。\n- **新闻链接：**[gxzbcg.com.cn](https://www.gxzbcg.com.cn/sbzbcg/617627.html)\n\n### 2. 兴业银行披露大模型平台日均词元调用100亿\n- **新闻概要：**11月11日，兴业银行披露，其大模型平台日均词元调用量已达100亿、日均大模型调用量接近500万次，全行运行中智能体超过500个；企业级智能平台获2026 IDC未来企业大奖“AI与智能体平台领军者”奖。该行智慧集中作业平台日均处理影像超100万张，累计服务集团100余个系统。\n- **新闻链接：**[贵州新闻](http://www.gz.chinanews.com.cn/qt/2026-11-11/doc-ihfmxyez7335907.shtml)\n\n### 3. 中信保诚人寿招标大模型服务采购项目\n- **新闻概要：**11月11日，中信保诚人寿保险有限公司公开招标大模型服务采购项目（第二次），采购大模型服务平台及多模型API调用服务，预算96万元，资金为自筹并已落实。项目不接受联合体投标，投标文件须于2026年12月4日前提交。这是该项目第二次公开招标。\n- **新闻链接：**[中信金控采购共享平台](https://ebid.cfhc.citic/cms/default/webfile/ywgg1/20261111/1305210449330962432.html)\n\n## 二、看行业：AI应用与商业化\n\n### 1. 联易融前三季度跨境融资86.5亿元同比增26.8%\n- **新闻概要：**11月11日，联易融科技集团发布自愿性业务发展公告，2026年前三季度跨境及国际业务由科技解决方案促成的融资总额86.5亿元，上年同期68.2亿元；集团解决方案对应资产总量2847.5亿元，同比增长12.7%，金融机构合作伙伴476家。公司称正把蜂联AI智能体升级为面向金融机构专业人士的垂类AI工作台，将分散的AI能力单元整合为全流程产融智能作业平台。\n- **新闻链接：**[同花顺](https://stock.10jqka.com.cn/hks//20261111/c681713477.shtml)\n\n### 2. 甲骨文发布面向银行保险的AI财务与客户分析应用\n- **新闻概要：**11月10日，甲骨文发布Oracle Financial Services Data Intelligence Treasury Analytics与Customer Analytics两款分析应用并在全球可用，面向银行与保险公司；前者整合流动性、资金、现金流、资产负债表与市场风险视图，后者合并客户、产品、渠道与盈利数据。\n- **新闻链接：**[BankingNewsAI](https://www.bankingnewsai.com/issues/2026-11-11/oracle-launches-ai-assisted-treasury-customer-analytics)\n\n### 3. 蚂蚁数科与德意志银行发布智能体支付白皮书\n- **新闻概要：**11月9日，蚂蚁数科与德意志银行联合发布白皮书《批发金融中的智能体支付》，列出财资与流动性管理、跨境支付编排、贸易金融三类智能体场景。白皮书主张“有边界的智能体执行”，沿用意图与编排、控制与授权、结算三层架构，要求可撤销的授权额度、智能体身份与可问责主体绑定及KYA验证，并以蚂蚁数科智能体平台Anvita Flow作为落地案例。\n- **新闻链接：**[Robinhood Buys $25M in Bitcoin, Joining Corporate Treasury Holdings ｜ insigtX](https://www.insigtx.com/zh-hant/news/deutsche-bank-and-ant-digital-technologies-release-white-662851/)\n\n## 三、看技术：大模型、智能体与开源成果\n\n### 1. 谷歌DeepMind正式开放Gemini 4 Carbon\n- **新闻概要：**11月11日，谷歌DeepMind宣布Gemini 4 Carbon正式向开发者、企业和消费者开放。据谷歌披露，该模型在CursorBench 4.0、Perplexity WANDR和Zapier AutomationBench三项基准排名第一，单任务成本比次优外部模型低2倍以上。Carbon强化长程智能体与网络安全能力，并在Antigravity中预览/swarm多智能体协作。\n- **新闻链接：**[Google DeepMind Blog](https://deepmind.google/blog/gemini-4-carbon-is-now-available/)\n\n### 2. 上智院等开源1.9B记忆模块REMORY\n- **新闻概要：**11月11日，上海科学智能研究院联合上海创智学院、复旦大学开源记忆模块REMORY，可训练参数1.9B，用两张H800完成全自监督训练，基座模型权重冻结。据团队披露，驱动Qwen3.8-27B执行Terminal-Bench 2.1时工具报错由933次降至568次，单任务生成开销从4.29美元降至2.86美元；BrowseComp工具报错减少49.7%。该模块以残差token缓解上下文压缩后的记忆丢失。\n- **新闻链接：**[网易](https://www.163.com/dy/article/LBET76RG0511AQHO.html?f=post2020_dy_recommends)\n\n### 3. 微软披露Lazarus后门：改写不到10个休眠神经元\n- **新闻概要：**11月11日，微软研究院披露名为Lazarus的后门手法：无需重新训练，改写大模型中不到10个休眠神经元，就能让智能体在隐藏触发条件出现时执行下载并运行攻击者代码等命令，同时仍通过常规安全评测。微软称Foundry通过核验模型来源、绑定可信发布方并在自有容器中扫描软件环境应对该类风险，并正在研发基于前沿模型的权重扫描与模型签名机制。\n- **新闻链接：**[Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/)\n",
+  "sha256": "7590ab878c2a5ca0b28fa4c4744f325fcd4a77d2235e039b661503fa96066ca4",
+  "counts": {
+    "market": 3,
+    "industry": 3,
+    "technology": 3
+  },
+  "complete_nine": true,
+  "delivery": {
+    "all_parts_sent": true,
+    "confirmed_sent_count": 9
+  },
+  "instruction": "全文请求仅原样输出context，保留加粗、换行、全部概要、数字和链接；禁止再次摘要或补充事实。"
+}

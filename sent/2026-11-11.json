@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "found": true,
+  "origin": "sent_archive",
+  "report_date": "2026-11-11",
+  "full_report": true,
+  "response_mode": "verbatim_markdown",
+  "context": "# 对公金融与AI每日简报 · 2026-11-11\n\n## 一、看市场：对公金融AI新需求\n\n### 1. 兴业银行投产规模化国产超节点并建成智算云平台\n- **新闻概要：**11月10日，兴业银行首套昇腾液冷超节点在福州投产启用，为全国性股份制商业银行中首个建成投用的规模化国产超节点，搭载384张昇腾算力卡、卡间带宽784Gbps，液冷机房实测PUE低至1.15。该行同步建成全行统一智算云平台，实现国产算力入云纳管与池化调度，支撑全行超600个智能体运行、日均超500万次大模型调用。\n- **新闻链接：**[青岛新闻网财经](https://finance.qingdaonews.com/content/2026-11/10/content_23765584.htm)\n\n### 2. 南方基金自研AI智能体上线WorkBuddy与千问APP\n- **新闻概要：**11月9日，南方基金自研AI智能体在WorkBuddy和千问APP同步上线：WorkBuddy端围绕“怎么选基金”设置热点解盘、基金评测、基金甄选、指数洞察、债市观察五大模块，覆盖25个典型场景；千问端“南方基金AI梦”聚焦公司旗下产品解读及行情、板块、基金对比。南方基金称AI解读聚焦自家产品，出处可核对、信息可追溯。\n- **新闻链接：**[新华每日电讯](http://jjckb.xinhuanet.com/20261109/1adf373d04794ebc967c570f545d4e6a/c.html)\n\n## 二、看行业：AI应用与商业化\n\n### 1. Palantir获AmeriLife保险AI合作\n- **新闻概要：**11月8日，Palantir被AmeriLife Group选中，双方建立企业AI合作，将Foundry与人工智能平台用于AmeriLife的健康与财富分销业务。原文称，AmeriLife已有基于Palantir工具的AI驱动工作流在生产运行，并计划在全公司推广。\n- **新闻链接：**[finance.yahoo.com](https://finance.yahoo.com/technology/ai/articles/palantir-technologies-pltr-lands-enterprise-111205834.html)\n\n## 三、看技术：大模型、智能体与开源成果\n\n### 1. DeepMind用AI形式化验证Signal协议代码\n- **新闻概要：**11月10日，Google DeepMind公布AlphaProof Code智能体验证框架，并称其用AI对Signal协议实际代码完成形式化验证，生成超过600万行Lean证明，整个过程耗时四周。团队还将两个已修复漏洞重新引入隔离版本，系统均给出机器可检验的不安全证明。该工作由研究人员与多个模型协作完成，人工复核约1%代码。\n- **新闻链接：**[Google DeepMind Blog](https://deepmind.google/blog/introducing-alphaproof-code/)\n\n### 2. 字节跳动发布Seedream 5.5图像生成与编辑模型\n- **新闻概要：**11月10日，字节跳动推出Seedream 5.5图像生成与编辑模型，已在即梦、豆包和豆包工作上线。该模型支持连续多轮编辑、透明PNG生成、图层拆分和多语言文字渲染；据官方信息，2K方图编辑单张成本约0.28元，不到Seedream 5.0 Pro一半，API延续输入图加输出图两段计费。\n- **新闻链接：**[量子位](https://www.qbitai.com/2026/11/508828.html)\n\n### 3. openJiuwen发布TTSE双轨自演进框架\n- **新闻概要：**11月10日，openJiuwen发布TTSE双轨自演进框架，将智能体经验拆为环境事实FACT与条件式技巧TIP，通过归因、退役、矛盾合成和归纳持续更新。团队称在ALFWorld、ScienceWorld等五个基准上验证，ALFWorld成功率最高98.51%，ScienceWorld原生成功率提升20.38个百分点，并已接入WorkSwarm蜂群办公智能体。\n- **新闻链接：**[量子位](https://www.qbitai.com/2026/11/508998.html)\n",
+  "sha256": "87028c76974d91d61e62115c4788e96eb1005fdeb159f2252d98a0d76e5e2f81",
+  "counts": {
+    "market": 2,
+    "industry": 1,
+    "technology": 3
+  },
+  "complete_nine": false,
+  "delivery": {
+    "all_parts_sent": true,
+    "confirmed_sent_count": 6
+  },
+  "instruction": "全文请求仅原样输出context，保留加粗、换行、全部概要、数字和链接；禁止再次摘要或补充事实。",
+  "messages": [
+    "# 对公金融与AI每日简报 · 2026-11-11\n\n## 一、看市场：对公金融AI新需求\n\n### 1. 兴业银行投产规模化国产超节点并建成智算云平台\n- **新闻概要：**11月10日，兴业银行首套昇腾液冷超节点在福州投产启用，为全国性股份制商业银行中首个建成投用的规模化国产超节点，搭载384张昇腾算力卡、卡间带宽784Gbps，液冷机房实测PUE低至1.15。该行同步建成全行统一智算云平台，实现国产算力入云纳管与池化调度，支撑全行超600个智能体运行、日均超500万次大模型调用。\n- **新闻链接：**[青岛新闻网财经](https://finance.qingdaonews.com/content/2026-11/10/content_23765584.htm)\n\n### 2. 南方基金自研AI智能体上线WorkBuddy与千问APP\n- **新闻概要：**11月9日，南方基金自研AI智能体在WorkBuddy和千问APP同步上线：WorkBuddy端围绕“怎么选基金”设置热点解盘、基金评测、基金甄选、指数洞察、债市观察五大模块，覆盖25个典型场景；千问端“南方基金AI梦”聚焦公司旗下产品解读及行情、板块、基金对比。南方基金称AI解读聚焦自家产品，出处可核对、信息可追溯。\n- **新闻链接：**[新华每日电讯](http://jjckb.xinhuanet.com/20261109/1adf373d04794ebc967c570f545d4e6a/c.html)\n\n## 二、看行业：AI应用与商业化\n\n### 1. Palantir获AmeriLife保险AI合作\n- **新闻概要：**11月8日，Palantir被AmeriLife Group选中，双方建立企业AI合作，将Foundry与人工智能平台用于AmeriLife的健康与财富分销业务。原文称，AmeriLife已有基于Palantir工具的AI驱动工作流在生产运行，并计划在全公司推广。\n- **新闻链接：**[finance.yahoo.com](https://finance.yahoo.com/technology/ai/articles/palantir-technologies-pltr-lands-enterprise-111205834.html)\n\n## 三、看技术：大模型、智能体与开源成果\n\n### 1. DeepMind用AI形式化验证Signal协议代码\n- **新闻概要：**11月10日，Google DeepMind公布AlphaProof Code智能体验证框架，并称其用AI对Signal协议实际代码完成形式化验证，生成超过600万行Lean证明，整个过程耗时四周。团队还将两个已修复漏洞重新引入隔离版本，系统均给出机器可检验的不安全证明。该工作由研究人员与多个模型协作完成，人工复核约1%代码。\n- **新闻链接：**[Google DeepMind Blog](https://deepmind.google/blog/introducing-alphaproof-code/)\n\n### 2. 字节跳动发布Seedream 5.5图像生成与编辑模型\n- **新闻概要：**11月10日，字节跳动推出Seedream 5.5图像生成与编辑模型，已在即梦、豆包和豆包工作上线。该模型支持连续多轮编辑、透明PNG生成、图层拆分和多语言文字渲染；据官方信息，2K方图编辑单张成本约0.28元，不到Seedream 5.0 Pro一半，API延续输入图加输出图两段计费。\n- **新闻链接：**[量子位](https://www.qbitai.com/2026/11/508828.html)\n\n### 3. openJiuwen发布TTSE双轨自演进框架\n- **新闻概要：**11月10日，openJiuwen发布TTSE双轨自演进框架，将智能体经验拆为环境事实FACT与条件式技巧TIP，通过归因、退役、矛盾合成和归纳持续更新。团队称在ALFWorld、ScienceWorld等五个基准上验证，ALFWorld成功率最高98.51%，ScienceWorld原生成功率提升20.38个百分点，并已接入WorkSwarm蜂群办公智能体。\n- **新闻链接：**[量子位](https://www.qbitai.com/2026/11/508998.html)\n"
+  ],
+  "sent_at": "2026-11-11T00:00:01+00:00"
+}
