@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-09",
+  "page": 7,
+  "total_pages": 10,
+  "text1": ". 月之暗面开源Kimi K3，2.8万亿参数支持1M上下文\n- **新闻概要：**11月6日，月之暗面在Hugging Face开放Kimi K3权重，模型为",
+  "text2": "2.8万亿总参数、104B激活的原生多模态MoE，支持100万token上下文，采用KDA与AttnRes架构，据官方称扩展效率较K2提升约2.5倍。模型卡显示",
+  "text3": "其在Terminal-Bench 2.1、SWE-Marathon、MCPMark等编程与智能体基准接近或超过闭源模型，并给出CorpFin v2等金融任务分数",
+  "text4": "；\n- **新闻链接：**[huggingface.co](https://huggingface.co/moonshotai/Kimi-K3)\n\n### 2."
+}
