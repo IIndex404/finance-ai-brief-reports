@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-12",
+  "page": 7,
+  "total_pages": 10,
+  "text1": "大模型、智能体与开源成果\n\n### 1. 谷歌DeepMind正式开放Gemini 4 Carbon\n- **新闻概要：**11月11日，谷歌DeepMind宣",
+  "text2": "布Gemini 4 Carbon正式向开发者、企业和消费者开放。据谷歌披露，该模型在CursorBench 4.0、Perplexity WANDR和Zapie",
+  "text3": "r AutomationBench三项基准排名第一，单任务成本比次优外部模型低2倍以上。Carbon强化长程智能体与网络安全能力，并在Antigravity中预",
+  "text4": "览/swarm多智能体协作。\n- **新闻链接：**[Google DeepMind Blog](https://deepmind.google/blog/ge"
+}

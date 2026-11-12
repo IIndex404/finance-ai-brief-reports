@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-09",
+  "page": 8,
+  "total_pages": 10,
+  "text1": " 英伟达开源Cosmos 3四个世界模型权重\n- **新闻概要：**11月6日，英伟达在Hugging Face发布Cosmos 3系列四个开放权重检查点，均为",
+  "text2": "Cosmos 3 Nano的后训练版本、16B可训练参数，用于交互式世界模拟与多传感器多视角驾驶场景生成。其中Sim-Auto以流式方式同步生成相机视频与激光雷",
+  "text3": "达数据，Sim-Bimanual由双臂机器人动作预测视频，Transfer-Auto支持最多11路相机与RGB-激光雷达联合生成。\n- **新闻链接：**[Hu",
+  "text4": "gging Face Blog](https://huggingface.co/blog/nvidia/cosmos-interactive-world-sim"
+}

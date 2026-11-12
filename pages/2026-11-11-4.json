@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-11",
+  "page": 4,
+  "total_pages": 6,
+  "text1": "rprise-111205834.html)\n\n## 三、看技术：大模型、智能体与开源成果\n\n### 1. DeepMind用AI形式化验证Signal协议代码",
+  "text2": "\n- **新闻概要：**11月10日，Google DeepMind公布AlphaProof Code智能体验证框架，并称其用AI对Signal协议实际代码完成",
+  "text3": "形式化验证，生成超过600万行Lean证明，整个过程耗时四周。团队还将两个已修复漏洞重新引入隔离版本，系统均给出机器可检验的不安全证明。该工作由研究人员与多个模",
+  "text4": "型协作完成，人工复核约1%代码。\n- **新闻链接：**[Google DeepMind Blog](https://deepmind.google/blog/"
+}
