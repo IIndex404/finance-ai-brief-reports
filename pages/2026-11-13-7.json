@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-13",
+  "page": 7,
+  "total_pages": 9,
+  "text1": "0万token、最大输出约39.3万token。模型可调用外部工具与联网搜索，推理强度通过reasoning effort参数调节，API兼容OpenAI与An",
+  "text2": "thropic接口。据阿里云披露，预览期内模型不再变动，结束后预览版将下线，使用需开通Token Plan订阅。\n- **新闻链接：**[マイナビニュース](h",
+  "text3": "ttps://news.mynavi.jp/article/20261112-5307569/)\n\n### 2. 谷歌发布多模态决策模型Gemini Decis",
+  "text4": "ion 1\n- **新闻概要：**11月11日，谷歌上线Gemini Decisions API，由多模态决策模型Gemini Decision 1提供支持，可"
+}

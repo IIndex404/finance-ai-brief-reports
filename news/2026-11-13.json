@@ -1,0 +1,125 @@
+{
+  "report_date": "2026-11-13",
+  "events": [
+    {
+      "category": "market",
+      "title": "浦发银行披露对公开户智能化覆盖率89.4%",
+      "summary": "浦发银行副行长张健在2026年上海辖区上市公司三季报业绩说明会上披露，前三季度数字劳动力承担4200人的年工作量，对公开户流程智能化覆盖率达89.4%，远程银行智能服务占比83.82%，95528呼入侧意图识别大模型准确率近90%。该行已推出“浦小智”员工智能工作台，下一步按“2+5+N”路径推进，重点攻坚对公数字客户经理等旗舰产品。",
+      "url": "https://finance.sina.com.cn/roll/2026-11-12/doc-iniynppc3811696.shtml.md",
+      "source": "新浪财经",
+      "company": "浦发银行",
+      "published_at": "2026-11-12"
+    },
+    {
+      "category": "market",
+      "title": "美国OCC发布银行超级智能AI使用监管框架",
+      "summary": "美国货币监理署（OCC）出台《银行超级智能使用监管框架》，以目的、风险、控制、监督、韧性、保障六大支柱拆解为16项监管评估模块，覆盖信贷决策、支付、反欺诈、客户服务等场景。框架要求AI风险纳入银行既有风险体系，按后果可逆性、权限让渡程度与人工监督力度分四级，自主执行客户支付的智能代理属最高风险等级，需配置熔断开关、速率限制、最小权限和故障隔离。",
+      "url": "https://www.mpaypass.com.cn/news/202611/12181507.html",
+      "source": "移动支付网",
+      "company": "美国货币监理署",
+      "published_at": "2026-11-12 18:15"
+    },
+    {
+      "category": "market",
+      "title": "央行公示金融科技发展奖，AI项目占比27.3%",
+      "summary": "中国人民银行网站公示2025年度金融科技发展奖获奖项目，共297项，其中特等奖1项、一等奖19项，工商银行“新一代核心银行系统项目”获唯一特等奖。名称含AI、大模型、智能体等字样的项目81个、占27.3%，银行业涉及27个；评审领导小组会议提出积极探索人工智能在金融管理和服务领域的应用，同时防范模型应用伴生风险。公示期为2026年11月12日至11月25日。",
+      "url": "https://www.163.com/dy/article/LBILHMOK051982TB.html",
+      "source": "网易",
+      "company": "中国人民银行",
+      "published_at": "2026-11-12 22:04"
+    },
+    {
+      "category": "industry",
+      "title": "安硕信息中标绍兴银行大模型信贷数智报告平台",
+      "summary": "上海安硕信息技术股份有限公司中标绍兴银行大模型信贷数智报告平台，采购方式为单一来源采购，开标日期为2026年11月3日，成交结果已于11月12日公告。公告中成交人报价以掩码形式披露（9*****.00元，含税），未显示具体金额。",
+      "url": "https://wap.stockstar.com/detail/RB2026111200039535",
+      "source": "证券之星",
+      "company": "安硕信息",
+      "published_at": "2026-11-12"
+    },
+    {
+      "category": "industry",
+      "title": "Glia银行AI平台ARR突破1亿美元",
+      "summary": "据Glia披露，其银行AI平台年度经常性收入突破1亿美元并保持盈利，2026年第三季度AI解决方案销售额同比增长93%，平台服务逾700家银行与信用社，每日处理数千万次智能体交互，覆盖超9500万美国消费者。",
+      "url": "https://fintechmagazine.com/news/glia-passes-us-100m-in-arr-as-demand-for-banking-ai-surges",
+      "source": "FinTech Magazine",
+      "company": "Glia",
+      "published_at": "2026-11-12 20:26"
+    },
+    {
+      "category": "industry",
+      "title": "IBM与微软发布金融保险业AI智能体平台",
+      "summary": "IBM与微软发布企业级AI智能体构建、运行与治理平台Imagine Enterprise，初期覆盖金融、保险、零售三个行业，结合IBM Consulting的6000多个已构建智能体与微软Azure、Copilot Studio、Purview等基座，由双方常驻工程师支持从试验到生产。金融科技与资产管理公司SEI表示正评估该智能体技术应用。提供时间、价格和地域尚未披露。",
+      "url": "https://news.yahoo.co.jp/articles/55ae0cae494c0242cf08242ced8fd69f3407f17e",
+      "source": "Yahoo!ニュース",
+      "company": "IBM与微软",
+      "published_at": "2026-11-10"
+    },
+    {
+      "category": "technology",
+      "title": "阿里云上线Qwen4-Max预览版，支持百万级上下文",
+      "summary": "阿里云上线新一代旗舰模型Qwen4-Max预览版，支持文本生成、图像与视频理解及深度推理，上下文长度达100万token、最大输出约39.3万token。模型可调用外部工具与联网搜索，推理强度通过reasoning_effort参数调节，API兼容OpenAI与Anthropic接口。据阿里云披露，预览期内模型不再变动，结束后预览版将下线，使用需开通Token Plan订阅。",
+      "url": "https://news.mynavi.jp/article/20261112-5307569/",
+      "source": "マイナビニュース",
+      "company": "阿里云",
+      "published_at": "2026-11-11"
+    },
+    {
+      "category": "technology",
+      "title": "谷歌发布多模态决策模型Gemini Decision 1",
+      "summary": "谷歌上线Gemini Decisions API，由多模态决策模型Gemini Decision 1提供支持，可在一次前向传递中对最多1000个问题给出是/否、多选或评分结果，多选最高支持255个选项。据谷歌披露，处理16K token多模态上下文的中位延迟为50至100毫秒，每百万输入token收费0.10美元、输出token免费。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652742394&idx=2&sn=0553a73ecdae11a616eb6a7896eea195",
+      "source": "新智元(公众号)",
+      "company": "谷歌",
+      "published_at": "2026-11-11"
+    },
+    {
+      "category": "technology",
+      "title": "Grok Bot 1.0发布，可参会并主动领取任务",
+      "summary": "SpaceXAI发布Grok Bot 1.0，新增主动发现并接手工作、通过文字接入Google Meet、Zoom与Microsoft Teams会议，以及可多人共用的Team Bots等能力。据官方介绍，Bot会记住团队成员的偏好与既有决定，员工教授的流程可保存为可复用技能并在审核后共享，敏感操作执行前需审批。官方未披露统一的任务成功率或资源消耗对比数据。",
+      "url": "https://news.pedaily.cn/202611/571759.shtml",
+      "source": "投资界",
+      "company": "xAI",
+      "published_at": "2026-11-12 14:51"
+    }
+  ],
+  "sources": [
+    {
+      "title": "浦发银行披露对公开户智能化覆盖率89.4%",
+      "url": "https://finance.sina.com.cn/roll/2026-11-12/doc-iniynppc3811696.shtml.md"
+    },
+    {
+      "title": "美国OCC发布银行超级智能AI使用监管框架",
+      "url": "https://www.mpaypass.com.cn/news/202611/12181507.html"
+    },
+    {
+      "title": "央行公示金融科技发展奖，AI项目占比27.3%",
+      "url": "https://www.163.com/dy/article/LBILHMOK051982TB.html"
+    },
+    {
+      "title": "安硕信息中标绍兴银行大模型信贷数智报告平台",
+      "url": "https://wap.stockstar.com/detail/RB2026111200039535"
+    },
+    {
+      "title": "Glia银行AI平台ARR突破1亿美元",
+      "url": "https://fintechmagazine.com/news/glia-passes-us-100m-in-arr-as-demand-for-banking-ai-surges"
+    },
+    {
+      "title": "IBM与微软发布金融保险业AI智能体平台",
+      "url": "https://news.yahoo.co.jp/articles/55ae0cae494c0242cf08242ced8fd69f3407f17e"
+    },
+    {
+      "title": "阿里云上线Qwen4-Max预览版，支持百万级上下文",
+      "url": "https://news.mynavi.jp/article/20261112-5307569/"
+    },
+    {
+      "title": "谷歌发布多模态决策模型Gemini Decision 1",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652742394&idx=2&sn=0553a73ecdae11a616eb6a7896eea195"
+    },
+    {
+      "title": "Grok Bot 1.0发布，可参会并主动领取任务",
+      "url": "https://news.pedaily.cn/202611/571759.shtml"
+    }
+  ],
+  "confirmed_sent_events": []
+}
