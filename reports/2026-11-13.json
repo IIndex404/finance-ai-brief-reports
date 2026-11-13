@@ -14,8 +14,8 @@
   },
   "complete_nine": true,
   "delivery": {
-    "all_parts_sent": false,
-    "confirmed_sent_count": 0
+    "all_parts_sent": true,
+    "confirmed_sent_count": 9
   },
   "instruction": "全文请求仅原样输出context，保留加粗、换行、全部概要、数字和链接；禁止再次摘要或补充事实。"
 }

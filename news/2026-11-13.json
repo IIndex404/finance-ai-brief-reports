@@ -121,5 +121,60 @@
       "url": "https://news.pedaily.cn/202611/571759.shtml"
     }
   ],
-  "confirmed_sent_events": []
+  "confirmed_sent_events": [
+    {
+      "part": 1,
+      "category": "market",
+      "title": "央行公示金融科技发展奖，AI项目占比27.3%",
+      "url": "https://www.163.com/dy/article/LBILHMOK051982TB.html"
+    },
+    {
+      "part": 1,
+      "category": "market",
+      "title": "浦发银行披露对公开户智能化覆盖率89.4%",
+      "url": "https://finance.sina.com.cn/roll/2026-11-12/doc-iniynppc3811696.shtml.md"
+    },
+    {
+      "part": 1,
+      "category": "industry",
+      "title": "Glia银行AI平台ARR突破1亿美元",
+      "url": "https://fintechmagazine.com/news/glia-passes-us-100m-in-arr-as-demand-for-banking-ai-surges"
+    },
+    {
+      "part": 1,
+      "category": "technology",
+      "title": "谷歌发布多模态决策模型Gemini Decision 1",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652742394&idx=2&sn=0553a73ecdae11a616eb6a7896eea195"
+    },
+    {
+      "part": 1,
+      "category": "market",
+      "title": "美国OCC发布银行超级智能AI使用监管框架",
+      "url": "https://www.mpaypass.com.cn/news/202611/12181507.html"
+    },
+    {
+      "part": 1,
+      "category": "technology",
+      "title": "阿里云上线Qwen4-Max预览版，支持百万级上下文",
+      "url": "https://news.mynavi.jp/article/20261112-5307569/"
+    },
+    {
+      "part": 1,
+      "category": "technology",
+      "title": "Grok Bot 1.0发布，可参会并主动领取任务",
+      "url": "https://news.pedaily.cn/202611/571759.shtml"
+    },
+    {
+      "part": 1,
+      "category": "industry",
+      "title": "IBM与微软发布金融保险业AI智能体平台",
+      "url": "https://news.yahoo.co.jp/articles/55ae0cae494c0242cf08242ced8fd69f3407f17e"
+    },
+    {
+      "part": 1,
+      "category": "industry",
+      "title": "安硕信息中标绍兴银行大模型信贷数智报告平台",
+      "url": "https://wap.stockstar.com/detail/RB2026111200039535"
+    }
+  ]
 }
