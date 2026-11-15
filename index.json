@@ -1,8 +1,69 @@
 {
   "schema_version": 1,
-  "latest_report_date": "2026-11-13",
+  "latest_report_date": "2026-11-16",
   "latest_sent_date": "2026-11-13",
   "reports": [
+    {
+      "report_date": "2026-11-16",
+      "report_json": "reports/2026-11-16.json",
+      "report_markdown": "reports/2026-11-16.md",
+      "counts": {
+        "market": 3,
+        "industry": 3,
+        "technology": 3
+      },
+      "all_parts_sent": false,
+      "exact_sent_copy": false,
+      "sent_json": null,
+      "headlines": [
+        {
+          "category": "market",
+          "title": "兴业银行智能体平台一期采购公示中标候选人",
+          "url": "https://fj.zhiliaobiaoxun.com/article/119349328"
+        },
+        {
+          "category": "market",
+          "title": "交通银行陕西省分行AI算力平台公示中标候选人",
+          "url": "https://www.mpaypass.com.cn/news/202611/13091009.html"
+        },
+        {
+          "category": "market",
+          "title": "邮储银行推出智能量化策略平台U-Quant.AI",
+          "url": "https://finance.people.com.cn/BIG5/n1/2026/1113/c1004-40833326.html"
+        },
+        {
+          "category": "industry",
+          "title": "华为联合20余家伙伴发起金融智能体“百行”行动",
+          "url": "https://weibo.com/ttarticle/x/m/geoshow/id/2309405364881884315846?domain=local&utm_source=local"
+        },
+        {
+          "category": "industry",
+          "title": "AlphaPai面向全球上线AI原生投研平台",
+          "url": "https://news.taiwannet.com.tw/news/227585/%E9%A6%99%E6%B8%AF%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E5%91%A8%E7%8F%BE%E5%A0%B4%E7%99%BC%E4%BD%88%EF%BC%81alphapai%E9%9D%A2%E5%90%91%E5%85%A8%E7%90%83%E5%B0%88%E6%A5%AD%E6%8A%95%E8%B3%87%E8%80%85%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%B7%9A.html?categoryId=ChinaBusiness"
+        },
+        {
+          "category": "industry",
+          "title": "Tipalti推出应付账款智能体AP Agent并接入MCP",
+          "url": "https://thefintechtimes.com/tipalti-launches-ap-agent-with-mcp-links-to-enterprise-ai-tools/"
+        },
+        {
+          "category": "technology",
+          "title": "DeepSeek开放全家桶应用API并开源聊天前端",
+          "url": "https://www.qbitai.com/2026/11/510003.html"
+        },
+        {
+          "category": "technology",
+          "title": "清华提出CoACT：Coding Agent token开销降33%",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074362&idx=3&sn=da18bc335c6b6345ee976e60b4009347"
+        },
+        {
+          "category": "technology",
+          "title": "港科大提出视觉原生智能体框架与ODE数据演化",
+          "url": "https://www.sohu.com/a/1101883017_122014422?scm=10001.7746_13-119000.0.0-0-0-0-0.0&spm=smpc.channel_354.block3_32_P7Ovbu_1_fd.4.1794735317148uaiWrM7_7746"
+        }
+      ],
+      "confirmed_sent_events": []
+    },
     {
       "report_date": "2026-11-13",
       "report_json": "reports/2026-11-13.json",

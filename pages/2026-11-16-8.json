@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-16",
+  "page": 8,
+  "total_pages": 10,
+  "text1": "ompletions接口下支持相关对话扩展功能，何时检索、读哪些网页由模型自动完成。\n- **新闻链接：**[量子位](https://www.qbitai.c",
+  "text2": "om/2026/11/510003.html)\n\n### 2. 清华提出CoACT：Coding Agent token开销降33%\n- **新闻概要：**11",
+  "text3": "月13日，清华大学人工智能学院团队提出面向Coding Agent的observation压缩方法CoACT，以“下一步动作保持”为目标训练轻量压缩器。在SWE",
+  "text4": "-bench Verified的200个实例、三个Agent模型上，平均减少33.0%的总token消耗，平均PASS@1从69.0%升至71.0%。该工作已被"
+}
