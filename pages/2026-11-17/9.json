@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-17",
+  "page": 9,
+  "total_pages": 9,
+  "text1": "路由\n- **新闻概要：**11月16日，Hugging Face宣布其Inference Providers改用OpenRouter路由，语言模型请求按实时价",
+  "text2": "格、速度与可靠性选择供应商，失败自动重试切换，兼容OpenAI与Anthropic接口格式，同一HF token可调用Hub上的开放权重模型。据其引用数据，Op",
+  "text3": "enRouter上开放权重模型token占比从2025年10月的26.8%升至2026年9月末的71.7%。\n- **新闻链接：**[Hugging Face ",
+  "text4": "Blog](https://huggingface.co/blog/openrouter)\n"
+}

@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-17",
+  "page": 8,
+  "total_pages": 9,
+  "text1": "2.1 Flash科学模型\n- **新闻概要：**11月16日，上海人工智能实验室联合复旦大学、中科院软件所等机构发布并开源科学多模态大模型书生-S2.1 Fl",
+  "text2": "ash，支持分子、晶体、蛋白质序列、光谱等十余类科学输入，可在Blender、3D Slicer、QGIS与CAD环境中完成建模分析。据该团队披露，模型在MLE",
+  "text3": "-bench Lite得90.3分，33项通用智能体基准中取得4项第一、7项第二，并公布限时优惠调用价格。\n- **新闻链接：**[网易](https://ww",
+  "text4": "w.163.com/dy/article/LBSS354N0511AQHO.html)\n\n### 3. Hugging Face推理服务改用OpenRouter"
+}
