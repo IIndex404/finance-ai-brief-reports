@@ -121,5 +121,60 @@
       "url": "https://huggingface.co/blog/openrouter"
     }
   ],
-  "confirmed_sent_events": []
+  "confirmed_sent_events": [
+    {
+      "part": 1,
+      "category": "technology",
+      "title": "上海AI实验室开源书生-S2.1 Flash科学模型",
+      "url": "https://www.163.com/dy/article/LBSS354N0511AQHO.html"
+    },
+    {
+      "part": 1,
+      "category": "industry",
+      "title": "恒银科技前三季度营收降37% AI应用暂未形成收入",
+      "url": "https://m.21jingji.com/article/20261116/herald/08dd770ea689e63749cd2b0f195116fd.html"
+    },
+    {
+      "part": 1,
+      "category": "market",
+      "title": "恒丰银行招标外网AI智能体工具外部数据服务",
+      "url": "http://www.365trade.com.cn/zfwzb/898227.jhtml"
+    },
+    {
+      "part": 1,
+      "category": "industry",
+      "title": "Regnology与ActiveViam合作扩展风险智能至监管端",
+      "url": "https://www.ansa.it/sito/notizie/economia/business_wire/2026/11/16/regnology-and-activeviam-partner-to-bring-the-same-granular-explainable-risk_baaf6d7e-09a5-466c-a252-44df738470e1.html"
+    },
+    {
+      "part": 1,
+      "category": "market",
+      "title": "兴业银行征集企业级知识平台产品与研发供应商",
+      "url": "https://cg.cib.com.cn/cms/default/webfile/gyszj/20261116/1307004741951160320.html"
+    },
+    {
+      "part": 1,
+      "category": "market",
+      "title": "南京银行招标基于AI的智能信贷辅助审批系统",
+      "url": "https://m.chinabidding.cn/zbgg/U-vzY90Z4.html"
+    },
+    {
+      "part": 1,
+      "category": "technology",
+      "title": "Hugging Face推理服务改用OpenRouter路由",
+      "url": "https://huggingface.co/blog/openrouter"
+    },
+    {
+      "part": 1,
+      "category": "technology",
+      "title": "阿里巴巴发布Qwen4-Max，单任务成本降6成",
+      "url": "https://www.qbitai.com/2026/11/510486.html"
+    },
+    {
+      "part": 1,
+      "category": "industry",
+      "title": "南天信息中标云南农信大模型应用场景建设项目",
+      "url": "http://stock.stockstar.com/RB2026111600032543.shtml"
+    }
+  ]
 }
