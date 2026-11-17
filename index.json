@@ -1,8 +1,69 @@
 {
   "schema_version": 1,
-  "latest_report_date": "2026-11-17",
+  "latest_report_date": "2026-11-18",
   "latest_sent_date": "2026-11-17",
   "reports": [
+    {
+      "report_date": "2026-11-18",
+      "report_json": "reports/2026-11-18.json",
+      "report_markdown": "reports/2026-11-18.md",
+      "counts": {
+        "market": 3,
+        "industry": 3,
+        "technology": 3
+      },
+      "all_parts_sent": false,
+      "exact_sent_copy": false,
+      "sent_json": null,
+      "headlines": [
+        {
+          "category": "market",
+          "title": "丰业银行上线对公信贷AI助手",
+          "url": "https://www.scotiabank.com/corporate/en/home/media-centre/media-centre/news-release.html?id=4355&language=en"
+        },
+        {
+          "category": "market",
+          "title": "工商银行廖林披露工银智涌落地600余个场景",
+          "url": "https://cn.ai123.com/news/18376"
+        },
+        {
+          "category": "market",
+          "title": "山东城商行联盟征集AI智算卡POC测试供应商",
+          "url": "https://www.qianlima.com/bid-648407861.html"
+        },
+        {
+          "category": "industry",
+          "title": "Savana发布银行业运营智能体Acta，支持139项操作",
+          "url": "https://www.businesswirenews.com/news/home/20261117211267/en/Savana-Launches-Acta-a-New-Class-of-Operational-AI-That-Carries-Out-Banking-Work-End-to-End"
+        },
+        {
+          "category": "industry",
+          "title": "Model ML完成2.5亿美元B轮，估值15亿美元",
+          "url": "https://tech.eu/2026/11/17/model-ml-hits-15b-valuation-with-250m-raise-just-18-months-after-emerging-from-stealth/"
+        },
+        {
+          "category": "industry",
+          "title": "安硕信息中标日照银行AI信贷助手项目",
+          "url": "https://www.mpaypass.com.cn/news/202611/16104831.html"
+        },
+        {
+          "category": "technology",
+          "title": "微软开源TokenEconomizer，编程智能体成本降18.4%",
+          "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/"
+        },
+        {
+          "category": "technology",
+          "title": "vLLM v0.34.0默认扩展KV缓存并提速",
+          "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0"
+        },
+        {
+          "category": "technology",
+          "title": "字节跳动等开源Axion 1.0智能体训练方案",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074900&idx=3&sn=b8ce1837d869e2563a888e3df5a04a89"
+        }
+      ],
+      "confirmed_sent_events": []
+    },
     {
       "report_date": "2026-11-17",
       "report_json": "reports/2026-11-17.json",

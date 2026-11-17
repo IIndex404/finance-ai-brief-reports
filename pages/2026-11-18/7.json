@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-18",
+  "page": 7,
+  "total_pages": 10,
+  "text1": "：大模型、智能体与开源成果\n\n### 1. 微软开源TokenEconomizer，编程智能体成本降18.4%\n- **新闻概要：**11月17日，微软研究院与",
+  "text2": "UC Berkeley、Microsoft Security开源插件TokenEconomizer，可从AI编程智能体的历史会话学习，在277个SWE-Benc",
+  "text3": "h任务、五种智能体与模型组合上平均降低成本18.4%—30.9%，任务成功率基本稳定。插件通过微技能、工具剪枝和失败循环干预减少重复探索与无效工具加载。\n- *",
+  "text4": "*新闻链接：**[Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/"
+}

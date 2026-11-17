@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-18",
+  "page": 8,
+  "total_pages": 10,
+  "text1": "tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient",
+  "text2": "/)\n\n### 2. vLLM v0.34.0默认扩展KV缓存并提速\n- **新闻概要：**11月17日，vLLM项目发布v0.34.0，新增10个模型支持，默",
+  "text3": "认启用可扩展KV缓存，按预热后实际空闲显存确定缓存大小；在GB200上Step5 NVFP4 MoE解码最高提速1.95倍，GLM-5.3-Flash输出吞吐提",
+  "text4": "升1.6倍。该版本移除Model Runner V1，默认块大小改为64，并列出多项破坏性变更。\n- **新闻链接：**[GitHub · vllm-proje"
+}
