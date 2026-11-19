@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-19",
+  "page": 8,
+  "total_pages": 9,
+  "text1": "S 2026发表论文，将GRPO的探索不足与难度不敏感归因于“隐式优势对称性”，并提出A-GRAE非对称优势重塑方法，可即插即用于GRPO及其变体，不增加额外算",
+  "text2": "力。据论文披露，DAPO+A-GRAE在AIME2025上k=1到256的平均表现达53.3%，高于原版DAPO的52.2%。代码已开源。\n- **新闻链接：*",
+  "text3": "*[m.x-techcon.com](https://m.x-techcon.com/article/210273.html)\n\n### 3. Vercel开源",
+  "text4": "智能体框架eve 1.0正式可用\n- **新闻概要：**11月18日，Vercel宣布开源智能体框架eve 1.0正式可用，采用Apache-2.0协议，支持自"
+}

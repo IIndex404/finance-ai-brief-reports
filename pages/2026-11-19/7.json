@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-19",
+  "page": 7,
+  "total_pages": 9,
+  "text1": "，OpenAI发布前沿模型GPT-6.2 Astra与高效模型GPT-6.2 Sol。据其披露，Astra在Agents' Last Exam上比GPT-6 A",
+  "text2": "stra高5.2分，任务成本不足后者三分之一；API输入、输出价格比前代低20%，缓存输入价格下降60%。Sol在FrontierCode 2.0上与Astra",
+  "text3": "相差0.5分，成本约为其五分之一。\n- **新闻链接：**[OpenAI News](https://openai.com/index/introducing-",
+  "text4": "gpt-6-2-astra-sol)\n\n### 2. 港大提出A-GRAE，破解GRPO探索不足\n- **新闻概要：**11月18日，香港大学团队在NeurIP"
+}
