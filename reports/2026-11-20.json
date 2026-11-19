@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "found": true,
+  "origin": "archive",
+  "report_date": "2026-11-20",
+  "full_report": true,
+  "response_mode": "verbatim_markdown",
+  "context": "# 对公金融与AI每日简报 · 2026-11-20\n\n## 一、看市场：对公金融AI新需求\n\n### 1. 网商银行展示百灵2.0并披露AI工作台成效\n- **新闻概要：**11月18日，网商银行在新加坡金融科技节展示小微普惠金融Agent百灵2.0，该智能体9月推出，面向4200万小微经营者提供信贷、票据、财税服务；现场案例中餐饮店主经多轮对话与人工审批获40万元额度，用时约10分钟。该行称已确立Agent First原则并搭建八大AI工作台，量化风控工作台使正常经营者误处置率降低约40%，人审风控工作台使复杂贷款申请处理能力提升近20倍。\n- **新闻链接：**[证券之星](https://wap.stockstar.com/detail/IG2026111900022204)\n\n### 2. 湖北省农信联社AI中台一期开标，首候选人报价295万元\n- **新闻概要：**11月19日，湖北省农村信用社联合社网络信息中心AI中台（一期）项目开标，第一中标候选人投标报价295万元。项目包括AI中台软件平台建设、首批业务场景建设及AI建设咨询服务，平台涵盖智能体平台、大模型知识库、AI网关和大模型安全围栏；首批场景为贷款助手、AI审计助手、智能问数和客户经理助手，另含一年维保服务。\n- **新闻链接：**[jiajuzhaobiao.com](https://www.jiajuzhaobiao.com/news-e44ae850f1c455dfe23794c06c85428c/)\n\n### 3. 摩根大通与现代信用卡完成智能体跨境资金调拨验证\n- **新闻概要：**11月18日，摩根大通旗下Kinexys与现代信用卡完成概念验证：双方AI智能体直接向三家银行询价、比价并执行外汇兑换与资金划转，模拟境外子公司间的欧元账户补足，未涉及真实资金。Kinexys负责身份核验、授权额度校验与审计留痕，超限交易转人工审批或被拒。摩根大通称这是首个基于私有链的机构间智能体自主交易测试，双方计划2027年上半年开展多智能体参与的新阶段。\n- **新闻链接：**[CoinPaprika](https://coinpaprika.com/news/hyundai-jpmorgan-tested-ai-agents-move-money)\n\n## 二、看行业：AI应用与商业化\n\n### 1. 华为发布Fintelligent金融AI解决方案\n- **新闻概要：**11月19日，华为在2026新加坡金融科技节发布面向全球金融机构的Fintelligent AI解决方案，基于开放混合AI架构构建智能体工厂、Token工厂和数据知识工厂。该方案提出“两超多专”金融智能体架构，在信贷、营销、风控、财富管理等领域构建专业智能体，并为客户和员工分别打造超级智能体。据华为披露，其已服务全球7100多家金融客户，包括全球前100家银行中的54家。\n- **新闻链接：**[Huawei Enterprise](https://e.huawei.com/cn/news/2026/industries/finance/singapore-fintech-festival-2026)\n\n### 2. Arva AI完成2000万美元A轮融资，专注银行AI智能体\n- **新闻概要：**11月19日，Arva AI宣布完成2000万美元A轮融资，由Arthur Ventures领投，Y Combinator与Gradient参投，资金将用于研发更高精度的自有模型并扩展其智能体基础设施AgentCore。据该公司披露，其智能体已在合规、开户、支付运营与放贷等银行后台决策中落地，客户包括一家美国前十大银行、一家标普500支付机构及金融科技公司Wise。\n- **新闻链接：**[FinTech Global](https://fintech.global/2026/11/19/arva-ai-lands-20m-series-a-for-ai-banking-agents/?utm_source=rss&utm_medium=rss&utm_campaign=arva-ai-lands-20m-series-a-for-ai-banking-agents)\n\n### 3. Arcesium推出面向对冲基金的AI就绪平台Blue\n- **新闻概要：**11月19日，Arcesium推出面向成长型对冲基金的集成平台Arcesium Blue，将云原生软件与管理服务结合，覆盖实时组合管理、订单执行、合规风控及交易后运营。其核心为Aquata数据平台，支持AI原生工作流，并提供含数百个预置智能体与应用的嵌入式AI环境Arcesium Intelligence。Horizon Asset为其旗舰客户。\n- **新闻链接：**[FinTech Global](https://fintech.global/2026/11/19/arcesium-unveils-blue-platform-for-growing-hedge-funds/?utm_source=rss&utm_medium=rss&utm_campaign=arcesium-unveils-blue-platform-for-growing-hedge-funds)\n\n## 三、看技术：大模型、智能体与开源成果\n\n### 1. 谷歌发布Gemini 4 Neon，任务成本降三成\n- **新闻概要：**11月19日，谷歌发布Gemini 4 Neon模型，上下文窗口100万token，支持四档思考深度，定价每百万输入token 3美元、输出15美元，缓存输入0.15美元。据官方数据，其在Artificial Analysis智能指数xhigh思考档得61分列第3，默认档位单任务成本较Carbon低32%，并在Legal Research Bench与Tax Agent Bench居首。\n- **新闻链接：**[Google DeepMind Blog](https://deepmind.google/blog/introducing-gemini-4-neon/)\n\n### 2. 英伟达SEED降低混合模型记忆开销，吞吐提升42%\n- **新闻概要：**11月19日，英伟达研究者提出SEED方法，在不改动原模型权重的前提下，降低混合架构大模型写出深层记忆与存储循环状态的开销。据论文，SEED让除最后一个以外的输入token只运行前31层即可写出后17层的KV Cache与循环状态，并把循环状态压缩到约四分之一。在GB300与SGLang上，Qwen3.8-Flash-Next的每GPU峰值吞吐提升16%～42%。\n- **新闻链接：**[机器之心（公众号）](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075302&idx=3&sn=3638e59c38cbc04d5ff6d800abd49c51)\n\n### 3. 八所高校发布EFE编程智能体具身评测\n- **新闻概要：**11月19日，西北大学、卡内基梅隆大学等8所高校研究者提出Embodied First Exam（EFE）评测框架，把通用编程智能体接入仿真机器人，覆盖1156个任务、47种机器人。结果显示，最强的Claude Fable 5.2在同一批391个核心任务上特权模式解出80%，仅靠传感器的标准模式只解出47%；456项标准模式核心测试中有169项无人解出。\n- **新闻链接：**[新智元（公众号）](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652744025&idx=3&sn=281581d8045dcf2a69ab7a550d1c1f47)\n",
+  "sha256": "33398b3e3a4047789fcdf7262edf00a3ec3f43ef863c78a9f56c1a60ab1919f4",
+  "counts": {
+    "market": 3,
+    "industry": 3,
+    "technology": 3
+  },
+  "complete_nine": true,
+  "delivery": {
+    "all_parts_sent": false,
+    "confirmed_sent_count": 0
+  },
+  "instruction": "全文请求仅原样输出context，保留加粗、换行、全部概要、数字和链接；禁止再次摘要或补充事实。"
+}

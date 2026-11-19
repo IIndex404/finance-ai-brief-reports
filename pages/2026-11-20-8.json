@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-20",
+  "page": 8,
+  "total_pages": 11,
+  "text1": "与开源成果\n\n### 1. 谷歌发布Gemini 4 Neon，任务成本降三成\n- **新闻概要：**11月19日，谷歌发布Gemini 4 Neon模型，上下",
+  "text2": "文窗口100万token，支持四档思考深度，定价每百万输入token 3美元、输出15美元，缓存输入0.15美元。据官方数据，其在Artificial Anal",
+  "text3": "ysis智能指数xhigh思考档得61分列第3，默认档位单任务成本较Carbon低32%，并在Legal Research Bench与Tax Agent Be",
+  "text4": "nch居首。\n- **新闻链接：**[Google DeepMind Blog](https://deepmind.google/blog/introducin"
+}

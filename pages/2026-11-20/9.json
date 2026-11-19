@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-20",
+  "page": 9,
+  "total_pages": 11,
+  "text1": "g-gemini-4-neon/)\n\n### 2. 英伟达SEED降低混合模型记忆开销，吞吐提升42%\n- **新闻概要：**11月19日，英伟达研究者提出SE",
+  "text2": "ED方法，在不改动原模型权重的前提下，降低混合架构大模型写出深层记忆与存储循环状态的开销。据论文，SEED让除最后一个以外的输入token只运行前31层即可写出",
+  "text3": "后17层的KV Cache与循环状态，并把循环状态压缩到约四分之一。在GB300与SGLang上，Qwen3.8-Flash-Next的每GPU峰值吞吐提升16",
+  "text4": "%～42%。\n- **新闻链接：**[机器之心（公众号）](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&"
+}
