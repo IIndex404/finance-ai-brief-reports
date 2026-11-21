@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-21",
+  "page": 8,
+  "total_pages": 11,
+  "text1": "试、模型训练、分类器与API层防护结合，重点防止攻击者提取模型受保护的推理链。据其内部自动化红队评估，攻击者恢复受保护推理的平均成功率从GPT-6 Astra的",
+  "text2": "54.0%降至GPT-6.2 Astra的0.2%；网络安全能力迁移实验中，用教师模型精确推理轨迹训练的学生模型得分高于仅用推理摘要训练的版本。\n- **新闻链",
+  "text3": "接：**[OpenAI News](https://openai.com/index/combatting-adversarial-distillation)\n",
+  "text4": "\n### 3. Thinking Machines发布26B本地多模态模型\n- **新闻概要：**11月20日，Thinking Machines Lab发布面"
+}

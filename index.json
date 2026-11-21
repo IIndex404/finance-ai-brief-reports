@@ -1,8 +1,69 @@
 {
   "schema_version": 1,
-  "latest_report_date": "2026-11-20",
+  "latest_report_date": "2026-11-21",
   "latest_sent_date": "2026-11-20",
   "reports": [
+    {
+      "report_date": "2026-11-21",
+      "report_json": "reports/2026-11-21.json",
+      "report_markdown": "reports/2026-11-21.md",
+      "counts": {
+        "market": 3,
+        "industry": 3,
+        "technology": 3
+      },
+      "all_parts_sent": false,
+      "exact_sent_copy": false,
+      "sent_json": null,
+      "headlines": [
+        {
+          "category": "market",
+          "title": "浦发银行2.76亿元采购昇腾超节点中标落地",
+          "url": "https://ai.zol.com.cn/1275/12750885.html"
+        },
+        {
+          "category": "market",
+          "title": "江苏省发布人工智能+金融三年行动方案及五张清单",
+          "url": "https://news.sohu.com/a/1104278366_120578424?scm=10008.1476_13-1476_13-88_88.0-5304001-5305001.0-1-0-0-0.0&spm=smpc.content.fspic.1.17951831728746BdLiiy"
+        },
+        {
+          "category": "market",
+          "title": "中国人寿集团招标智能中台项目",
+          "url": "https://www.gxzbcg.com.cn/sbzbcg/646624.html"
+        },
+        {
+          "category": "industry",
+          "title": "商汤科技发布小浣熊金融版，披露平安银行风控案例",
+          "url": "https://news.10jqka.com.cn/20261120/c682042940.shtml"
+        },
+        {
+          "category": "industry",
+          "title": "Hebbia披露GPT-6 Astra金融研究测试结果",
+          "url": "https://openai.com/business/customer-stories/hebbia"
+        },
+        {
+          "category": "industry",
+          "title": "移卡与万事达卡合作探索AI智能体支付",
+          "url": "https://www.mpaypass.com.cn/news/202611/20092212.html"
+        },
+        {
+          "category": "technology",
+          "title": "Hugging Face发布harness适配器提升智能体效率",
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale"
+        },
+        {
+          "category": "technology",
+          "title": "OpenAI披露对抗蒸馏防御，推理链提取成功率降至0.2%",
+          "url": "https://openai.com/index/combatting-adversarial-distillation"
+        },
+        {
+          "category": "technology",
+          "title": "Thinking Machines发布26B本地多模态模型",
+          "url": "https://huggingface.co/blog/inkling2mini"
+        }
+      ],
+      "confirmed_sent_events": []
+    },
     {
       "report_date": "2026-11-20",
       "report_json": "reports/2026-11-20.json",

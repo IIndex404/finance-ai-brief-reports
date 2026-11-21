@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-21",
+  "page": 7,
+  "total_pages": 11,
+  "text1": "ermes Agent内分别对Qwen3.8-27B做强化学习训练LoRA。据其披露，pi框架下Terminal-Bench 2.1通过率从39%提升至55%，",
+  "text2": "单任务平均token从2.9K降至1.5K；三个适配器可合并为一个在三种框架下通用的超级适配器，适配器、GGUF与RL任务已在Hub公开。\n- **新闻链接：*",
+  "text3": "*[Hugging Face Blog](https://huggingface.co/blog/harness-adapters-at-scale)\n\n###",
+  "text4": " 2. OpenAI披露对抗蒸馏防御，推理链提取成功率降至0.2%\n- **新闻概要：**11月20日，OpenAI发文介绍其检测与阻断对抗蒸馏的做法，把对抗测"
+}

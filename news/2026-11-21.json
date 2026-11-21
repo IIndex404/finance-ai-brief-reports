@@ -1,0 +1,125 @@
+{
+  "report_date": "2026-11-21",
+  "events": [
+    {
+      "category": "market",
+      "title": "浦发银行2.76亿元采购昇腾超节点中标落地",
+      "summary": "浦发银行公布2026年人工智能算力扩容建设项目之昇腾超节点采购中标结果，含税中标金额约2.76亿元，中标供应商为上海艾三信息科技有限公司。该项目采购千卡级昇腾超节点，采用灵衢高速互联与液冷散热，可用于大模型训练、智能投研与实时风控推理等场景。",
+      "url": "https://ai.zol.com.cn/1275/12750885.html",
+      "source": "中关村在线",
+      "company": "浦发银行",
+      "published_at": "2026-11-20 18:42"
+    },
+    {
+      "category": "market",
+      "title": "江苏省发布人工智能+金融三年行动方案及五张清单",
+      "summary": "江苏省政府举行“人工智能+金融”路演，发布《江苏省“人工智能+金融”行动方案（2026—2028年）》及首批五张清单。方案提出到2028年建成省级金融可信数据空间，打造60个左右金融行业高质量数据集，培育100个左右可复制推广的典型应用场景，聚焦资源配置、服务优化、风险防控、运营管理与监管科技。",
+      "url": "https://news.sohu.com/a/1104278366_120578424?scm=10008.1476_13-1476_13-88_88.0-5304001-5305001.0-1-0-0-0.0&spm=smpc.content.fspic.1.17951831728746BdLiiy",
+      "source": "Sohu",
+      "company": "江苏省政府",
+      "published_at": "2026-11-20 20:32"
+    },
+    {
+      "category": "market",
+      "title": "中国人寿集团招标智能中台项目",
+      "summary": "中国人寿保险（集团）公司发布智能中台项目招标公告，拟采购1家投标人为集团本级提供智能应用开发、集成、运行、运营及安全管理等基础能力，并同步建设智能资源共享市场，实现智能体、模型、插件工具等人工智能能力的统一沉淀与复用。项目服务期限18个月，含6个月实施上线验收及12个月免费运维。",
+      "url": "https://www.gxzbcg.com.cn/sbzbcg/646624.html",
+      "source": "gxzbcg.com.cn",
+      "company": "中国人寿",
+      "published_at": "2026-11-20"
+    },
+    {
+      "category": "industry",
+      "title": "商汤科技发布小浣熊金融版，披露平安银行风控案例",
+      "summary": "商汤科技推出面向金融行业的“商汤小浣熊·金融版”，依托日日新大模型体系覆盖信贷风控、保险理赔、合规管理、经营分析、投研洞察五大场景。据该公司披露，在与平安银行的对公信贷风控合作中，尽调报告最快30分钟生成、监测覆盖率超99%；与建信人寿的合作把数据提取分析从3至5天缩短至分钟级。产品强调结论可追溯与私有化部署。",
+      "url": "https://news.10jqka.com.cn/20261120/c682042940.shtml",
+      "source": "同花顺",
+      "company": "商汤科技",
+      "published_at": "2026-11-19"
+    },
+    {
+      "category": "industry",
+      "title": "Hebbia披露GPT-6 Astra金融研究测试结果",
+      "summary": "金融研究软件商Hebbia公布使用OpenAI GPT-6 Astra的测试结果：据其测试，该模型在引用所需来源类型上比最佳替代模型高13.6个百分点，99.5%的引用摘录与问题相关，演示文稿需求满足率97.9%、领先14.4个百分点。Hebbia的Matrix用于投行尽调与估值材料制作，测试于2026年8至9月用预发布版本完成。",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI News",
+      "company": "Hebbia",
+      "published_at": "2026-11-20 08:00"
+    },
+    {
+      "category": "industry",
+      "title": "移卡与万事达卡合作探索AI智能体支付",
+      "summary": "移卡与万事达卡在新加坡金融科技节期间签署合作协议，围绕AI Agent驱动的商业交易展开合作：万事达卡App计划接入移卡旗下YeahPay的AI Agent支付服务，由YeahPay提供支付及交易处理能力，并连接富匙科技的商户与商品资源。YeahPay已在官网开放AI Agent支付SDK及技术文档，双方计划以具体消费场景验证对话式下单支付流程。",
+      "url": "https://www.mpaypass.com.cn/news/202611/20092212.html",
+      "source": "移动支付网",
+      "company": "移卡",
+      "published_at": "2026-11-19"
+    },
+    {
+      "category": "technology",
+      "title": "Hugging Face发布harness适配器提升智能体效率",
+      "summary": "Hugging Face发布harness适配器方案：在三套智能体框架pi、OpenCode、Hermes Agent内分别对Qwen3.8-27B做强化学习训练LoRA。据其披露，pi框架下Terminal-Bench 2.1通过率从39%提升至55%，单任务平均token从2.9K降至1.5K；三个适配器可合并为一个在三种框架下通用的超级适配器，适配器、GGUF与RL任务已在Hub公开。",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "published_at": "2026-11-20 08:00"
+    },
+    {
+      "category": "technology",
+      "title": "OpenAI披露对抗蒸馏防御，推理链提取成功率降至0.2%",
+      "summary": "OpenAI发文介绍其检测与阻断对抗蒸馏的做法，把对抗测试、模型训练、分类器与API层防护结合，重点防止攻击者提取模型受保护的推理链。据其内部自动化红队评估，攻击者恢复受保护推理的平均成功率从GPT-6 Astra的54.0%降至GPT-6.2 Astra的0.2%；网络安全能力迁移实验中，用教师模型精确推理轨迹训练的学生模型得分高于仅用推理摘要训练的版本。",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "published_at": "2026-11-20 18:00"
+    },
+    {
+      "category": "technology",
+      "title": "Thinking Machines发布26B本地多模态模型",
+      "summary": "Thinking Machines Lab发布面向本地部署的Inkling 2 Mini：多模态混合专家模型，物理总参数约26B、每token激活3B，中间12层循环三次、等效48层，支持100万token上下文与图文输入，权重以NVFP4与MXFP8混合精度发布并附带DSpark草稿模型。",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "source": "Hugging Face Blog",
+      "company": "Thinking Machines Lab",
+      "published_at": "2026-11-20 08:00"
+    }
+  ],
+  "sources": [
+    {
+      "title": "浦发银行2.76亿元采购昇腾超节点中标落地",
+      "url": "https://ai.zol.com.cn/1275/12750885.html"
+    },
+    {
+      "title": "江苏省发布人工智能+金融三年行动方案及五张清单",
+      "url": "https://news.sohu.com/a/1104278366_120578424?scm=10008.1476_13-1476_13-88_88.0-5304001-5305001.0-1-0-0-0.0&spm=smpc.content.fspic.1.17951831728746BdLiiy"
+    },
+    {
+      "title": "中国人寿集团招标智能中台项目",
+      "url": "https://www.gxzbcg.com.cn/sbzbcg/646624.html"
+    },
+    {
+      "title": "商汤科技发布小浣熊金融版，披露平安银行风控案例",
+      "url": "https://news.10jqka.com.cn/20261120/c682042940.shtml"
+    },
+    {
+      "title": "Hebbia披露GPT-6 Astra金融研究测试结果",
+      "url": "https://openai.com/business/customer-stories/hebbia"
+    },
+    {
+      "title": "移卡与万事达卡合作探索AI智能体支付",
+      "url": "https://www.mpaypass.com.cn/news/202611/20092212.html"
+    },
+    {
+      "title": "Hugging Face发布harness适配器提升智能体效率",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale"
+    },
+    {
+      "title": "OpenAI披露对抗蒸馏防御，推理链提取成功率降至0.2%",
+      "url": "https://openai.com/index/combatting-adversarial-distillation"
+    },
+    {
+      "title": "Thinking Machines发布26B本地多模态模型",
+      "url": "https://huggingface.co/blog/inkling2mini"
+    }
+  ],
+  "confirmed_sent_events": []
+}
