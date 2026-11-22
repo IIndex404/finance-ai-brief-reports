@@ -1,0 +1,125 @@
+{
+  "report_date": "2026-11-23",
+  "events": [
+    {
+      "category": "market",
+      "title": "邮储银行大模型平台新增功能拟单一来源采购智谱",
+      "summary": "邮储银行发布单一来源采前公示，就大模型平台开发工具系统2026年新增功能工程的大模型平台应用软件技术开发项目，邀请北京智谱华章参与谈判，采购内容为在现有大模型平台上新增功能、优化已有架构。该行称此举是为保护已有投资、节约建设资金、缩短工期，谈判文件通过邮银易采系统发放。",
+      "url": "https://bj.zhiliaobiaoxun.com/article/120202796",
+      "source": "知了标讯",
+      "company": "邮储银行",
+      "published_at": "2026-11-20"
+    },
+    {
+      "category": "market",
+      "title": "交通银行披露大模型信贷风控系统创新应用声明书",
+      "summary": "交通银行披露基于大模型与规则引擎的全流程信贷风控系统创新应用声明书，系统由该行自主研发，并完成模型选型、微调训练与参数调优。其采用“大模型初筛+规则引擎复核”机制：贷前自动提取诉讼、经营异常、行政处罚等负面信息生成授信报告，贷后整合纳税、司法诉讼、工商变更、关联方风险等数据输出可追溯的分级预警。",
+      "url": "https://www.mpaypass.com.cn/download/202611/20131307.html",
+      "source": "移动支付网",
+      "company": "交通银行",
+      "published_at": "2026-11-20 13:13"
+    },
+    {
+      "category": "market",
+      "title": "中信银行征集多智能体渗透测试工具箱供应商",
+      "summary": "中信银行启动智能化安全漏洞渗透工具箱采购项目供应商征集，要求以大模型与多智能体技术为核心，通过智能规划、自主编排与多轮迭代执行，对授权范围内资产开展智能化漏洞发现与验证。采购包含工具箱软件、配套硬件、实施服务及首年运营支持，仅限原厂商报名，且需具备至少两个AI智能渗透测试或AI攻击面验证实施案例。",
+      "url": "https://ebid.cfhc.citic/cms/default/webfile/gyszj/20261120/1308375179046420480.html",
+      "source": "中信金控采购共享平台",
+      "company": "中信银行",
+      "published_at": "2026-11-19"
+    },
+    {
+      "category": "industry",
+      "title": "宇信科技启动金融智算Token工厂（湖北）",
+      "summary": "宇信科技在2026算力互联网大会上启动金融智算Token工厂（湖北），联合湖北大数据集团算力科技有限公司、硅基流动共建区域金融智算服务平台。平台面向银行与非银金融机构提供专属算力、专属模型和按Token用量计费三种服务，已接入DeepSeek、GLM、千问等模型，覆盖智能风控、信贷辅助、智能客服等场景。",
+      "url": "http://www.investorscn.com/2026/11/20/138286/",
+      "source": "投资家网",
+      "company": "宇信科技",
+      "published_at": "2026-11-18"
+    },
+    {
+      "category": "industry",
+      "title": "连连数字发布AI数字员工平台并完成B2B智能体支付",
+      "summary": "连连数字在新加坡金融科技节期间发布LianLian XWorker AI数字员工平台，面向跨境商业场景调度专业智能体分工执行任务，并以Agent Wallet、XPay管理智能体身份、支付意图、权限与预算。此前连连数字与Visa合作，用专为智能体设计的支付标记完成亚太首笔B2B智能体真实交易，为一笔办公用品采购。",
+      "url": "https://www.tmtpost.com/8213773.html",
+      "source": "钛媒体",
+      "company": "连连数字",
+      "published_at": "2026-11-19"
+    },
+    {
+      "category": "industry",
+      "title": "烯牛数据联合腾讯WorkBuddy上线烯牛Buddy",
+      "summary": "烯牛数据联合腾讯WorkBuddy正式上线「烯牛Buddy」AI投研工作台，面向投资机构、银行、券商、保险等用户提供基于一级市场金融数据的AI投研服务。首期以十一项技能覆盖LP、GP、企业三个维度的募投管退环节，用户需在WorkBuddy中授权接入后使用。",
+      "url": "https://www.sohu.com/a/1103978100_673344?scm=10001.7746_13-119000.0.0-0-0-0-0.0&spm=smpc.channel_354.block3_32_P7Ovbu_1_fd.28.17951427445758sQD7fi_7746",
+      "source": "Sohu",
+      "company": "烯牛数据",
+      "published_at": "2026-11-18"
+    },
+    {
+      "category": "technology",
+      "title": "清华与滴滴提出JANUS：微调后矫正恢复旧知识",
+      "summary": "清华大学与滴滴自动驾驶联合提出JANUS后处理框架，在模型完成微调后通过雅可比零空间投影矫正参数，以缓解灾难性遗忘。在LLaMA-2-7B的数学与代码任务上，历史知识保持指标由67.55%和79.71%提升至106.16%和109.83%，新任务能力仅下降约1个百分点；7B模型单卡A100约30分钟完成矫正。该工作已被NeurIPS 2026接收，论文与代码已公开。",
+      "url": "https://www.sohu.com/a/1104909945_122014422?scm=10001.7746_13-119000.0.0-0-0-0-0.0&spm=smpc.channel_354.block3_32_P7Ovbu_1_fd.6.1795344576896ScBwuwP_7746",
+      "source": "Sohu",
+      "company": "清华大学",
+      "published_at": "2026-11-22 18:49"
+    },
+    {
+      "category": "technology",
+      "title": "腾讯元宝与KCL发布群聊Agent记忆基准",
+      "summary": "腾讯元宝与伦敦国王学院NLP团队联合发布群聊智能体记忆基准GroupAssistBench，基于50个真实群聊的80,299条历史消息构建2,395道评测题，分为记忆召回与开放式服务两层。研究比较14组配置：EverMemOS召回得分0.621高于完整上下文的0.570，服务层得分0.247却低于0.431；团队另提出RER与ACB两种干预。论文、代码与数据集已开放。",
+      "url": "https://www.qbitai.com/2026/11/511841.html",
+      "source": "量子位",
+      "company": "腾讯",
+      "published_at": "2026-11-21 19:40"
+    },
+    {
+      "category": "technology",
+      "title": "前DeepSeek-VL负责人开源本地Agent Linger",
+      "summary": "前DeepSeek-VL项目负责人Tony Zhang公布创业项目Linger，开源一款运行在个人电脑上的智能体，可操作本地浏览器、日历与邮件，并支持接入第三方模型。据团队披露，其PolyStrata推理引擎可在12GB显存的RTX 3060上以45.5 tokens/s运行125B参数的Qwen3.8-Flash-Next，LoCoMo长期记忆基准准确率为95%。",
+      "url": "https://www.qbitai.com/2026/11/511570.html",
+      "source": "量子位",
+      "company": "Simplex AI",
+      "published_at": "2026-11-21 14:32"
+    }
+  ],
+  "sources": [
+    {
+      "title": "邮储银行大模型平台新增功能拟单一来源采购智谱",
+      "url": "https://bj.zhiliaobiaoxun.com/article/120202796"
+    },
+    {
+      "title": "交通银行披露大模型信贷风控系统创新应用声明书",
+      "url": "https://www.mpaypass.com.cn/download/202611/20131307.html"
+    },
+    {
+      "title": "中信银行征集多智能体渗透测试工具箱供应商",
+      "url": "https://ebid.cfhc.citic/cms/default/webfile/gyszj/20261120/1308375179046420480.html"
+    },
+    {
+      "title": "宇信科技启动金融智算Token工厂（湖北）",
+      "url": "http://www.investorscn.com/2026/11/20/138286/"
+    },
+    {
+      "title": "连连数字发布AI数字员工平台并完成B2B智能体支付",
+      "url": "https://www.tmtpost.com/8213773.html"
+    },
+    {
+      "title": "烯牛数据联合腾讯WorkBuddy上线烯牛Buddy",
+      "url": "https://www.sohu.com/a/1103978100_673344?scm=10001.7746_13-119000.0.0-0-0-0-0.0&spm=smpc.channel_354.block3_32_P7Ovbu_1_fd.28.17951427445758sQD7fi_7746"
+    },
+    {
+      "title": "清华与滴滴提出JANUS：微调后矫正恢复旧知识",
+      "url": "https://www.sohu.com/a/1104909945_122014422?scm=10001.7746_13-119000.0.0-0-0-0-0.0&spm=smpc.channel_354.block3_32_P7Ovbu_1_fd.6.1795344576896ScBwuwP_7746"
+    },
+    {
+      "title": "腾讯元宝与KCL发布群聊Agent记忆基准",
+      "url": "https://www.qbitai.com/2026/11/511841.html"
+    },
+    {
+      "title": "前DeepSeek-VL负责人开源本地Agent Linger",
+      "url": "https://www.qbitai.com/2026/11/511570.html"
+    }
+  ],
+  "confirmed_sent_events": []
+}

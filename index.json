@@ -1,8 +1,69 @@
 {
   "schema_version": 1,
-  "latest_report_date": "2026-11-21",
-  "latest_sent_date": "2026-11-20",
+  "latest_report_date": "2026-11-23",
+  "latest_sent_date": "2026-11-21",
   "reports": [
+    {
+      "report_date": "2026-11-23",
+      "report_json": "reports/2026-11-23.json",
+      "report_markdown": "reports/2026-11-23.md",
+      "counts": {
+        "market": 3,
+        "industry": 3,
+        "technology": 3
+      },
+      "all_parts_sent": false,
+      "exact_sent_copy": false,
+      "sent_json": null,
+      "headlines": [
+        {
+          "category": "market",
+          "title": "邮储银行大模型平台新增功能拟单一来源采购智谱",
+          "url": "https://bj.zhiliaobiaoxun.com/article/120202796"
+        },
+        {
+          "category": "market",
+          "title": "交通银行披露大模型信贷风控系统创新应用声明书",
+          "url": "https://www.mpaypass.com.cn/download/202611/20131307.html"
+        },
+        {
+          "category": "market",
+          "title": "中信银行征集多智能体渗透测试工具箱供应商",
+          "url": "https://ebid.cfhc.citic/cms/default/webfile/gyszj/20261120/1308375179046420480.html"
+        },
+        {
+          "category": "industry",
+          "title": "宇信科技启动金融智算Token工厂（湖北）",
+          "url": "http://www.investorscn.com/2026/11/20/138286/"
+        },
+        {
+          "category": "industry",
+          "title": "连连数字发布AI数字员工平台并完成B2B智能体支付",
+          "url": "https://www.tmtpost.com/8213773.html"
+        },
+        {
+          "category": "industry",
+          "title": "烯牛数据联合腾讯WorkBuddy上线烯牛Buddy",
+          "url": "https://www.sohu.com/a/1103978100_673344?scm=10001.7746_13-119000.0.0-0-0-0-0.0&spm=smpc.channel_354.block3_32_P7Ovbu_1_fd.28.17951427445758sQD7fi_7746"
+        },
+        {
+          "category": "technology",
+          "title": "清华与滴滴提出JANUS：微调后矫正恢复旧知识",
+          "url": "https://www.sohu.com/a/1104909945_122014422?scm=10001.7746_13-119000.0.0-0-0-0-0.0&spm=smpc.channel_354.block3_32_P7Ovbu_1_fd.6.1795344576896ScBwuwP_7746"
+        },
+        {
+          "category": "technology",
+          "title": "腾讯元宝与KCL发布群聊Agent记忆基准",
+          "url": "https://www.qbitai.com/2026/11/511841.html"
+        },
+        {
+          "category": "technology",
+          "title": "前DeepSeek-VL负责人开源本地Agent Linger",
+          "url": "https://www.qbitai.com/2026/11/511570.html"
+        }
+      ],
+      "confirmed_sent_events": []
+    },
     {
       "report_date": "2026-11-21",
       "report_json": "reports/2026-11-21.json",
@@ -12,9 +73,9 @@
         "industry": 3,
         "technology": 3
       },
-      "all_parts_sent": false,
-      "exact_sent_copy": false,
-      "sent_json": null,
+      "all_parts_sent": true,
+      "exact_sent_copy": true,
+      "sent_json": "sent/2026-11-21.json",
       "headlines": [
         {
           "category": "market",
@@ -62,7 +123,62 @@
           "url": "https://huggingface.co/blog/inkling2mini"
         }
       ],
-      "confirmed_sent_events": []
+      "confirmed_sent_events": [
+        {
+          "part": 1,
+          "category": "market",
+          "title": "浦发银行2.76亿元采购昇腾超节点中标落地",
+          "url": "https://ai.zol.com.cn/1275/12750885.html"
+        },
+        {
+          "part": 1,
+          "category": "market",
+          "title": "中国人寿集团招标智能中台项目",
+          "url": "https://www.gxzbcg.com.cn/sbzbcg/646624.html"
+        },
+        {
+          "part": 1,
+          "category": "technology",
+          "title": "Hugging Face发布harness适配器提升智能体效率",
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale"
+        },
+        {
+          "part": 1,
+          "category": "technology",
+          "title": "Thinking Machines发布26B本地多模态模型",
+          "url": "https://huggingface.co/blog/inkling2mini"
+        },
+        {
+          "part": 1,
+          "category": "industry",
+          "title": "移卡与万事达卡合作探索AI智能体支付",
+          "url": "https://www.mpaypass.com.cn/news/202611/20092212.html"
+        },
+        {
+          "part": 1,
+          "category": "industry",
+          "title": "商汤科技发布小浣熊金融版，披露平安银行风控案例",
+          "url": "https://news.10jqka.com.cn/20261120/c682042940.shtml"
+        },
+        {
+          "part": 1,
+          "category": "market",
+          "title": "江苏省发布人工智能+金融三年行动方案及五张清单",
+          "url": "https://news.sohu.com/a/1104278366_120578424?scm=10008.1476_13-1476_13-88_88.0-5304001-5305001.0-1-0-0-0.0&spm=smpc.content.fspic.1.17951831728746BdLiiy"
+        },
+        {
+          "part": 1,
+          "category": "industry",
+          "title": "Hebbia披露GPT-6 Astra金融研究测试结果",
+          "url": "https://openai.com/business/customer-stories/hebbia"
+        },
+        {
+          "part": 1,
+          "category": "technology",
+          "title": "OpenAI披露对抗蒸馏防御，推理链提取成功率降至0.2%",
+          "url": "https://openai.com/index/combatting-adversarial-distillation"
+        }
+      ]
     },
     {
       "report_date": "2026-11-20",
