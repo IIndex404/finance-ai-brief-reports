@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "latest_report_date": "2026-11-23",
-  "latest_sent_date": "2026-11-21",
+  "latest_sent_date": "2026-11-23",
   "reports": [
     {
       "report_date": "2026-11-23",
@@ -12,9 +12,9 @@
         "industry": 3,
         "technology": 3
       },
-      "all_parts_sent": false,
-      "exact_sent_copy": false,
-      "sent_json": null,
+      "all_parts_sent": true,
+      "exact_sent_copy": true,
+      "sent_json": "sent/2026-11-23.json",
       "headlines": [
         {
           "category": "market",
@@ -62,7 +62,62 @@
           "url": "https://www.qbitai.com/2026/11/511570.html"
         }
       ],
-      "confirmed_sent_events": []
+      "confirmed_sent_events": [
+        {
+          "part": 1,
+          "category": "market",
+          "title": "邮储银行大模型平台新增功能拟单一来源采购智谱",
+          "url": "https://bj.zhiliaobiaoxun.com/article/120202796"
+        },
+        {
+          "part": 1,
+          "category": "market",
+          "title": "中信银行征集多智能体渗透测试工具箱供应商",
+          "url": "https://ebid.cfhc.citic/cms/default/webfile/gyszj/20261120/1308375179046420480.html"
+        },
+        {
+          "part": 1,
+          "category": "industry",
+          "title": "宇信科技启动金融智算Token工厂（湖北）",
+          "url": "http://www.investorscn.com/2026/11/20/138286/"
+        },
+        {
+          "part": 1,
+          "category": "market",
+          "title": "交通银行披露大模型信贷风控系统创新应用声明书",
+          "url": "https://www.mpaypass.com.cn/download/202611/20131307.html"
+        },
+        {
+          "part": 1,
+          "category": "technology",
+          "title": "前DeepSeek-VL负责人开源本地Agent Linger",
+          "url": "https://www.qbitai.com/2026/11/511570.html"
+        },
+        {
+          "part": 1,
+          "category": "technology",
+          "title": "腾讯元宝与KCL发布群聊Agent记忆基准",
+          "url": "https://www.qbitai.com/2026/11/511841.html"
+        },
+        {
+          "part": 1,
+          "category": "industry",
+          "title": "烯牛数据联合腾讯WorkBuddy上线烯牛Buddy",
+          "url": "https://www.sohu.com/a/1103978100_673344?scm=10001.7746_13-119000.0.0-0-0-0-0.0&spm=smpc.channel_354.block3_32_P7Ovbu_1_fd.28.17951427445758sQD7fi_7746"
+        },
+        {
+          "part": 1,
+          "category": "technology",
+          "title": "清华与滴滴提出JANUS：微调后矫正恢复旧知识",
+          "url": "https://www.sohu.com/a/1104909945_122014422?scm=10001.7746_13-119000.0.0-0-0-0-0.0&spm=smpc.channel_354.block3_32_P7Ovbu_1_fd.6.1795344576896ScBwuwP_7746"
+        },
+        {
+          "part": 1,
+          "category": "industry",
+          "title": "连连数字发布AI数字员工平台并完成B2B智能体支付",
+          "url": "https://www.tmtpost.com/8213773.html"
+        }
+      ]
     },
     {
       "report_date": "2026-11-21",
