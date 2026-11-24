@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-25",
+  "page": 7,
+  "total_pages": 12,
+  "text1": "](http://stock.stockstar.com/RB2026112400019276.shtml)\n\n## 三、看技术：大模型、智能体与开源成果\n\n#",
+  "text2": "## 1. Anthropic发布Claude Ship测试版，接管PR审查批准\n- **新闻概要：**11月24日，Anthropic发布Claude Shi",
+  "text3": "p测试版，由Code Review、PR Steward和Claude Approvals三个智能体组成，可在仓库规则允许下审查PR、修改代码并批准。自动运行完",
+  "text4": "整版面向Claude Team和Enterprise订阅用户，个人开发者可在Claude Code运行/ship命令管理自己提交的PR。据称Claude Cod"
+}

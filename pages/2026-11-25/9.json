@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-25",
+  "page": 9,
+  "total_pages": 12,
+  "text1": "ionBench等基准取得有竞争力得分。\n- **新闻链接：**[量子位](https://www.qbitai.com/2026/11/512354.html",
+  "text2": ")\n\n### 3. OpenAI与Cisco开源Shirudo保护Linux\n- **新闻概要：**11月24日，Cisco与OpenAI联合发布开源项目Shi",
+  "text3": "rudo，基于eBPF保护运行智能体工作负载的Linux系统；AI智能体可在漏洞发现后、补丁发布前生成带签名的内核级防护，阻断漏洞利用路径。项目已在GitHub",
+  "text4": "开源，面向需要在打补丁窗口期保护基础设施的运维与安全团队。\n- **新闻链接：**[OpenAI News](https://openai.com/index/"
+}
