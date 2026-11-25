@@ -1,0 +1,30 @@
+{
+  "found": true,
+  "title": "Praxent发布Claude驱动对公信贷智能体引擎",
+  "url": "https://www.businesswirenews.com/news/home/20261124310342/en/Praxent-Launches-Claude-Powered-Commercial-Lending-Engine-to-Help-Lenders-Win-More-Commercial-Loans",
+  "source": "businesswirenews.com",
+  "facts": [
+    "公告发布时间为2026年11月24日美国东部时间上午8:00。",
+    "Praxent是Anthropic精选金融服务合作伙伴。",
+    "Praxent今日推出Commercial Lending Engine。",
+    "该引擎把贷款机构的对公信贷流程转化为受治理的AI代理团队。",
+    "贷款机构可在不增加员工的情况下增长对公贷款，并使用自有AI代理。",
+    "AI代理遵循各贷款机构自己的流程、政策和模板。",
+    "AI代理分摊财务数据、起草信贷备忘录并完成年度复审。",
+    "贷款机构可在单一仪表盘按阶段查看每笔交易并批准每项决策。",
+    "每一步都会生成可供审查人员使用的审计日志。",
+    "引擎运行在Praxent的代理层AgentCommand℠上，部署于贷款机构自有云。",
+    "该引擎设计为通过Azure AI Foundry在Microsoft Azure上部署Claude模型。",
+    "另有40多个引擎可接入AgentCommand℠。",
+    "清单中的Commercial Onboarding and Treasury Implementation Engine让商业客户更快上线并开始产生费用收入。",
+    "清单中的Custom Engines允许客户为机构特有工作流构建代理。",
+    "NEWITY在2025年成为全美第一SBA贷款促成机构。",
+    "NEWITY放款速度比传统贷款机构快3倍，承销速度快67%。"
+  ],
+  "retrieved_at": "2026-11-25T02:17:45.638574+00:00",
+  "source_title": "Praxent Launches Claude-Powered Commercial Lending Engine to Help Lenders Win More Commercial Loans",
+  "message": "基于原文的辅助事实摘要，回答时保留原文链接。",
+  "report_date": "2026-11-25",
+  "category": "industry",
+  "number": 1
+}

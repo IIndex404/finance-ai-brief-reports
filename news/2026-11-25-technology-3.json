@@ -1,0 +1,29 @@
+{
+  "found": true,
+  "title": "OpenAI与Cisco开源Shirudo保护Linux",
+  "url": "https://openai.com/index/introducing-shirudo",
+  "source": "OpenAI News",
+  "facts": [
+    "OpenAI与Cisco推出开源运行时Shirudo。",
+    "Shirudo帮助团队在推送补丁期间保护Linux系统。",
+    "受控测试中，Codex生成的shield阻止了Java4Shell利用尝试。",
+    "该利用尝试针对运行中的Elasticsearch，且无需重启。",
+    "测试和部署补丁仍可能耗时数天或数周。",
+    "利用与合法请求可能依赖同一个Linux操作。",
+    "完全阻断该操作可能使服务离线。",
+    "Shirudo在日语中意为“盾”，旨在帮助安全团队。",
+    "运营者批准后，shield可部署。",
+    "Shirudo采用BSD 2-Clause许可。",
+    "其BPF程序采用BSD与GPL双许可。",
+    "Live protection：eBPF shield可在不重启系统的情况下阻断易受攻击的代码路径。",
+    "Defense at machine speed：可编程控制用于调查漏洞和开发针对性shield。",
+    "Trusted deployment：Shield在加载前经加密签名和验证。",
+    "Hardware-backed verification：Shirudo使用TPM支持可验证记录。"
+  ],
+  "retrieved_at": "2026-11-25T02:19:01.648612+00:00",
+  "source_title": "OpenAI and Cisco introduce Shirudo",
+  "message": "基于原文的辅助事实摘要，回答时保留原文链接。",
+  "report_date": "2026-11-25",
+  "category": "technology",
+  "number": 3
+}

@@ -1,0 +1,31 @@
+{
+  "found": true,
+  "title": "Applied Systems收购Tailwind补强保险AI自动化",
+  "url": "https://iireporter.com/applied-systems-acquires-tailwind-to-expand-epic-conductor-ai-automation/",
+  "source": "iireporter",
+  "facts": [
+    "位于芝加哥的Applied Systems收购了Tailwind。",
+    "Tailwind专注于自动获取承运商文档和进行数据标准化。",
+    "此次收购旨在扩展Applied的Epic Conductor AI平台能力。",
+    "Tailwind的技术将整合进Epic Conductor的三个主要领域。",
+    "三个领域分别是运营自动化、财务自动化和互联交易。",
+    "信息被锁定在承运商门户中，或分散在文档和系统中。",
+    "这些信息类型包括保单、损失记录、佣金及其他信息。",
+    "这些信息在下游自动化开始前必须人工检索。",
+    "Tailwind提供自动文档检索、数据标准化和客户报告。",
+    "Tailwind收集并处理包括损失记录和保单在内的文档。",
+    "在Epic Conductor内，Applied计划用Tailwind自动获取佣金对账单以支持对账流程。",
+    "这减少机构手动查找和上传对账单的需要。",
+    "在运营工作流中，承运商保单文档和客户通信由Tailwind检索。",
+    "这些内容用于填充Applied Epic的相关区域。",
+    "在互联交易中，损失记录信息从承运商系统检索。",
+    "该信息用于预填续保和新业务提交。",
+    "Epic Conductor是Applied原生AI自动化平台，于9月推出。"
+  ],
+  "retrieved_at": "2026-11-25T02:17:54.419108+00:00",
+  "source_title": "Applied Systems Acquires Tailwind to Expand Epic Conductor AI Automation",
+  "message": "基于原文的辅助事实摘要，回答时保留原文链接。",
+  "report_date": "2026-11-25",
+  "category": "industry",
+  "number": 2
+}
