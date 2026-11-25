@@ -1,0 +1,113 @@
+{
+  "report_date": "2026-11-24",
+  "counts": {
+    "market": 3,
+    "industry": 3,
+    "technology": 3
+  },
+  "all_parts_sent": true,
+  "exact_sent_copy": true,
+  "headlines": [
+    {
+      "category": "market",
+      "title": "兴业银行投产首套昇腾液冷超节点并建成智算云平台",
+      "url": "https://stock.10jqka.com.cn/20261123/c682114494.shtml"
+    },
+    {
+      "category": "market",
+      "title": "江南农商银行落地190余项AI生产场景",
+      "url": "https://www.cebnet.com.cn/20261123/103007598.html"
+    },
+    {
+      "category": "market",
+      "title": "中国银行苏州分行磋商采购风险管理平台AI底座",
+      "url": "https://m.chinabidding.cn/zbgg/nl0GMo.html"
+    },
+    {
+      "category": "industry",
+      "title": "腾讯云WorkBuddy金融版接入超200家金融机构",
+      "url": "http://field.10jqka.com.cn/20261123/c682089288.shtml"
+    },
+    {
+      "category": "industry",
+      "title": "顶点软件推出券商运营智能中台睿办",
+      "url": "https://www.toutiao.com/article/7711268999174849059/?wid=1795420040038"
+    },
+    {
+      "category": "industry",
+      "title": "华为联合伙伴发起金融智能体“百行”行动",
+      "url": "https://www.elecfans.com/d/8961219.html"
+    },
+    {
+      "category": "technology",
+      "title": "智谱发布GLM-5.4旗舰模型，采用循环层架构",
+      "url": "https://www.jiqizhixin.com/articles/2026-11-23-12?source=rss"
+    },
+    {
+      "category": "technology",
+      "title": "清华与无问芯穹开源推理集群仿真平台Uni3Sim",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075779&idx=1&sn=636885b17d34d106010c6d8fbe0fb5bb"
+    },
+    {
+      "category": "technology",
+      "title": "MemOnce提出可扩展记忆架构，KV缓存降1313倍",
+      "url": "https://huggingface.co/papers/2611.27973"
+    }
+  ],
+  "confirmed_sent_events": [
+    {
+      "part": 1,
+      "category": "market",
+      "title": "江南农商银行落地190余项AI生产场景",
+      "url": "https://www.cebnet.com.cn/20261123/103007598.html"
+    },
+    {
+      "part": 1,
+      "category": "market",
+      "title": "中国银行苏州分行磋商采购风险管理平台AI底座",
+      "url": "https://m.chinabidding.cn/zbgg/nl0GMo.html"
+    },
+    {
+      "part": 1,
+      "category": "industry",
+      "title": "华为联合伙伴发起金融智能体“百行”行动",
+      "url": "https://www.elecfans.com/d/8961219.html"
+    },
+    {
+      "part": 1,
+      "category": "industry",
+      "title": "腾讯云WorkBuddy金融版接入超200家金融机构",
+      "url": "http://field.10jqka.com.cn/20261123/c682089288.shtml"
+    },
+    {
+      "part": 1,
+      "category": "technology",
+      "title": "MemOnce提出可扩展记忆架构，KV缓存降1313倍",
+      "url": "https://huggingface.co/papers/2611.27973"
+    },
+    {
+      "part": 1,
+      "category": "technology",
+      "title": "智谱发布GLM-5.4旗舰模型，采用循环层架构",
+      "url": "https://www.jiqizhixin.com/articles/2026-11-23-12?source=rss"
+    },
+    {
+      "part": 1,
+      "category": "technology",
+      "title": "清华与无问芯穹开源推理集群仿真平台Uni3Sim",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075779&idx=1&sn=636885b17d34d106010c6d8fbe0fb5bb"
+    },
+    {
+      "part": 1,
+      "category": "market",
+      "title": "兴业银行投产首套昇腾液冷超节点并建成智算云平台",
+      "url": "https://stock.10jqka.com.cn/20261123/c682114494.shtml"
+    },
+    {
+      "part": 1,
+      "category": "industry",
+      "title": "顶点软件推出券商运营智能中台睿办",
+      "url": "https://www.toutiao.com/article/7711268999174849059/?wid=1795420040038"
+    }
+  ]
+}

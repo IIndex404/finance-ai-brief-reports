@@ -121,5 +121,60 @@
       "url": "https://openai.com/index/introducing-shirudo"
     }
   ],
-  "confirmed_sent_events": []
+  "confirmed_sent_events": [
+    {
+      "part": 1,
+      "category": "industry",
+      "title": "Praxent发布Claude驱动对公信贷智能体引擎",
+      "url": "https://www.businesswirenews.com/news/home/20261124310342/en/Praxent-Launches-Claude-Powered-Commercial-Lending-Engine-to-Help-Lenders-Win-More-Commercial-Loans"
+    },
+    {
+      "part": 1,
+      "category": "technology",
+      "title": "Anthropic发布Claude Ship测试版，接管PR审查批准",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizutpk1917536.shtml"
+    },
+    {
+      "part": 1,
+      "category": "market",
+      "title": "湖北省农信联社启动AI中台硬件采购 估算2400万",
+      "url": "https://hubeibidding.com/view/54862.html"
+    },
+    {
+      "part": 1,
+      "category": "industry",
+      "title": "Applied Systems收购Tailwind补强保险AI自动化",
+      "url": "https://iireporter.com/applied-systems-acquires-tailwind-to-expand-epic-conductor-ai-automation/"
+    },
+    {
+      "part": 1,
+      "category": "market",
+      "title": "太保科技重启全栈AI平台框架采购竞价",
+      "url": "http://life.cpic.com.cn/c/2026-11-24/1896870.shtml"
+    },
+    {
+      "part": 1,
+      "category": "technology",
+      "title": "OpenAI与Cisco开源Shirudo保护Linux",
+      "url": "https://openai.com/index/introducing-shirudo"
+    },
+    {
+      "part": 1,
+      "category": "market",
+      "title": "证券业人工智能应用发展联盟成立，21家机构发起",
+      "url": "https://paper.cnstock.com/html/2026-11/24/content_2293726.htm"
+    },
+    {
+      "part": 1,
+      "category": "technology",
+      "title": "文心5.5 Flash Preview开源，2800亿参数",
+      "url": "https://www.qbitai.com/2026/11/512354.html"
+    },
+    {
+      "part": 1,
+      "category": "industry",
+      "title": "安硕信息中标中国银行江苏省分行大模型问数项目",
+      "url": "http://stock.stockstar.com/RB2026112400019276.shtml"
+    }
+  ]
 }

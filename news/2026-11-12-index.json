@@ -1,0 +1,113 @@
+{
+  "report_date": "2026-11-12",
+  "counts": {
+    "market": 3,
+    "industry": 3,
+    "technology": 3
+  },
+  "all_parts_sent": true,
+  "exact_sent_copy": true,
+  "headlines": [
+    {
+      "category": "market",
+      "title": "长江财产保险招标智能影像平台项目",
+      "url": "https://www.gxzbcg.com.cn/sbzbcg/617627.html"
+    },
+    {
+      "category": "market",
+      "title": "兴业银行披露大模型平台日均词元调用100亿",
+      "url": "http://www.gz.chinanews.com.cn/qt/2026-11-11/doc-ihfmxyez7335907.shtml"
+    },
+    {
+      "category": "market",
+      "title": "中信保诚人寿招标大模型服务采购项目",
+      "url": "https://ebid.cfhc.citic/cms/default/webfile/ywgg1/20261111/1305210449330962432.html"
+    },
+    {
+      "category": "industry",
+      "title": "联易融前三季度跨境融资86.5亿元同比增26.8%",
+      "url": "https://stock.10jqka.com.cn/hks//20261111/c681713477.shtml"
+    },
+    {
+      "category": "industry",
+      "title": "甲骨文发布面向银行保险的AI财务与客户分析应用",
+      "url": "https://www.bankingnewsai.com/issues/2026-11-11/oracle-launches-ai-assisted-treasury-customer-analytics"
+    },
+    {
+      "category": "industry",
+      "title": "蚂蚁数科与德意志银行发布智能体支付白皮书",
+      "url": "https://www.insigtx.com/zh-hant/news/deutsche-bank-and-ant-digital-technologies-release-white-662851/"
+    },
+    {
+      "category": "technology",
+      "title": "谷歌DeepMind正式开放Gemini 4 Carbon",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+    },
+    {
+      "category": "technology",
+      "title": "上智院等开源1.9B记忆模块REMORY",
+      "url": "https://www.163.com/dy/article/LBET76RG0511AQHO.html?f=post2020_dy_recommends"
+    },
+    {
+      "category": "technology",
+      "title": "微软披露Lazarus后门：改写不到10个休眠神经元",
+      "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"
+    }
+  ],
+  "confirmed_sent_events": [
+    {
+      "part": 1,
+      "category": "technology",
+      "title": "上智院等开源1.9B记忆模块REMORY",
+      "url": "https://www.163.com/dy/article/LBET76RG0511AQHO.html?f=post2020_dy_recommends"
+    },
+    {
+      "part": 1,
+      "category": "industry",
+      "title": "甲骨文发布面向银行保险的AI财务与客户分析应用",
+      "url": "https://www.bankingnewsai.com/issues/2026-11-11/oracle-launches-ai-assisted-treasury-customer-analytics"
+    },
+    {
+      "part": 1,
+      "category": "technology",
+      "title": "谷歌DeepMind正式开放Gemini 4 Carbon",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+    },
+    {
+      "part": 1,
+      "category": "market",
+      "title": "中信保诚人寿招标大模型服务采购项目",
+      "url": "https://ebid.cfhc.citic/cms/default/webfile/ywgg1/20261111/1305210449330962432.html"
+    },
+    {
+      "part": 1,
+      "category": "market",
+      "title": "长江财产保险招标智能影像平台项目",
+      "url": "https://www.gxzbcg.com.cn/sbzbcg/617627.html"
+    },
+    {
+      "part": 1,
+      "category": "market",
+      "title": "兴业银行披露大模型平台日均词元调用100亿",
+      "url": "http://www.gz.chinanews.com.cn/qt/2026-11-11/doc-ihfmxyez7335907.shtml"
+    },
+    {
+      "part": 1,
+      "category": "industry",
+      "title": "蚂蚁数科与德意志银行发布智能体支付白皮书",
+      "url": "https://www.insigtx.com/zh-hant/news/deutsche-bank-and-ant-digital-technologies-release-white-662851/"
+    },
+    {
+      "part": 1,
+      "category": "technology",
+      "title": "微软披露Lazarus后门：改写不到10个休眠神经元",
+      "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"
+    },
+    {
+      "part": 1,
+      "category": "industry",
+      "title": "联易融前三季度跨境融资86.5亿元同比增26.8%",
+      "url": "https://stock.10jqka.com.cn/hks//20261111/c681713477.shtml"
+    }
+  ]
+}

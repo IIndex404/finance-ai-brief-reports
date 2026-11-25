@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-17",
+  "category": "industry",
+  "count": 3,
+  "events": [
+    {
+      "category": "industry",
+      "title": "南天信息中标云南农信大模型应用场景建设项目",
+      "summary": "云南南天电子信息产业股份有限公司中标云南省农村信用社大模型应用场景建设技术服务项目，招标方为云南省农村信用社科技结算中心。中标结果公告显示评审日期为11月10日，交付期为合同签订起12个月、按里程碑分阶段交付，公告披露的中标金额部分被屏蔽。项目采用公开招标方式，中标结果同时在中国招标投标公共服务平台等媒介发布。",
+      "url": "http://stock.stockstar.com/RB2026111600032543.shtml",
+      "source": "证券之星",
+      "company": "南天信息",
+      "published_at": "2026-11-16"
+    },
+    {
+      "category": "industry",
+      "title": "Regnology与ActiveViam合作扩展风险智能至监管端",
+      "summary": "Regnology宣布与ActiveViam达成战略合作，将Atoti作为实时风险聚合与分析引擎嵌入Regnology Risk Hub，并计划通过Regnology Supervisory Hub将其扩展至监管机构。",
+      "url": "https://www.ansa.it/sito/notizie/economia/business_wire/2026/11/16/regnology-and-activeviam-partner-to-bring-the-same-granular-explainable-risk_baaf6d7e-09a5-466c-a252-44df738470e1.html",
+      "source": "ANSA",
+      "company": "Regnology",
+      "published_at": "2026-11-16 16:00"
+    },
+    {
+      "category": "industry",
+      "title": "恒银科技前三季度营收降37% AI应用暂未形成收入",
+      "summary": "恒银科技在业绩说明会上表示，公司核心收入仍来自智能终端及配套业务，AI应用处于持续拓展、培育阶段，暂未形成实际收入。2026年前三季度营收1.67亿元、同比下降37.03%，归母净利润1070.67万元、同比下降39.85%。公司称金融机构在项目立项招标阶段追加AI交互、智能识别等新增功能要求，方案论证与需求修订周期拉长，导致部分常规设备采购项目进度延后。",
+      "url": "https://m.21jingji.com/article/20261116/herald/08dd770ea689e63749cd2b0f195116fd.html",
+      "source": "21财经",
+      "company": "恒银科技",
+      "published_at": "2026-11-16 10:31"
+    }
+  ]
+}

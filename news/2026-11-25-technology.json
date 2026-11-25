@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-25",
+  "category": "technology",
+  "count": 3,
+  "events": [
+    {
+      "category": "technology",
+      "title": "Anthropic发布Claude Ship测试版，接管PR审查批准",
+      "summary": "Anthropic发布Claude Ship测试版，由Code Review、PR Steward和Claude Approvals三个智能体组成，可在仓库规则允许下审查PR、修改代码并批准。自动运行完整版面向Claude Team和Enterprise订阅用户，个人开发者可在Claude Code运行/ship命令管理自己提交的PR。据称Claude Code团队超90%代码由Claude编写。",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizutpk1917536.shtml",
+      "source": "新浪财经",
+      "company": "Anthropic",
+      "published_at": "2026-11-24 07:20"
+    },
+    {
+      "category": "technology",
+      "title": "文心5.5 Flash Preview开源，2800亿参数",
+      "summary": "百度开源文心5.5 Flash Preview，采用Apache 2.0协议，总参数2800亿，每Token激活140亿，支持100万Token上下文；权重与配套资源已在Hugging Face、ModelScope开放，支持vLLM、SGLang部署，在Terminal-Bench、AutomationBench等基准取得有竞争力得分。",
+      "url": "https://www.qbitai.com/2026/11/512354.html",
+      "source": "量子位",
+      "company": "百度",
+      "published_at": "2026-11-24 14:22"
+    },
+    {
+      "category": "technology",
+      "title": "OpenAI与Cisco开源Shirudo保护Linux",
+      "summary": "Cisco与OpenAI联合发布开源项目Shirudo，基于eBPF保护运行智能体工作负载的Linux系统；AI智能体可在漏洞发现后、补丁发布前生成带签名的内核级防护，阻断漏洞利用路径。项目已在GitHub开源，面向需要在打补丁窗口期保护基础设施的运维与安全团队。",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI News",
+      "company": "Cisco、OpenAI",
+      "published_at": "2026-11-24"
+    }
+  ]
+}

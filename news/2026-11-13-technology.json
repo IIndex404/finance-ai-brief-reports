@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-13",
+  "category": "technology",
+  "count": 3,
+  "events": [
+    {
+      "category": "technology",
+      "title": "阿里云上线Qwen4-Max预览版，支持百万级上下文",
+      "summary": "阿里云上线新一代旗舰模型Qwen4-Max预览版，支持文本生成、图像与视频理解及深度推理，上下文长度达100万token、最大输出约39.3万token。模型可调用外部工具与联网搜索，推理强度通过reasoning_effort参数调节，API兼容OpenAI与Anthropic接口。据阿里云披露，预览期内模型不再变动，结束后预览版将下线，使用需开通Token Plan订阅。",
+      "url": "https://news.mynavi.jp/article/20261112-5307569/",
+      "source": "マイナビニュース",
+      "company": "阿里云",
+      "published_at": "2026-11-11"
+    },
+    {
+      "category": "technology",
+      "title": "谷歌发布多模态决策模型Gemini Decision 1",
+      "summary": "谷歌上线Gemini Decisions API，由多模态决策模型Gemini Decision 1提供支持，可在一次前向传递中对最多1000个问题给出是/否、多选或评分结果，多选最高支持255个选项。据谷歌披露，处理16K token多模态上下文的中位延迟为50至100毫秒，每百万输入token收费0.10美元、输出token免费。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652742394&idx=2&sn=0553a73ecdae11a616eb6a7896eea195",
+      "source": "新智元(公众号)",
+      "company": "谷歌",
+      "published_at": "2026-11-11"
+    },
+    {
+      "category": "technology",
+      "title": "Grok Bot 1.0发布，可参会并主动领取任务",
+      "summary": "SpaceXAI发布Grok Bot 1.0，新增主动发现并接手工作、通过文字接入Google Meet、Zoom与Microsoft Teams会议，以及可多人共用的Team Bots等能力。据官方介绍，Bot会记住团队成员的偏好与既有决定，员工教授的流程可保存为可复用技能并在审核后共享，敏感操作执行前需审批。官方未披露统一的任务成功率或资源消耗对比数据。",
+      "url": "https://news.pedaily.cn/202611/571759.shtml",
+      "source": "投资界",
+      "company": "xAI",
+      "published_at": "2026-11-12 14:51"
+    }
+  ]
+}

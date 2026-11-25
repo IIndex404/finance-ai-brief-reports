@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-18",
+  "category": "industry",
+  "count": 3,
+  "events": [
+    {
+      "category": "industry",
+      "title": "Savana发布银行业运营智能体Acta，支持139项操作",
+      "summary": "Savana发布面向银行与信用社的运营型AI产品Acta，上线时支持服务、资金划转、银行卡、开户等139项银行业务操作，可在机构既定政策、权限与审批范围内端到端完成客户与员工的请求。据Savana称，Acta兼容多种大模型，可跨核心系统与第三方应用协同，每项操作留存防篡改审计记录，并需人工审批后执行。",
+      "url": "https://www.businesswirenews.com/news/home/20261117211267/en/Savana-Launches-Acta-a-New-Class-of-Operational-AI-That-Carries-Out-Banking-Work-End-to-End",
+      "source": "businesswirenews.com",
+      "company": "Savana",
+      "published_at": "2026-11-17 00:00"
+    },
+    {
+      "category": "industry",
+      "title": "Model ML完成2.5亿美元B轮，估值15亿美元",
+      "summary": "Model ML宣布完成2.5亿美元B轮融资，估值15亿美元，由General Atlantic与QED Investors联合领投，累计融资达3.5亿美元。该公司为银行家、咨询顾问与投资人提供个人AI智能体，可在机构既有系统与数据内运行；据其披露，2026年第三季度年度经常性收入同比增长12倍，日活用户增长26倍。",
+      "url": "https://tech.eu/2026/11/17/model-ml-hits-15b-valuation-with-250m-raise-just-18-months-after-emerging-from-stealth/",
+      "source": "Tech.eu",
+      "company": "Model ML",
+      "published_at": "2026-11-17 00:00"
+    },
+    {
+      "category": "industry",
+      "title": "安硕信息中标日照银行AI信贷助手项目",
+      "summary": "上海安硕信息技术股份有限公司中标日照银行AI信贷助手采购项目，中标价格162.6万元，采购方式为公开招标。公告同时列出项目编号I2100000716000315001与单一标段名称，采购人为日照银行股份有限公司。",
+      "url": "https://www.mpaypass.com.cn/news/202611/16104831.html",
+      "source": "移动支付网",
+      "company": "安硕信息",
+      "published_at": "2026-11-16 10:47"
+    }
+  ]
+}

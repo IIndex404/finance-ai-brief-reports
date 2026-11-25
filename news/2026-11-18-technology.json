@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-18",
+  "category": "technology",
+  "count": 3,
+  "events": [
+    {
+      "category": "technology",
+      "title": "微软开源TokenEconomizer，编程智能体成本降18.4%",
+      "summary": "微软研究院与UC Berkeley、Microsoft Security开源插件TokenEconomizer，可从AI编程智能体的历史会话学习，在277个SWE-Bench任务、五种智能体与模型组合上平均降低成本18.4%—30.9%，任务成功率基本稳定。插件通过微技能、工具剪枝和失败循环干预减少重复探索与无效工具加载。",
+      "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+      "source": "Microsoft Research Blog",
+      "company": "微软研究院",
+      "published_at": "2026-11-17 01:01"
+    },
+    {
+      "category": "technology",
+      "title": "vLLM v0.34.0默认扩展KV缓存并提速",
+      "summary": "vLLM项目发布v0.34.0，新增10个模型支持，默认启用可扩展KV缓存，按预热后实际空闲显存确定缓存大小；在GB200上Step5 NVFP4 MoE解码最高提速1.95倍，GLM-5.3-Flash输出吞吐提升1.6倍。该版本移除Model Runner V1，默认块大小改为64，并列出多项破坏性变更。",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0",
+      "source": "GitHub · vllm-project/vllm",
+      "company": "vLLM项目",
+      "published_at": "2026-11-17 07:50"
+    },
+    {
+      "category": "technology",
+      "title": "字节跳动等开源Axion 1.0智能体训练方案",
+      "summary": "杜克大学、字节跳动等团队发布Axion 1.0智能体模型，训练流程只包含两阶段监督微调和强化学习，并开源数据构造、训练及测试代码。论文报告Axion 1.0-122B在限制部分网站访问的HLE取得59.0%，35B版本在SEAL-0取得62.2%，模型基于Qwen底座训练。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074900&idx=3&sn=b8ce1837d869e2563a888e3df5a04a89",
+      "source": "机器之心(公众号)",
+      "company": "字节跳动",
+      "published_at": "2026-11-17 11:38"
+    }
+  ]
+}

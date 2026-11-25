@@ -1,0 +1,80 @@
+{
+  "report_date": "2026-11-11",
+  "counts": {
+    "market": 2,
+    "industry": 1,
+    "technology": 3
+  },
+  "all_parts_sent": true,
+  "exact_sent_copy": true,
+  "headlines": [
+    {
+      "category": "market",
+      "title": "兴业银行投产规模化国产超节点并建成智算云平台",
+      "url": "https://finance.qingdaonews.com/content/2026-11/10/content_23765584.htm"
+    },
+    {
+      "category": "market",
+      "title": "南方基金自研AI智能体上线WorkBuddy与千问APP",
+      "url": "http://jjckb.xinhuanet.com/20261109/1adf373d04794ebc967c570f545d4e6a/c.html"
+    },
+    {
+      "category": "industry",
+      "title": "Palantir获AmeriLife保险AI合作",
+      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-technologies-pltr-lands-enterprise-111205834.html"
+    },
+    {
+      "category": "technology",
+      "title": "DeepMind用AI形式化验证Signal协议代码",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+    },
+    {
+      "category": "technology",
+      "title": "字节跳动发布Seedream 5.5图像生成与编辑模型",
+      "url": "https://www.qbitai.com/2026/11/508828.html"
+    },
+    {
+      "category": "technology",
+      "title": "openJiuwen发布TTSE双轨自演进框架",
+      "url": "https://www.qbitai.com/2026/11/508998.html"
+    }
+  ],
+  "confirmed_sent_events": [
+    {
+      "part": 1,
+      "category": "technology",
+      "title": "DeepMind用AI形式化验证Signal协议代码",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+    },
+    {
+      "part": 1,
+      "category": "market",
+      "title": "兴业银行投产规模化国产超节点并建成智算云平台",
+      "url": "https://finance.qingdaonews.com/content/2026-11/10/content_23765584.htm"
+    },
+    {
+      "part": 1,
+      "category": "industry",
+      "title": "Palantir获AmeriLife保险AI合作",
+      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-technologies-pltr-lands-enterprise-111205834.html"
+    },
+    {
+      "part": 1,
+      "category": "market",
+      "title": "南方基金自研AI智能体上线WorkBuddy与千问APP",
+      "url": "http://jjckb.xinhuanet.com/20261109/1adf373d04794ebc967c570f545d4e6a/c.html"
+    },
+    {
+      "part": 1,
+      "category": "technology",
+      "title": "字节跳动发布Seedream 5.5图像生成与编辑模型",
+      "url": "https://www.qbitai.com/2026/11/508828.html"
+    },
+    {
+      "part": 1,
+      "category": "technology",
+      "title": "openJiuwen发布TTSE双轨自演进框架",
+      "url": "https://www.qbitai.com/2026/11/508998.html"
+    }
+  ]
+}

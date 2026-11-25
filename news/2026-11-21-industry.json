@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-21",
+  "category": "industry",
+  "count": 3,
+  "events": [
+    {
+      "category": "industry",
+      "title": "商汤科技发布小浣熊金融版，披露平安银行风控案例",
+      "summary": "商汤科技推出面向金融行业的“商汤小浣熊·金融版”，依托日日新大模型体系覆盖信贷风控、保险理赔、合规管理、经营分析、投研洞察五大场景。据该公司披露，在与平安银行的对公信贷风控合作中，尽调报告最快30分钟生成、监测覆盖率超99%；与建信人寿的合作把数据提取分析从3至5天缩短至分钟级。产品强调结论可追溯与私有化部署。",
+      "url": "https://news.10jqka.com.cn/20261120/c682042940.shtml",
+      "source": "同花顺",
+      "company": "商汤科技",
+      "published_at": "2026-11-19"
+    },
+    {
+      "category": "industry",
+      "title": "Hebbia披露GPT-6 Astra金融研究测试结果",
+      "summary": "金融研究软件商Hebbia公布使用OpenAI GPT-6 Astra的测试结果：据其测试，该模型在引用所需来源类型上比最佳替代模型高13.6个百分点，99.5%的引用摘录与问题相关，演示文稿需求满足率97.9%、领先14.4个百分点。Hebbia的Matrix用于投行尽调与估值材料制作，测试于2026年8至9月用预发布版本完成。",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI News",
+      "company": "Hebbia",
+      "published_at": "2026-11-20 08:00"
+    },
+    {
+      "category": "industry",
+      "title": "移卡与万事达卡合作探索AI智能体支付",
+      "summary": "移卡与万事达卡在新加坡金融科技节期间签署合作协议，围绕AI Agent驱动的商业交易展开合作：万事达卡App计划接入移卡旗下YeahPay的AI Agent支付服务，由YeahPay提供支付及交易处理能力，并连接富匙科技的商户与商品资源。YeahPay已在官网开放AI Agent支付SDK及技术文档，双方计划以具体消费场景验证对话式下单支付流程。",
+      "url": "https://www.mpaypass.com.cn/news/202611/20092212.html",
+      "source": "移动支付网",
+      "company": "移卡",
+      "published_at": "2026-11-19"
+    }
+  ]
+}

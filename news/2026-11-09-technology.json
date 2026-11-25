@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-09",
+  "category": "technology",
+  "count": 3,
+  "events": [
+    {
+      "category": "technology",
+      "title": "月之暗面开源Kimi K3，2.8万亿参数支持1M上下文",
+      "summary": "月之暗面在Hugging Face开放Kimi K3权重，模型为2.8万亿总参数、104B激活的原生多模态MoE，支持100万token上下文，采用KDA与AttnRes架构，据官方称扩展效率较K2提升约2.5倍。模型卡显示其在Terminal-Bench 2.1、SWE-Marathon、MCPMark等编程与智能体基准接近或超过闭源模型，并给出CorpFin v2等金融任务分数；",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "source": "huggingface.co",
+      "company": "月之暗面",
+      "published_at": "2026-11-06 06:34"
+    },
+    {
+      "category": "technology",
+      "title": "英伟达开源Cosmos 3四个世界模型权重",
+      "summary": "英伟达在Hugging Face发布Cosmos 3系列四个开放权重检查点，均为Cosmos 3 Nano的后训练版本、16B可训练参数，用于交互式世界模拟与多传感器多视角驾驶场景生成。其中Sim-Auto以流式方式同步生成相机视频与激光雷达数据，Sim-Bimanual由双臂机器人动作预测视频，Transfer-Auto支持最多11路相机与RGB-激光雷达联合生成。",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "source": "Hugging Face Blog",
+      "company": "英伟达",
+      "published_at": "2026-11-06 03:35"
+    },
+    {
+      "category": "technology",
+      "title": "DoubleAI提出机制干预：训练中写代码改架构",
+      "summary": "DoubleAI研究团队提出“机制干预”方法，让编程Agent在训练和推理过程中生成Python代码插入模型网络，训练中代码层经门控并入后继续训练。据论文披露，12层模型预训练中三次插入代码层，相当于多获得约15%训练进度；30种经典算法准确率从55%升至84%。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652741306&idx=1&sn=5e9646d1654e0942a26514d508e8f58d",
+      "source": "新智元(公众号)",
+      "company": "DoubleAI",
+      "published_at": "2026-11-08 17:47"
+    }
+  ]
+}

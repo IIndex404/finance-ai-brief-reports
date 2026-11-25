@@ -1,0 +1,58 @@
+{
+  "report_date": "2026-11-09",
+  "counts": {
+    "market": 3,
+    "industry": 3,
+    "technology": 3
+  },
+  "all_parts_sent": false,
+  "exact_sent_copy": false,
+  "headlines": [
+    {
+      "category": "market",
+      "title": "兴业银行投产首套昇腾液冷超节点，支撑600余智能体",
+      "url": "https://news.ifeng.com/c/8xtPoLH9iPN"
+    },
+    {
+      "category": "market",
+      "title": "吉林银行AI企业综合服务应用入选吉林金融科技创新监管公示",
+      "url": "https://changchun.pbc.gov.cn/changchun/124660/2026110911224667331/index.html"
+    },
+    {
+      "category": "market",
+      "title": "民生银行开源智能体支付框架TAPay",
+      "url": "https://www.cebnet.com.cn/20261104/103007128.html"
+    },
+    {
+      "category": "industry",
+      "title": "邓白氏进博会首发智能开放平台，接入金融风控场景",
+      "url": "https://feng.ifeng.com/c/8xtOwe8CdMt"
+    },
+    {
+      "category": "industry",
+      "title": "Palantir获AmeriLife企业AI订单，落地保险分销",
+      "url": "https://iireporter.com/amerilife-selects-palantir-for-enterprise-ai-transformation"
+    },
+    {
+      "category": "industry",
+      "title": "企业预警通上线金融AI工作区通晓，可自动取数与写报告",
+      "url": "https://www.21jingji.com/article/20261106/herald/80a8945f747fc4c00823fd23286de8a3.html"
+    },
+    {
+      "category": "technology",
+      "title": "月之暗面开源Kimi K3，2.8万亿参数支持1M上下文",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3"
+    },
+    {
+      "category": "technology",
+      "title": "英伟达开源Cosmos 3四个世界模型权重",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
+    },
+    {
+      "category": "technology",
+      "title": "DoubleAI提出机制干预：训练中写代码改架构",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652741306&idx=1&sn=5e9646d1654e0942a26514d508e8f58d"
+    }
+  ],
+  "confirmed_sent_events": []
+}

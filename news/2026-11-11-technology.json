@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-11",
+  "category": "technology",
+  "count": 3,
+  "events": [
+    {
+      "category": "technology",
+      "title": "DeepMind用AI形式化验证Signal协议代码",
+      "summary": "Google DeepMind公布AlphaProof Code智能体验证框架，并称其用AI对Signal协议实际代码完成形式化验证，生成超过600万行Lean证明，整个过程耗时四周。团队还将两个已修复漏洞重新引入隔离版本，系统均给出机器可检验的不安全证明。该工作由研究人员与多个模型协作完成，人工复核约1%代码。",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "source": "Google DeepMind Blog",
+      "company": "Google DeepMind",
+      "published_at": "2026-11-10 20:02"
+    },
+    {
+      "category": "technology",
+      "title": "字节跳动发布Seedream 5.5图像生成与编辑模型",
+      "summary": "字节跳动推出Seedream 5.5图像生成与编辑模型，已在即梦、豆包和豆包工作上线。该模型支持连续多轮编辑、透明PNG生成、图层拆分和多语言文字渲染；据官方信息，2K方图编辑单张成本约0.28元，不到Seedream 5.0 Pro一半，API延续输入图加输出图两段计费。",
+      "url": "https://www.qbitai.com/2026/11/508828.html",
+      "source": "量子位",
+      "company": "字节跳动",
+      "published_at": "2026-11-10 10:48"
+    },
+    {
+      "category": "technology",
+      "title": "openJiuwen发布TTSE双轨自演进框架",
+      "summary": "openJiuwen发布TTSE双轨自演进框架，将智能体经验拆为环境事实FACT与条件式技巧TIP，通过归因、退役、矛盾合成和归纳持续更新。团队称在ALFWorld、ScienceWorld等五个基准上验证，ALFWorld成功率最高98.51%，ScienceWorld原生成功率提升20.38个百分点，并已接入WorkSwarm蜂群办公智能体。",
+      "url": "https://www.qbitai.com/2026/11/508998.html",
+      "source": "量子位",
+      "company": "openJiuwen",
+      "published_at": "2026-11-10 15:56"
+    }
+  ]
+}

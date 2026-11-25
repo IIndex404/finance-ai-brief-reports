@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-16",
+  "category": "industry",
+  "count": 3,
+  "events": [
+    {
+      "category": "industry",
+      "title": "华为联合20余家伙伴发起金融智能体“百行”行动",
+      "summary": "华为在上海举办openJiuwen × FAB金融伙伴研讨会，联合中软国际、南天信息、神州信息、宇信等20多家伙伴发起“百行”行动，并与南天信息启动“金融FDE百人团”。据华为披露，开源的openJiuwen智能体平台下载量已超600万、汇聚1000多位认证开发者；FAB金融智能体加速器覆盖10大类金融场景，沉淀逾200项金融工程工艺资产并开放共享。",
+      "url": "https://weibo.com/ttarticle/x/m/geoshow/id/2309405364881884315846?domain=local&utm_source=local",
+      "source": "微博",
+      "company": "华为",
+      "published_at": "2026-11-12"
+    },
+    {
+      "category": "industry",
+      "title": "AlphaPai面向全球上线AI原生投研平台",
+      "summary": "AI原生投研平台AlphaPai在香港金融科技周期间宣布面向全球市场正式上线，将中国投研场景积累的产品能力推向海外。据其披露，中国市场产品已服务超过12万名专业用户、覆盖8000余家金融与资管机构，平台以PaiWork投研工作台和PaiMeeting会议助手承接资料收集、信息处理与成果输出等工作流。",
+      "url": "https://news.taiwannet.com.tw/news/227585/%E9%A6%99%E6%B8%AF%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E5%91%A8%E7%8F%BE%E5%A0%B4%E7%99%BC%E4%BD%88%EF%BC%81alphapai%E9%9D%A2%E5%90%91%E5%85%A8%E7%90%83%E5%B0%88%E6%A5%AD%E6%8A%95%E8%B3%87%E8%80%85%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%B7%9A.html?categoryId=ChinaBusiness",
+      "source": "台灣產經新聞網",
+      "company": "AlphaPai",
+      "published_at": "2026-11-13 08:00"
+    },
+    {
+      "category": "industry",
+      "title": "Tipalti推出应付账款智能体AP Agent并接入MCP",
+      "summary": "美国金融科技公司Tipalti推出AP Agent，以智能体覆盖发票采集、编码、审批、付款与对账的应付账款全流程，并提供MCP能力，把财务数据接入Claude Enterprise等企业AI工具。据该公司披露，其年化支付处理规模超过1000亿美元、覆盖120种货币、服务约6500家客户，产品采用可配置的人在环机制与全量审计日志。",
+      "url": "https://thefintechtimes.com/tipalti-launches-ap-agent-with-mcp-links-to-enterprise-ai-tools/",
+      "source": "The Fintech Times",
+      "company": "Tipalti",
+      "published_at": "2026-11-15 09:00"
+    }
+  ]
+}

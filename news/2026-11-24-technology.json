@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-24",
+  "category": "technology",
+  "count": 3,
+  "events": [
+    {
+      "category": "technology",
+      "title": "智谱发布GLM-5.4旗舰模型，采用循环层架构",
+      "summary": "智谱上线旗舰模型GLM-5.4，为其首个采用Loop Transformer架构的模型，参数量750B，对基座28层做两轮循环。据官方称其智能水平达到2T—3T级模型，新增原生视觉并支持1M上下文，主打可调用专业软件接口的“泛Coding”。即日起向GLM Coding Plan全量用户开放，API待安全评估后开放，权重计划开源。",
+      "url": "https://www.jiqizhixin.com/articles/2026-11-23-12?source=rss",
+      "source": "机器之心",
+      "company": "智谱",
+      "published_at": "2026-11-23"
+    },
+    {
+      "category": "technology",
+      "title": "清华与无问芯穹开源推理集群仿真平台Uni3Sim",
+      "summary": "无问芯穹联合清华大学朱振华、汪玉团队开源系统级仿真平台Uni3Sim，可在集群落地前模拟大模型推理的计算、存储与互连开销，预测首Token时延、逐Token生成间隔与系统吞吐。平台接入SGLang、vLLM原生调度器，在A800、沐曦C500与昇腾910B上验证，TTFT误差低于21.2%、TPOT误差低于9.4%、吞吐误差低于5.2%。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075779&idx=1&sn=636885b17d34d106010c6d8fbe0fb5bb",
+      "source": "机器之心(公众号)",
+      "company": "无问芯穹、清华大学",
+      "published_at": "2026-11-23 17:30"
+    },
+    {
+      "category": "technology",
+      "title": "MemOnce提出可扩展记忆架构，KV缓存降1313倍",
+      "summary": "MemOnce提出面向大模型的可扩展记忆架构，只缓存最后一层少量隐状态作为紧凑记忆表示，再按需解码回各层KV缓存，并用跨层只计算一次的稀疏索引检索相关记忆。据论文，将Qwen3.5-4B适配后，1M上下文下记忆状态缓存减少1313倍、预填充时延降低6.9倍，吞吐提升3.5倍，整体记忆性能提升5.77%。",
+      "url": "https://huggingface.co/papers/2611.27973",
+      "source": "HF Daily Papers",
+      "company": "MemOnce研究团队",
+      "published_at": "2026-11-23 08:00"
+    }
+  ]
+}

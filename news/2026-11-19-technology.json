@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-19",
+  "category": "technology",
+  "count": 3,
+  "events": [
+    {
+      "category": "technology",
+      "title": "OpenAI发布GPT-6.2 Astra与Sol两款模型",
+      "summary": "OpenAI发布前沿模型GPT-6.2 Astra与高效模型GPT-6.2 Sol。据其披露，Astra在Agents' Last Exam上比GPT-6 Astra高5.2分，任务成本不足后者三分之一；API输入、输出价格比前代低20%，缓存输入价格下降60%。Sol在FrontierCode 2.0上与Astra相差0.5分，成本约为其五分之一。",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "published_at": "2026-11-18 01:45"
+    },
+    {
+      "category": "technology",
+      "title": "港大提出A-GRAE，破解GRPO探索不足",
+      "summary": "香港大学团队在NeurIPS 2026发表论文，将GRPO的探索不足与难度不敏感归因于“隐式优势对称性”，并提出A-GRAE非对称优势重塑方法，可即插即用于GRPO及其变体，不增加额外算力。据论文披露，DAPO+A-GRAE在AIME2025上k=1到256的平均表现达53.3%，高于原版DAPO的52.2%。代码已开源。",
+      "url": "https://m.x-techcon.com/article/210273.html",
+      "source": "m.x-techcon.com",
+      "company": "香港大学",
+      "published_at": "2026-11-18"
+    },
+    {
+      "category": "technology",
+      "title": "Vercel开源智能体框架eve 1.0正式可用",
+      "summary": "Vercel宣布开源智能体框架eve 1.0正式可用，采用Apache-2.0协议，支持自选模型、自定义工具与人工审批节点，任务中断后可从上次完成的步骤续跑。官方称预览至今发布230多次更新、合并上千个代码改动请求；一项模拟模型、不含工具调用的压测中，单轮对话中位耗时从约3秒降至数百毫秒。",
+      "url": "https://www.x-techcon.com/article/210176.html",
+      "source": "x-techcon.com",
+      "company": "Vercel",
+      "published_at": "2026-11-18 06:29"
+    }
+  ]
+}

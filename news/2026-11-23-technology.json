@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-23",
+  "category": "technology",
+  "count": 3,
+  "events": [
+    {
+      "category": "technology",
+      "title": "清华与滴滴提出JANUS：微调后矫正恢复旧知识",
+      "summary": "清华大学与滴滴自动驾驶联合提出JANUS后处理框架，在模型完成微调后通过雅可比零空间投影矫正参数，以缓解灾难性遗忘。在LLaMA-2-7B的数学与代码任务上，历史知识保持指标由67.55%和79.71%提升至106.16%和109.83%，新任务能力仅下降约1个百分点；7B模型单卡A100约30分钟完成矫正。该工作已被NeurIPS 2026接收，论文与代码已公开。",
+      "url": "https://www.sohu.com/a/1104909945_122014422?scm=10001.7746_13-119000.0.0-0-0-0-0.0&spm=smpc.channel_354.block3_32_P7Ovbu_1_fd.6.1795344576896ScBwuwP_7746",
+      "source": "Sohu",
+      "company": "清华大学",
+      "published_at": "2026-11-22 18:49"
+    },
+    {
+      "category": "technology",
+      "title": "腾讯元宝与KCL发布群聊Agent记忆基准",
+      "summary": "腾讯元宝与伦敦国王学院NLP团队联合发布群聊智能体记忆基准GroupAssistBench，基于50个真实群聊的80,299条历史消息构建2,395道评测题，分为记忆召回与开放式服务两层。研究比较14组配置：EverMemOS召回得分0.621高于完整上下文的0.570，服务层得分0.247却低于0.431；团队另提出RER与ACB两种干预。论文、代码与数据集已开放。",
+      "url": "https://www.qbitai.com/2026/11/511841.html",
+      "source": "量子位",
+      "company": "腾讯",
+      "published_at": "2026-11-21 19:40"
+    },
+    {
+      "category": "technology",
+      "title": "前DeepSeek-VL负责人开源本地Agent Linger",
+      "summary": "前DeepSeek-VL项目负责人Tony Zhang公布创业项目Linger，开源一款运行在个人电脑上的智能体，可操作本地浏览器、日历与邮件，并支持接入第三方模型。据团队披露，其PolyStrata推理引擎可在12GB显存的RTX 3060上以45.5 tokens/s运行125B参数的Qwen3.8-Flash-Next，LoCoMo长期记忆基准准确率为95%。",
+      "url": "https://www.qbitai.com/2026/11/511570.html",
+      "source": "量子位",
+      "company": "Simplex AI",
+      "published_at": "2026-11-21 14:32"
+    }
+  ]
+}

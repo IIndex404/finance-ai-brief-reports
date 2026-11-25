@@ -1,0 +1,113 @@
+{
+  "report_date": "2026-11-19",
+  "counts": {
+    "market": 3,
+    "industry": 3,
+    "technology": 3
+  },
+  "all_parts_sent": true,
+  "exact_sent_copy": true,
+  "headlines": [
+    {
+      "category": "market",
+      "title": "摩根大通自研支付模型LPM上线运行",
+      "url": "https://www.mpaypass.com.cn/news/202611/18132429.html"
+    },
+    {
+      "category": "market",
+      "title": "上海银行会话式AI服务技改项目公示中标候选人",
+      "url": "https://www.bosc.cn/zh/jrsh/xxgk_1091/tzzxgqk/zbcg/202611/t20261119_547306.shtml"
+    },
+    {
+      "category": "market",
+      "title": "赣州银行披露员工零代码与AI应用成效",
+      "url": "https://app.xinhuanet.com/news/article.html?articleId=20261118b2d03c05aa7b408b873d92daa2571d8b&timestamp=9071"
+    },
+    {
+      "category": "industry",
+      "title": "中电金信发布智能体工厂Cework，覆盖12个金融业务领域",
+      "url": "https://www.sohu.com/a/1103107244_120847886?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334&spm=smpc.channel_248.block3_308_NDdFbm_1_fd.1.1794978099915brUg2sK"
+    },
+    {
+      "category": "industry",
+      "title": "蚂蚁数科与韩国JB金融集团签约探索银行AI智能体",
+      "url": "https://finance.sina.com.cn/roll/2026-11-18/doc-inizeaax1031015.shtml.md"
+    },
+    {
+      "category": "industry",
+      "title": "白鸽在线向三家财险公司开放MaaS风控决策能力",
+      "url": "http://invest.10jqka.com.cn/20261119/c681973347.shtml"
+    },
+    {
+      "category": "technology",
+      "title": "OpenAI发布GPT-6.2 Astra与Sol两款模型",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+    },
+    {
+      "category": "technology",
+      "title": "港大提出A-GRAE，破解GRPO探索不足",
+      "url": "https://m.x-techcon.com/article/210273.html"
+    },
+    {
+      "category": "technology",
+      "title": "Vercel开源智能体框架eve 1.0正式可用",
+      "url": "https://www.x-techcon.com/article/210176.html"
+    }
+  ],
+  "confirmed_sent_events": [
+    {
+      "part": 1,
+      "category": "market",
+      "title": "赣州银行披露员工零代码与AI应用成效",
+      "url": "https://app.xinhuanet.com/news/article.html?articleId=20261118b2d03c05aa7b408b873d92daa2571d8b&timestamp=9071"
+    },
+    {
+      "part": 1,
+      "category": "market",
+      "title": "上海银行会话式AI服务技改项目公示中标候选人",
+      "url": "https://www.bosc.cn/zh/jrsh/xxgk_1091/tzzxgqk/zbcg/202611/t20261119_547306.shtml"
+    },
+    {
+      "part": 1,
+      "category": "industry",
+      "title": "蚂蚁数科与韩国JB金融集团签约探索银行AI智能体",
+      "url": "https://finance.sina.com.cn/roll/2026-11-18/doc-inizeaax1031015.shtml.md"
+    },
+    {
+      "part": 1,
+      "category": "industry",
+      "title": "白鸽在线向三家财险公司开放MaaS风控决策能力",
+      "url": "http://invest.10jqka.com.cn/20261119/c681973347.shtml"
+    },
+    {
+      "part": 1,
+      "category": "market",
+      "title": "摩根大通自研支付模型LPM上线运行",
+      "url": "https://www.mpaypass.com.cn/news/202611/18132429.html"
+    },
+    {
+      "part": 1,
+      "category": "technology",
+      "title": "OpenAI发布GPT-6.2 Astra与Sol两款模型",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+    },
+    {
+      "part": 1,
+      "category": "industry",
+      "title": "中电金信发布智能体工厂Cework，覆盖12个金融业务领域",
+      "url": "https://www.sohu.com/a/1103107244_120847886?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334&spm=smpc.channel_248.block3_308_NDdFbm_1_fd.1.1794978099915brUg2sK"
+    },
+    {
+      "part": 1,
+      "category": "technology",
+      "title": "Vercel开源智能体框架eve 1.0正式可用",
+      "url": "https://www.x-techcon.com/article/210176.html"
+    },
+    {
+      "part": 1,
+      "category": "technology",
+      "title": "港大提出A-GRAE，破解GRPO探索不足",
+      "url": "https://m.x-techcon.com/article/210273.html"
+    }
+  ]
+}

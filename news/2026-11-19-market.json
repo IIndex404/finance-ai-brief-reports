@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-19",
+  "category": "market",
+  "count": 3,
+  "events": [
+    {
+      "category": "market",
+      "title": "摩根大通自研支付模型LPM上线运行",
+      "summary": "摩根大通自研支付专用模型LPM并投入实际运行，每日处理数百万笔交易。据披露，该模型以交易记录训练，最大版本使用4000亿Token，单笔实时评估的欺诈检测表现较现有系统高62.7%，信用卡欺诈检测准确率提升85.5%；ACH欺诈拦截率提升27.4%，电汇检测率仅增5.6%。",
+      "url": "https://www.mpaypass.com.cn/news/202611/18132429.html",
+      "source": "移动支付网",
+      "company": "摩根大通",
+      "published_at": "2026-11-18 13:24"
+    },
+    {
+      "category": "market",
+      "title": "上海银行会话式AI服务技改项目公示中标候选人",
+      "summary": "上海银行会话式人工智能服务技改项目公示中标候选人，北京中科金财科技股份有限公司以224.97万元报价排名第一。项目要求免费维保期后软件产品年度维保含税单价不高于11.26万元/年，系统后期零星需求开发人天含税单价不高于2300元/人天。",
+      "url": "https://www.bosc.cn/zh/jrsh/xxgk_1091/tzzxgqk/zbcg/202611/t20261119_547306.shtml",
+      "source": "上海银行",
+      "company": "上海银行",
+      "published_at": "2026-11-18 00:00"
+    },
+    {
+      "category": "market",
+      "title": "赣州银行披露员工零代码与AI应用成效",
+      "summary": "赣州银行披露零代码平台与人工智能应用进展，全行100多名员工可自主搭建应用，40多个机构和部门上线应用74个，数十个AI场景在内网落地。据该行测算，175个网点每日报表流程由一小时以上压缩至10分钟，全年约合节省40个人月工作量；零代码平台已接入行内私有化部署模型。",
+      "url": "https://app.xinhuanet.com/news/article.html?articleId=20261118b2d03c05aa7b408b873d92daa2571d8b&timestamp=9071",
+      "source": "新华网客户端",
+      "company": "赣州银行",
+      "published_at": "2026-11-18"
+    }
+  ]
+}

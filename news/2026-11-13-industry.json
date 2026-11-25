@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-13",
+  "category": "industry",
+  "count": 3,
+  "events": [
+    {
+      "category": "industry",
+      "title": "安硕信息中标绍兴银行大模型信贷数智报告平台",
+      "summary": "上海安硕信息技术股份有限公司中标绍兴银行大模型信贷数智报告平台，采购方式为单一来源采购，开标日期为2026年11月3日，成交结果已于11月12日公告。公告中成交人报价以掩码形式披露（9*****.00元，含税），未显示具体金额。",
+      "url": "https://wap.stockstar.com/detail/RB2026111200039535",
+      "source": "证券之星",
+      "company": "安硕信息",
+      "published_at": "2026-11-12"
+    },
+    {
+      "category": "industry",
+      "title": "Glia银行AI平台ARR突破1亿美元",
+      "summary": "据Glia披露，其银行AI平台年度经常性收入突破1亿美元并保持盈利，2026年第三季度AI解决方案销售额同比增长93%，平台服务逾700家银行与信用社，每日处理数千万次智能体交互，覆盖超9500万美国消费者。",
+      "url": "https://fintechmagazine.com/news/glia-passes-us-100m-in-arr-as-demand-for-banking-ai-surges",
+      "source": "FinTech Magazine",
+      "company": "Glia",
+      "published_at": "2026-11-12 20:26"
+    },
+    {
+      "category": "industry",
+      "title": "IBM与微软发布金融保险业AI智能体平台",
+      "summary": "IBM与微软发布企业级AI智能体构建、运行与治理平台Imagine Enterprise，初期覆盖金融、保险、零售三个行业，结合IBM Consulting的6000多个已构建智能体与微软Azure、Copilot Studio、Purview等基座，由双方常驻工程师支持从试验到生产。金融科技与资产管理公司SEI表示正评估该智能体技术应用。提供时间、价格和地域尚未披露。",
+      "url": "https://news.yahoo.co.jp/articles/55ae0cae494c0242cf08242ced8fd69f3407f17e",
+      "source": "Yahoo!ニュース",
+      "company": "IBM与微软",
+      "published_at": "2026-11-10"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-20",
+  "category": "industry",
+  "count": 3,
+  "events": [
+    {
+      "category": "industry",
+      "title": "华为发布Fintelligent金融AI解决方案",
+      "summary": "华为在2026新加坡金融科技节发布面向全球金融机构的Fintelligent AI解决方案，基于开放混合AI架构构建智能体工厂、Token工厂和数据知识工厂。该方案提出“两超多专”金融智能体架构，在信贷、营销、风控、财富管理等领域构建专业智能体，并为客户和员工分别打造超级智能体。据华为披露，其已服务全球7100多家金融客户，包括全球前100家银行中的54家。",
+      "url": "https://e.huawei.com/cn/news/2026/industries/finance/singapore-fintech-festival-2026",
+      "source": "Huawei Enterprise",
+      "company": "华为",
+      "published_at": "2026-11-19 00:00"
+    },
+    {
+      "category": "industry",
+      "title": "Arva AI完成2000万美元A轮融资，专注银行AI智能体",
+      "summary": "Arva AI宣布完成2000万美元A轮融资，由Arthur Ventures领投，Y Combinator与Gradient参投，资金将用于研发更高精度的自有模型并扩展其智能体基础设施AgentCore。据该公司披露，其智能体已在合规、开户、支付运营与放贷等银行后台决策中落地，客户包括一家美国前十大银行、一家标普500支付机构及金融科技公司Wise。",
+      "url": "https://fintech.global/2026/11/19/arva-ai-lands-20m-series-a-for-ai-banking-agents/?utm_source=rss&utm_medium=rss&utm_campaign=arva-ai-lands-20m-series-a-for-ai-banking-agents",
+      "source": "FinTech Global",
+      "company": "Arva AI",
+      "published_at": "2026-11-19 21:54"
+    },
+    {
+      "category": "industry",
+      "title": "Arcesium推出面向对冲基金的AI就绪平台Blue",
+      "summary": "Arcesium推出面向成长型对冲基金的集成平台Arcesium Blue，将云原生软件与管理服务结合，覆盖实时组合管理、订单执行、合规风控及交易后运营。其核心为Aquata数据平台，支持AI原生工作流，并提供含数百个预置智能体与应用的嵌入式AI环境Arcesium Intelligence。Horizon Asset为其旗舰客户。",
+      "url": "https://fintech.global/2026/11/19/arcesium-unveils-blue-platform-for-growing-hedge-funds/?utm_source=rss&utm_medium=rss&utm_campaign=arcesium-unveils-blue-platform-for-growing-hedge-funds",
+      "source": "FinTech Global",
+      "company": "Arcesium",
+      "published_at": "2026-11-19 22:14"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-17",
+  "category": "technology",
+  "count": 3,
+  "events": [
+    {
+      "category": "technology",
+      "title": "阿里巴巴发布Qwen4-Max，单任务成本降6成",
+      "summary": "阿里巴巴发布新一代基座大模型Qwen4-Max，总参数2.4T，采用Qwen稀疏注意力MoE架构，每次仅激活71B，原生支持视觉与百万token上下文。据官方披露，模型已在千问AI平台开放API，缓存命中输入价格低至每百万token 0.5元，单任务平均费用较上代降低58%；CodeArena前端编程盲测位列第六，ALE智能体评测得46.7分，系列中小尺寸模型将陆续开源。",
+      "url": "https://www.qbitai.com/2026/11/510486.html",
+      "source": "量子位",
+      "company": "阿里巴巴",
+      "published_at": "2026-11-16 15:51"
+    },
+    {
+      "category": "technology",
+      "title": "上海AI实验室开源书生-S2.1 Flash科学模型",
+      "summary": "上海人工智能实验室联合复旦大学、中科院软件所等机构发布并开源科学多模态大模型书生-S2.1 Flash，支持分子、晶体、蛋白质序列、光谱等十余类科学输入，可在Blender、3D Slicer、QGIS与CAD环境中完成建模分析。据该团队披露，模型在MLE-bench Lite得90.3分，33项通用智能体基准中取得4项第一、7项第二，并公布限时优惠调用价格。",
+      "url": "https://www.163.com/dy/article/LBSS354N0511AQHO.html",
+      "source": "网易",
+      "company": "上海人工智能实验室",
+      "published_at": "2026-11-16 21:20"
+    },
+    {
+      "category": "technology",
+      "title": "Hugging Face推理服务改用OpenRouter路由",
+      "summary": "Hugging Face宣布其Inference Providers改用OpenRouter路由，语言模型请求按实时价格、速度与可靠性选择供应商，失败自动重试切换，兼容OpenAI与Anthropic接口格式，同一HF token可调用Hub上的开放权重模型。据其引用数据，OpenRouter上开放权重模型token占比从2025年10月的26.8%升至2026年9月末的71.7%。",
+      "url": "https://huggingface.co/blog/openrouter",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "published_at": "2026-11-16 08:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-12",
+  "category": "technology",
+  "count": 3,
+  "events": [
+    {
+      "category": "technology",
+      "title": "谷歌DeepMind正式开放Gemini 4 Carbon",
+      "summary": "谷歌DeepMind宣布Gemini 4 Carbon正式向开发者、企业和消费者开放。据谷歌披露，该模型在CursorBench 4.0、Perplexity WANDR和Zapier AutomationBench三项基准排名第一，单任务成本比次优外部模型低2倍以上。Carbon强化长程智能体与网络安全能力，并在Antigravity中预览/swarm多智能体协作。",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "source": "Google DeepMind Blog",
+      "company": "谷歌DeepMind",
+      "published_at": "2026-11-11 00:03"
+    },
+    {
+      "category": "technology",
+      "title": "上智院等开源1.9B记忆模块REMORY",
+      "summary": "上海科学智能研究院联合上海创智学院、复旦大学开源记忆模块REMORY，可训练参数1.9B，用两张H800完成全自监督训练，基座模型权重冻结。据团队披露，驱动Qwen3.8-27B执行Terminal-Bench 2.1时工具报错由933次降至568次，单任务生成开销从4.29美元降至2.86美元；BrowseComp工具报错减少49.7%。该模块以残差token缓解上下文压缩后的记忆丢失。",
+      "url": "https://www.163.com/dy/article/LBET76RG0511AQHO.html?f=post2020_dy_recommends",
+      "source": "网易",
+      "company": "上海科学智能研究院",
+      "published_at": "2026-11-11 11:01"
+    },
+    {
+      "category": "technology",
+      "title": "微软披露Lazarus后门：改写不到10个休眠神经元",
+      "summary": "微软研究院披露名为Lazarus的后门手法：无需重新训练，改写大模型中不到10个休眠神经元，就能让智能体在隐藏触发条件出现时执行下载并运行攻击者代码等命令，同时仍通过常规安全评测。微软称Foundry通过核验模型来源、绑定可信发布方并在自有容器中扫描软件环境应对该类风险，并正在研发基于前沿模型的权重扫描与模型签名机制。",
+      "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+      "source": "Microsoft Research Blog",
+      "company": "微软研究院",
+      "published_at": "2026-11-11 04:52"
+    }
+  ]
+}

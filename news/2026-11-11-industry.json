@@ -1,0 +1,16 @@
+{
+  "report_date": "2026-11-11",
+  "category": "industry",
+  "count": 1,
+  "events": [
+    {
+      "category": "industry",
+      "title": "Palantir获AmeriLife保险AI合作",
+      "summary": "Palantir被AmeriLife Group选中，双方建立企业AI合作，将Foundry与人工智能平台用于AmeriLife的健康与财富分销业务。原文称，AmeriLife已有基于Palantir工具的AI驱动工作流在生产运行，并计划在全公司推广。",
+      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-technologies-pltr-lands-enterprise-111205834.html",
+      "source": "finance.yahoo.com",
+      "company": "Palantir",
+      "published_at": "2026-11-08 19:12"
+    }
+  ]
+}

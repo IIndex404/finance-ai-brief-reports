@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-23",
+  "category": "industry",
+  "count": 3,
+  "events": [
+    {
+      "category": "industry",
+      "title": "宇信科技启动金融智算Token工厂（湖北）",
+      "summary": "宇信科技在2026算力互联网大会上启动金融智算Token工厂（湖北），联合湖北大数据集团算力科技有限公司、硅基流动共建区域金融智算服务平台。平台面向银行与非银金融机构提供专属算力、专属模型和按Token用量计费三种服务，已接入DeepSeek、GLM、千问等模型，覆盖智能风控、信贷辅助、智能客服等场景。",
+      "url": "http://www.investorscn.com/2026/11/20/138286/",
+      "source": "投资家网",
+      "company": "宇信科技",
+      "published_at": "2026-11-18"
+    },
+    {
+      "category": "industry",
+      "title": "连连数字发布AI数字员工平台并完成B2B智能体支付",
+      "summary": "连连数字在新加坡金融科技节期间发布LianLian XWorker AI数字员工平台，面向跨境商业场景调度专业智能体分工执行任务，并以Agent Wallet、XPay管理智能体身份、支付意图、权限与预算。此前连连数字与Visa合作，用专为智能体设计的支付标记完成亚太首笔B2B智能体真实交易，为一笔办公用品采购。",
+      "url": "https://www.tmtpost.com/8213773.html",
+      "source": "钛媒体",
+      "company": "连连数字",
+      "published_at": "2026-11-19"
+    },
+    {
+      "category": "industry",
+      "title": "烯牛数据联合腾讯WorkBuddy上线烯牛Buddy",
+      "summary": "烯牛数据联合腾讯WorkBuddy正式上线「烯牛Buddy」AI投研工作台，面向投资机构、银行、券商、保险等用户提供基于一级市场金融数据的AI投研服务。首期以十一项技能覆盖LP、GP、企业三个维度的募投管退环节，用户需在WorkBuddy中授权接入后使用。",
+      "url": "https://www.sohu.com/a/1103978100_673344?scm=10001.7746_13-119000.0.0-0-0-0-0.0&spm=smpc.channel_354.block3_32_P7Ovbu_1_fd.28.17951427445758sQD7fi_7746",
+      "source": "Sohu",
+      "company": "烯牛数据",
+      "published_at": "2026-11-18"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-16",
+  "category": "technology",
+  "count": 3,
+  "events": [
+    {
+      "category": "technology",
+      "title": "DeepSeek开放全家桶应用API并开源聊天前端",
+      "summary": "DeepSeek正式开放全家桶应用API，把App中的联网搜索、深度思考搜索、文件上传、链接阅读、语音识别与合成、OCR等能力以独立接口开放，支持单独调用、分别计费。V4.1-Flash模型已在Messages、Responses与Chat Completions接口下支持相关对话扩展功能，何时检索、读哪些网页由模型自动完成。",
+      "url": "https://www.qbitai.com/2026/11/510003.html",
+      "source": "量子位",
+      "company": "DeepSeek",
+      "published_at": "2026-11-13"
+    },
+    {
+      "category": "technology",
+      "title": "清华提出CoACT：Coding Agent token开销降33%",
+      "summary": "清华大学人工智能学院团队提出面向Coding Agent的observation压缩方法CoACT，以“下一步动作保持”为目标训练轻量压缩器。在SWE-bench Verified的200个实例、三个Agent模型上，平均减少33.0%的总token消耗，平均PASS@1从69.0%升至71.0%。该工作已被ICSE 2027接收，代码已开源。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074362&idx=3&sn=da18bc335c6b6345ee976e60b4009347",
+      "source": "机器之心(公众号)",
+      "company": "清华大学",
+      "published_at": "2026-11-13 14:28"
+    },
+    {
+      "category": "technology",
+      "title": "港科大提出视觉原生智能体框架与ODE数据演化",
+      "summary": "香港科技大学MMSense Lab提出视觉原生智能体框架，为每张图编号存入图像库以便工具间复用，并提出On-policy Data Evolution（ODE）合成训练数据。8B模型八项评测平均准确率从24.9%升至39.0%，30B模型从30.6%升至41.5%；ODE-30B-A3B经强化学习达41.53%。该工作已被NeurIPS 2026接收。",
+      "url": "https://www.sohu.com/a/1101883017_122014422?scm=10001.7746_13-119000.0.0-0-0-0-0.0&spm=smpc.channel_354.block3_32_P7Ovbu_1_fd.4.1794735317148uaiWrM7_7746",
+      "source": "Sohu",
+      "company": "香港科技大学",
+      "published_at": "2026-11-15 17:35"
+    }
+  ]
+}

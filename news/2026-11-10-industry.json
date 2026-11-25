@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-10",
+  "category": "industry",
+  "count": 3,
+  "events": [
+    {
+      "category": "industry",
+      "title": "中软国际中标东南亚头部银行数据现代化亿级项目",
+      "summary": "中国软件国际（00354.HK）公告称，近日成功中标东南亚一家头部银行的企业级数据现代化亿级总集成项目，将基于华为DWS进行数据迁移改造。项目以全栈AI一体化数智方案推进构建唯一可信数据源、全链路数据治理、降低IT总拥有成本等六大目标，并为后续智能风控、智能营销、数据分析类AI应用构筑数据底座，同步增强核心客户信息框架GCIF能力。",
+      "url": "https://www.zhitongcaijing.com/content/detail/1520482.html",
+      "source": "智通财经网",
+      "company": "中国软件国际",
+      "published_at": "2026-11-09 17:37"
+    },
+    {
+      "category": "industry",
+      "title": "OpenAI与摩根大通签约提供编程与网络安全工具",
+      "summary": "OpenAI总裁兼联合创始人Greg Brockman在WSJ Tech大会上宣布，摩根大通（JPMorgan Chase）已与OpenAI签约，将使用其Codex编程助手，并部署其技术用于网络安全防护及更广泛的AI应用。Brockman未披露交易金额，但称企业业务收入占比已从此前约30%升至多数。据其称，公司尤看重在网络安全领域合作以保护金融系统。",
+      "url": "https://www.fstech.co.uk/fst/OpenAI_announces_partnership_with_JPMorgan_as_it_works_to_grow_enterprise_revenue.php",
+      "source": "fstech.co.uk",
+      "company": "OpenAI",
+      "published_at": "2026-11-09 19:09"
+    },
+    {
+      "category": "industry",
+      "title": "德意志银行与蚂蚁数科发布批发金融智能体支付白皮书",
+      "summary": "德意志银行与蚂蚁数科于11月9日联合发布《Agentic Payments in Wholesale Finance》白皮书，提出AI智能体可发起机构支付，但须由机构自有的独立控制层决定是否放行。白皮书按五级自动化划分，建议近期停留在AI辅助决策与受限智能体执行之间，并列举司库流动性管理、跨境支付编排、贸易融资三类对公用例。",
+      "url": "https://www.financexmagazine.com/post/agentic-payments-in-wholesale-finance-deutsche-bank-and-ant-map-the-guardrails",
+      "source": "financexmagazine.com",
+      "company": "蚂蚁数科",
+      "published_at": "2026-11-09 17:55"
+    }
+  ]
+}

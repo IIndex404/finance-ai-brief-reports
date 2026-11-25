@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-20",
+  "category": "technology",
+  "count": 3,
+  "events": [
+    {
+      "category": "technology",
+      "title": "谷歌发布Gemini 4 Neon，任务成本降三成",
+      "summary": "谷歌发布Gemini 4 Neon模型，上下文窗口100万token，支持四档思考深度，定价每百万输入token 3美元、输出15美元，缓存输入0.15美元。据官方数据，其在Artificial Analysis智能指数xhigh思考档得61分列第3，默认档位单任务成本较Carbon低32%，并在Legal Research Bench与Tax Agent Bench居首。",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "source": "Google DeepMind Blog",
+      "company": "谷歌DeepMind",
+      "published_at": "2026-11-19 05:35"
+    },
+    {
+      "category": "technology",
+      "title": "英伟达SEED降低混合模型记忆开销，吞吐提升42%",
+      "summary": "英伟达研究者提出SEED方法，在不改动原模型权重的前提下，降低混合架构大模型写出深层记忆与存储循环状态的开销。据论文，SEED让除最后一个以外的输入token只运行前31层即可写出后17层的KV Cache与循环状态，并把循环状态压缩到约四分之一。在GB300与SGLang上，Qwen3.8-Flash-Next的每GPU峰值吞吐提升16%～42%。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075302&idx=3&sn=3638e59c38cbc04d5ff6d800abd49c51",
+      "source": "机器之心(公众号)",
+      "company": "英伟达",
+      "published_at": "2026-11-19 12:09"
+    },
+    {
+      "category": "technology",
+      "title": "八所高校发布EFE编程智能体具身评测",
+      "summary": "西北大学、卡内基梅隆大学等8所高校研究者提出Embodied First Exam（EFE）评测框架，把通用编程智能体接入仿真机器人，覆盖1156个任务、47种机器人。结果显示，最强的Claude Fable 5.2在同一批391个核心任务上特权模式解出80%，仅靠传感器的标准模式只解出47%；456项标准模式核心测试中有169项无人解出。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652744025&idx=3&sn=281581d8045dcf2a69ab7a550d1c1f47",
+      "source": "新智元(公众号)",
+      "company": "西北大学等8所高校",
+      "published_at": "2026-11-19 12:46"
+    }
+  ]
+}

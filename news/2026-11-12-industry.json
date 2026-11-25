@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-12",
+  "category": "industry",
+  "count": 3,
+  "events": [
+    {
+      "category": "industry",
+      "title": "联易融前三季度跨境融资86.5亿元同比增26.8%",
+      "summary": "联易融科技集团发布自愿性业务发展公告，2026年前三季度跨境及国际业务由科技解决方案促成的融资总额86.5亿元，上年同期68.2亿元；集团解决方案对应资产总量2847.5亿元，同比增长12.7%，金融机构合作伙伴476家。公司称正把蜂联AI智能体升级为面向金融机构专业人士的垂类AI工作台，将分散的AI能力单元整合为全流程产融智能作业平台。",
+      "url": "https://stock.10jqka.com.cn/hks//20261111/c681713477.shtml",
+      "source": "同花顺",
+      "company": "联易融",
+      "published_at": "2026-11-11"
+    },
+    {
+      "category": "industry",
+      "title": "甲骨文发布面向银行保险的AI财务与客户分析应用",
+      "summary": "甲骨文发布Oracle Financial Services Data Intelligence Treasury Analytics与Customer Analytics两款分析应用并在全球可用，面向银行与保险公司；前者整合流动性、资金、现金流、资产负债表与市场风险视图，后者合并客户、产品、渠道与盈利数据。",
+      "url": "https://www.bankingnewsai.com/issues/2026-11-11/oracle-launches-ai-assisted-treasury-customer-analytics",
+      "source": "BankingNewsAI",
+      "company": "甲骨文",
+      "published_at": "2026-11-10"
+    },
+    {
+      "category": "industry",
+      "title": "蚂蚁数科与德意志银行发布智能体支付白皮书",
+      "summary": "蚂蚁数科与德意志银行联合发布白皮书《批发金融中的智能体支付》，列出财资与流动性管理、跨境支付编排、贸易金融三类智能体场景。白皮书主张“有边界的智能体执行”，沿用意图与编排、控制与授权、结算三层架构，要求可撤销的授权额度、智能体身份与可问责主体绑定及KYA验证，并以蚂蚁数科智能体平台Anvita Flow作为落地案例。",
+      "url": "https://www.insigtx.com/zh-hant/news/deutsche-bank-and-ant-digital-technologies-release-white-662851/",
+      "source": "Robinhood Buys $25M in Bitcoin, Joining Corporate Treasury Holdings | insigtX",
+      "company": "蚂蚁数科",
+      "published_at": "2026-11-09 17:14"
+    }
+  ]
+}

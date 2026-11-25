@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-18",
+  "category": "market",
+  "count": 3,
+  "events": [
+    {
+      "category": "market",
+      "title": "丰业银行上线对公信贷AI助手",
+      "summary": "加拿大丰业银行宣布面向其加拿大商业银行业务全体团队上线Commercial Navigator，该工具包含财务报表分析智能体与信贷管理智能体。据该行披露，新交易的初始财务分析由约1小时缩短至1分钟以内，信贷文档处理加快最多30%；该行目标到2027年底让每名员工每年节省相当于1个月的行政与处理工作量。",
+      "url": "https://www.scotiabank.com/corporate/en/home/media-centre/media-centre/news-release.html?id=4355&language=en",
+      "source": "Scotiabank",
+      "company": "丰业银行",
+      "published_at": "2026-11-17 00:00"
+    },
+    {
+      "category": "market",
+      "title": "工商银行廖林披露工银智涌落地600余个场景",
+      "summary": "工商银行董事长廖林在2026年APEC工商领导人峰会上介绍该行AI进展：“工银智涌”大模型平台截至上半年落地600余个应用场景，金融市场智能询价交易比率超过96%，审贷助手“工小审”上半年辅助审查审批涉及信贷金额超万亿元，“工小财”累计提供服务超2200万次。他同时提出技术能否转化为生产力、能否改善风控、投入能否持续三个问题。",
+      "url": "https://cn.ai123.com/news/18376",
+      "source": "AI123",
+      "company": "工商银行",
+      "published_at": "2026-11-17 22:10"
+    },
+    {
+      "category": "market",
+      "title": "山东城商行联盟征集AI智算卡POC测试供应商",
+      "summary": "山东省城市商业银行合作联盟有限公司就AI智算设备采购项目公开征集智算卡POC测试供应商，报名截至11月23日17时。公告要求单机支持8卡及以上、采用海光/鲲鹏/飞腾信创架构，单卡HBM显存不低于96GB、FP8稠密算力不低于700TFLOPS，测试覆盖Qwen、GLM、DeepSeek等模型，结果作为后续采购选型与招标的技术参考。",
+      "url": "https://www.qianlima.com/bid-648407861.html",
+      "source": "千里马招标网",
+      "company": "山东省城市商业银行合作联盟",
+      "published_at": "2026-11-17 00:00"
+    }
+  ]
+}

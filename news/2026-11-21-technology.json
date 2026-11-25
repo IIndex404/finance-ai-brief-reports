@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-21",
+  "category": "technology",
+  "count": 3,
+  "events": [
+    {
+      "category": "technology",
+      "title": "Hugging Face发布harness适配器提升智能体效率",
+      "summary": "Hugging Face发布harness适配器方案：在三套智能体框架pi、OpenCode、Hermes Agent内分别对Qwen3.8-27B做强化学习训练LoRA。据其披露，pi框架下Terminal-Bench 2.1通过率从39%提升至55%，单任务平均token从2.9K降至1.5K；三个适配器可合并为一个在三种框架下通用的超级适配器，适配器、GGUF与RL任务已在Hub公开。",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "Hugging Face Blog",
+      "company": "Hugging Face",
+      "published_at": "2026-11-20 08:00"
+    },
+    {
+      "category": "technology",
+      "title": "OpenAI披露对抗蒸馏防御，推理链提取成功率降至0.2%",
+      "summary": "OpenAI发文介绍其检测与阻断对抗蒸馏的做法，把对抗测试、模型训练、分类器与API层防护结合，重点防止攻击者提取模型受保护的推理链。据其内部自动化红队评估，攻击者恢复受保护推理的平均成功率从GPT-6 Astra的54.0%降至GPT-6.2 Astra的0.2%；网络安全能力迁移实验中，用教师模型精确推理轨迹训练的学生模型得分高于仅用推理摘要训练的版本。",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI News",
+      "company": "OpenAI",
+      "published_at": "2026-11-20 18:00"
+    },
+    {
+      "category": "technology",
+      "title": "Thinking Machines发布26B本地多模态模型",
+      "summary": "Thinking Machines Lab发布面向本地部署的Inkling 2 Mini：多模态混合专家模型，物理总参数约26B、每token激活3B，中间12层循环三次、等效48层，支持100万token上下文与图文输入，权重以NVFP4与MXFP8混合精度发布并附带DSpark草稿模型。",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "source": "Hugging Face Blog",
+      "company": "Thinking Machines Lab",
+      "published_at": "2026-11-20 08:00"
+    }
+  ]
+}
