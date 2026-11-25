@@ -20,5 +20,6 @@
   "message": "基于原文的辅助事实摘要，回答时保留原文链接。",
   "report_date": "2026-11-25",
   "category": "technology",
-  "number": 2
+  "number": 2,
+  "evidence_text": "1. 开发者可从Hugging Face和ModelScope获取模型权重及配套资源，用于本地部署和二次开发。\n2. 模型支持vLLM、SGLang等主流推理框架部署。\n3. 文心5.5 Flash Preview总参数量为2800亿，每个Token激活140亿参数。\n4. 模型支持最长100万Token的上下文。\n5. 模型在编程、3D建模、知识工作、内容创作等方面表现突出。\n6. 在CodeArena WebDev榜单中，文心5.5 Flash Preview以1668分位列开源模型第二、国产模型第四。\n7. 其排名紧随Kimi K3.1 Pro、Qwen3.8-Max等大参数国产模型之后。\n8. 权重开放后，全球开发者可开展领域微调、工具链适配与部署优化，探索不同业务场景应用。\n9. Hugging Face模型下载地址为https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview。\n10. ModelScope模型下载地址为https://www.modelscope.cn/models/baidu/ERNIE-5.5-Flash-Preview。"
 }

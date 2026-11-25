@@ -26,5 +26,6 @@
   "message": "基于原文的辅助事实摘要，回答时保留原文链接。",
   "report_date": "2026-11-25",
   "category": "industry",
-  "number": 1
+  "number": 1,
+  "evidence_text": "1. 公告发布时间为2026年11月24日美国东部时间上午8:00。\n2. Praxent是Anthropic精选金融服务合作伙伴。\n3. Praxent今日推出Commercial Lending Engine。\n4. 该引擎把贷款机构的对公信贷流程转化为受治理的AI代理团队。\n5. 贷款机构可在不增加员工的情况下增长对公贷款，并使用自有AI代理。\n6. AI代理遵循各贷款机构自己的流程、政策和模板。\n7. AI代理分摊财务数据、起草信贷备忘录并完成年度复审。\n8. 贷款机构可在单一仪表盘按阶段查看每笔交易并批准每项决策。\n9. 每一步都会生成可供审查人员使用的审计日志。\n10. 引擎运行在Praxent的代理层AgentCommand℠上，部署于贷款机构自有云。\n11. 该引擎设计为通过Azure AI Foundry在Microsoft Azure上部署Claude模型。\n12. 另有40多个引擎可接入AgentCommand℠。\n13. 清单中的Commercial Onboarding and Treasury Implementation Engine让商业客户更快上线并开始产生费用收入。\n14. 清单中的Custom Engines允许客户为机构特有工作流构建代理。\n15. NEWITY在2025年成为全美第一SBA贷款促成机构。\n16. NEWITY放款速度比传统贷款机构快3倍，承销速度快67%。"
 }

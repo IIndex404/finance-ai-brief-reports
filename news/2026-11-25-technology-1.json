@@ -28,5 +28,6 @@
   "message": "基于原文的辅助事实摘要，回答时保留原文链接。",
   "report_date": "2026-11-25",
   "category": "technology",
-  "number": 1
+  "number": 1,
+  "evidence_text": "1. Anthropic 发布了 Claude Ship 测试版。\n2. 提交 PR 后，代码审查、修复和批准可全部交给 Claude 完成。\n3. Claude Ship 由三个智能体组成；其中 Code Review 负责找问题，是 Anthropic 已正式上线的代码审查工具。\n4. PR Steward 负责修改代码；CI 未通过、合并冲突，或 Code Review、其他审查工具、同事提意见时，它接手处理并在修改后推送。\n5. Claude Approvals 负责最后批准；它和 PR Steward 都是本次新推出的测试版 Agent。\n6. Anthropic 的 Claude Code 团队中，超过 90% 的代码由 Claude 编写。\n7. 从 6 月到 9 月，合并的 PR 数量翻了一倍多，被回滚比例下降 40%。\n8. Claude Code 负责人 Boris Cherny 发帖支持 Claude Ship，称自己从早到晚都在用，难以想象没有它如何上线代码。\n9. PR 审批规则写在代码仓库策略文件 .claude/approvals.yml 中；改动需几人批准、Claude 能否批准由用户决定。\n10. 修改审批规则本身的 PR 始终需要两个人批准。\n11. PR Steward 只改代码，不批准也不合并；每次推送都会留言说明改了什么、如何撤销。\n12. Anthropic 建议先开启观察模式，让 Claude 只给判断、不批准，信任后再允许其真正批准。\n13. 自动运行的完整版 Claude Ship 目前只开放给 Claude Team 和 Enterprise 订阅用户，需管理员为代码仓库开启。\n14. 个人开发者可用 Claude Code 的 /ship 命令，管理自己提交的 PR。\n15. Claude 会替用户提交代码、推送、创建 PR，并自行审查一遍。\n16. 使用前需将 Claude Code 升级到 2.1.330 或更新版本。\n17. /ship 在用户自己的会话中运行，消耗自己的 Claude Code 额度。\n18. 最终合并这一步留给用户。"
 }
