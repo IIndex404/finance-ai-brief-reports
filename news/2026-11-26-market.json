@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-26",
+  "category": "market",
+  "count": 3,
+  "events": [
+    {
+      "category": "market",
+      "title": "中国银行招标大模型平台开发运营模块优化分包",
+      "summary": "中国银行就2026年大模型能力平台提升项目中的开发运营模块优化分包公开招标，拟采购1家供应商提供技术或软件服务支持及合作研发，内容包括模型网关优化、运营监控优化和开发平台优化，服务期至2027年6月30日。公告要求投标人自2023年起具有18家全国性商业银行之一的大模型平台建设案例，中标人数量1家。",
+      "url": "https://www.gxzbcg.com.cn/hwcgzb/662144.html",
+      "source": "gxzbcg.com.cn",
+      "company": "中国银行",
+      "published_at": "2026-11-25"
+    },
+    {
+      "category": "market",
+      "title": "招商银行苏州分行征集AI研发智能体资源服务供应商",
+      "summary": "招商银行苏州分行启动AI研发智能体资源及配套技术服务租赁项目的供应商征集，称目的是推动人工智能技术在研发工作中的应用，采购标的为AI研发智能体资源及配套技术服务。公告说明此次征集为采购初步安排，具体项目情况以相关采购或招标公告为准，报名供应商须经审核、实地考察与风险评估后方可能纳入候选范围。",
+      "url": "https://m.chinabidding.cn/zbgg/U-vzR2y3I.html",
+      "source": "chinabidding.cn",
+      "company": "招商银行",
+      "published_at": "2026-11-25 00:00"
+    },
+    {
+      "category": "market",
+      "title": "英国FCA发布智能体AI指引，称技术标签不免授权",
+      "summary": "英国金融行为监管局（FCA）发布《我们对智能体AI的态度》指引，明确技术公司或社交平台若其AI智能体从事转账、安排信贷或推荐投资等金融业务，自称技术供应商不能豁免金融授权要求，并称必要时将动用干预权力。FCA同时表示将启动面向机构、政策制定者与技术商的Agentic Policy Sprint，并强调合规责任仍由受监管机构及其高级管理人员承担。",
+      "url": "https://aiweekly.co/alerts/fca-warns-agentic-ai-firms-a-tech-label-wont-exempt-them",
+      "source": "AI Weekly",
+      "company": "英国金融行为监管局",
+      "published_at": "2026-11-24"
+    }
+  ]
+}

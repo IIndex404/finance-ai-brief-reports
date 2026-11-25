@@ -1,0 +1,33 @@
+{
+  "found": true,
+  "title": "LoomFormer提出逐token头间重连架构",
+  "url": "https://huggingface.co/papers/2611.30634",
+  "source": "HF Daily Papers",
+  "facts": [
+    "Loom attention使Transformer能在每个token动态重连其电路。",
+    "垂直注意力通过在逐token矩阵记忆上使用归一化门控线性注意力高效实现。",
+    "该矩阵记忆存储压缩后的头输出，并充当第二残差流。",
+    "双流架构把控制与内容拆分到向量流和矩阵流。",
+    "LoomFormer匹配用超过3倍算力训练的Transformer。",
+    "近期残差流基线包括HC/mHC、MUDDFormer、AttnRes，训练算力约1.7–2.8倍。",
+    "在300B Pile token上训练，仅增加1.95% FLOPs。",
+    "LoomPythia-2.8B的下游增益达到mHC-Pythia-2.8B的1.6倍。",
+    "LoomPythia-2.8B在0-shot达到59.9，匹配Pythia-12B。",
+    "在5-shot上以61.6对60.8超过Pythia-12B。",
+    "将深层非sink活跃头从约20%提升到74.4%。",
+    "在TPU v5p上使用融合Pallas内核，保持Transformer训练速度的89–92%。",
+    "在GPU上使用融合Triton与CUDA graphs，prefill/decode速度为84–92%。",
+    "层内共用路由端口使头对头接线矩阵秩≤1；MUDDFormer为≤3。",
+    "LoomFormer逐头、逐token生成端口，采用归一化门控线性注意力。",
+    "使用形状为[d_k,d]的固定逐token矩阵记忆M_t。",
+    "接线秩达到2n，逐token状态缩小为3D。",
+    "代码位于Caiyun-AI的GitHub，含JAX/Pallas训练代码与PyTorch/Triton推理内核。"
+  ],
+  "retrieved_at": "2026-11-25T17:27:11.739196+00:00",
+  "source_title": "Rewirable Circuits in Transformers with Loom Attention",
+  "message": "基于原文的辅助事实摘要，回答时保留原文链接。",
+  "report_date": "2026-11-26",
+  "category": "technology",
+  "number": 3,
+  "evidence_text": "1. Loom attention使Transformer能在每个token动态重连其电路。\n2. 垂直注意力通过在逐token矩阵记忆上使用归一化门控线性注意力高效实现。\n3. 该矩阵记忆存储压缩后的头输出，并充当第二残差流。\n4. 双流架构把控制与内容拆分到向量流和矩阵流。\n5. LoomFormer匹配用超过3倍算力训练的Transformer。\n6. 近期残差流基线包括HC/mHC、MUDDFormer、AttnRes，训练算力约1.7–2.8倍。\n7. 在300B Pile token上训练，仅增加1.95% FLOPs。\n8. LoomPythia-2.8B的下游增益达到mHC-Pythia-2.8B的1.6倍。\n9. LoomPythia-2.8B在0-shot达到59.9，匹配Pythia-12B。\n10. 在5-shot上以61.6对60.8超过Pythia-12B。\n11. 将深层非sink活跃头从约20%提升到74.4%。\n12. 在TPU v5p上使用融合Pallas内核，保持Transformer训练速度的89–92%。\n13. 在GPU上使用融合Triton与CUDA graphs，prefill/decode速度为84–92%。\n14. 层内共用路由端口使头对头接线矩阵秩≤1；MUDDFormer为≤3。\n15. LoomFormer逐头、逐token生成端口，采用归一化门控线性注意力。\n16. 使用形状为[d_k,d]的固定逐token矩阵记忆M_t。\n17. 接线秩达到2n，逐token状态缩小为3D。\n18. 代码位于Caiyun-AI的GitHub，含JAX/Pallas训练代码与PyTorch/Triton推理内核。"
+}

@@ -1,113 +1,58 @@
 {
-  "report_date": "2026-11-25",
+  "report_date": "2026-11-26",
   "counts": {
     "market": 3,
     "industry": 3,
     "technology": 3
   },
-  "all_parts_sent": true,
-  "exact_sent_copy": true,
+  "all_parts_sent": false,
+  "exact_sent_copy": false,
   "headlines": [
     {
       "category": "market",
-      "title": "证券业人工智能应用发展联盟成立，21家机构发起",
-      "url": "https://paper.cnstock.com/html/2026-11/24/content_2293726.htm"
+      "title": "中国银行招标大模型平台开发运营模块优化分包",
+      "url": "https://www.gxzbcg.com.cn/hwcgzb/662144.html"
     },
     {
       "category": "market",
-      "title": "太保科技重启全栈AI平台框架采购竞价",
-      "url": "http://life.cpic.com.cn/c/2026-11-24/1896870.shtml"
+      "title": "招商银行苏州分行征集AI研发智能体资源服务供应商",
+      "url": "https://m.chinabidding.cn/zbgg/U-vzR2y3I.html"
     },
     {
       "category": "market",
-      "title": "湖北省农信联社启动AI中台硬件采购 估算2400万",
-      "url": "https://hubeibidding.com/view/54862.html"
+      "title": "英国FCA发布智能体AI指引，称技术标签不免授权",
+      "url": "https://aiweekly.co/alerts/fca-warns-agentic-ai-firms-a-tech-label-wont-exempt-them"
     },
     {
       "category": "industry",
-      "title": "Praxent发布Claude驱动对公信贷智能体引擎",
-      "url": "https://www.businesswirenews.com/news/home/20261124310342/en/Praxent-Launches-Claude-Powered-Commercial-Lending-Engine-to-Help-Lenders-Win-More-Commercial-Loans"
+      "title": "nCino将为荷兰Rabobank提供对公信贷平台",
+      "url": "https://financialpost.com/press-releases/globe-newswire/ncino-offers-lending-platform-to-rabobank/"
     },
     {
       "category": "industry",
-      "title": "Applied Systems收购Tailwind补强保险AI自动化",
-      "url": "https://iireporter.com/applied-systems-acquires-tailwind-to-expand-epic-conductor-ai-automation/"
+      "title": "金山云三季度AI云收入16.8亿元，中标上海银行对公授信项目",
+      "url": "https://news.futunn.com/post/1005470804?level=0&global_content=%7B%22promote_content%22%3A%22nn%3A1005470804%22%7D"
     },
     {
       "category": "industry",
-      "title": "安硕信息中标中国银行江苏省分行大模型问数项目",
-      "url": "http://stock.stockstar.com/RB2026112400019276.shtml"
+      "title": "资拓宏宇取得公股行库主机降载合约，前10月营收增15.88%",
+      "url": "https://www.moneydj.com/KMDJ/News/NewsViewer.aspx?a=c5449978-9c03-4faa-a877-8434bd7adeaa"
     },
     {
       "category": "technology",
-      "title": "Anthropic发布Claude Ship测试版，接管PR审查批准",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizutpk1917536.shtml"
+      "title": "阿里云发布Qwen4-Max旗舰多模态模型",
+      "url": "https://www.gateweb3.net/zh/news/detail/qwen4-max-multimodal-model-integrates-text-video-deep-thinking-25856469"
     },
     {
       "category": "technology",
-      "title": "文心5.5 Flash Preview开源，2800亿参数",
-      "url": "https://www.qbitai.com/2026/11/512354.html"
+      "title": "蚂蚁国际发布支付风控基础模型Antom 3-in-1",
+      "url": "https://huggingface.co/papers/2611.25403"
     },
     {
       "category": "technology",
-      "title": "OpenAI与Cisco开源Shirudo保护Linux",
-      "url": "https://openai.com/index/introducing-shirudo"
+      "title": "LoomFormer提出逐token头间重连架构",
+      "url": "https://huggingface.co/papers/2611.30634"
     }
   ],
-  "confirmed_sent_events": [
-    {
-      "part": 1,
-      "category": "industry",
-      "title": "Praxent发布Claude驱动对公信贷智能体引擎",
-      "url": "https://www.businesswirenews.com/news/home/20261124310342/en/Praxent-Launches-Claude-Powered-Commercial-Lending-Engine-to-Help-Lenders-Win-More-Commercial-Loans"
-    },
-    {
-      "part": 1,
-      "category": "technology",
-      "title": "Anthropic发布Claude Ship测试版，接管PR审查批准",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizutpk1917536.shtml"
-    },
-    {
-      "part": 1,
-      "category": "market",
-      "title": "湖北省农信联社启动AI中台硬件采购 估算2400万",
-      "url": "https://hubeibidding.com/view/54862.html"
-    },
-    {
-      "part": 1,
-      "category": "industry",
-      "title": "Applied Systems收购Tailwind补强保险AI自动化",
-      "url": "https://iireporter.com/applied-systems-acquires-tailwind-to-expand-epic-conductor-ai-automation/"
-    },
-    {
-      "part": 1,
-      "category": "market",
-      "title": "太保科技重启全栈AI平台框架采购竞价",
-      "url": "http://life.cpic.com.cn/c/2026-11-24/1896870.shtml"
-    },
-    {
-      "part": 1,
-      "category": "technology",
-      "title": "OpenAI与Cisco开源Shirudo保护Linux",
-      "url": "https://openai.com/index/introducing-shirudo"
-    },
-    {
-      "part": 1,
-      "category": "market",
-      "title": "证券业人工智能应用发展联盟成立，21家机构发起",
-      "url": "https://paper.cnstock.com/html/2026-11/24/content_2293726.htm"
-    },
-    {
-      "part": 1,
-      "category": "technology",
-      "title": "文心5.5 Flash Preview开源，2800亿参数",
-      "url": "https://www.qbitai.com/2026/11/512354.html"
-    },
-    {
-      "part": 1,
-      "category": "industry",
-      "title": "安硕信息中标中国银行江苏省分行大模型问数项目",
-      "url": "http://stock.stockstar.com/RB2026112400019276.shtml"
-    }
-  ]
+  "confirmed_sent_events": []
 }

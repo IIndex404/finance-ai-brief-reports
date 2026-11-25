@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-26",
+  "page": 8,
+  "total_pages": 12,
+  "text1": "/news/detail/qwen4-max-multimodal-model-integrates-text-video-deep-thinking-2585",
+  "text2": "6469)\n\n### 2. 蚂蚁国际发布支付风控基础模型Antom 3-in-1\n- **新闻概要：**11月25日，蚂蚁国际发布论文披露支付基础模型Antom",
+  "text3": " 3-in-1 Transformer，融合交易序列、表格特征与图关系表示，总参数约70亿、每个任务路由激活约17亿，基于其内部支付数据预训练。论文称跨业务迁移",
+  "text4": "较从零训练提升34.5%，仅用25%标注即优于全标注基线；在十亿级支付平台四个月在线实验中，整体损失率较XGB-Online下降37.88%。因防欺诈风险，模型"
+}

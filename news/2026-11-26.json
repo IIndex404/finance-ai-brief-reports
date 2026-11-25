@@ -1,0 +1,125 @@
+{
+  "report_date": "2026-11-26",
+  "events": [
+    {
+      "category": "market",
+      "title": "中国银行招标大模型平台开发运营模块优化分包",
+      "summary": "中国银行就2026年大模型能力平台提升项目中的开发运营模块优化分包公开招标，拟采购1家供应商提供技术或软件服务支持及合作研发，内容包括模型网关优化、运营监控优化和开发平台优化，服务期至2027年6月30日。公告要求投标人自2023年起具有18家全国性商业银行之一的大模型平台建设案例，中标人数量1家。",
+      "url": "https://www.gxzbcg.com.cn/hwcgzb/662144.html",
+      "source": "gxzbcg.com.cn",
+      "company": "中国银行",
+      "published_at": "2026-11-25"
+    },
+    {
+      "category": "market",
+      "title": "招商银行苏州分行征集AI研发智能体资源服务供应商",
+      "summary": "招商银行苏州分行启动AI研发智能体资源及配套技术服务租赁项目的供应商征集，称目的是推动人工智能技术在研发工作中的应用，采购标的为AI研发智能体资源及配套技术服务。公告说明此次征集为采购初步安排，具体项目情况以相关采购或招标公告为准，报名供应商须经审核、实地考察与风险评估后方可能纳入候选范围。",
+      "url": "https://m.chinabidding.cn/zbgg/U-vzR2y3I.html",
+      "source": "chinabidding.cn",
+      "company": "招商银行",
+      "published_at": "2026-11-25 00:00"
+    },
+    {
+      "category": "market",
+      "title": "英国FCA发布智能体AI指引，称技术标签不免授权",
+      "summary": "英国金融行为监管局（FCA）发布《我们对智能体AI的态度》指引，明确技术公司或社交平台若其AI智能体从事转账、安排信贷或推荐投资等金融业务，自称技术供应商不能豁免金融授权要求，并称必要时将动用干预权力。FCA同时表示将启动面向机构、政策制定者与技术商的Agentic Policy Sprint，并强调合规责任仍由受监管机构及其高级管理人员承担。",
+      "url": "https://aiweekly.co/alerts/fca-warns-agentic-ai-firms-a-tech-label-wont-exempt-them",
+      "source": "AI Weekly",
+      "company": "英国金融行为监管局",
+      "published_at": "2026-11-24"
+    },
+    {
+      "category": "industry",
+      "title": "nCino将为荷兰Rabobank提供对公信贷平台",
+      "summary": "nCino宣布向荷兰资产规模前三的Rabobank提供nCino Platform，作为其唯一对公贷款发放系统，整合原本分散的信贷流程，缩短客户从申请到放款的时间。Rabobank预计大量客户将走自动化流程，客户经理转向复杂需求；平台内置AI与治理能力用于信贷全流程。据新闻稿，nCino全球客户超2700家。",
+      "url": "https://financialpost.com/press-releases/globe-newswire/ncino-offers-lending-platform-to-rabobank/",
+      "source": "Financial Post",
+      "company": "nCino",
+      "published_at": "2026-11-25 15:32"
+    },
+    {
+      "category": "industry",
+      "title": "金山云三季度AI云收入16.8亿元，中标上海银行对公授信项目",
+      "summary": "金山云发布2026年第三季度财报，季度营收34.8亿元、同比增长40.4%，其中AI云收入16.8亿元、同比增长115%，占公有云收入61%。据公司披露，季度内中标上海银行对公授信智能化提升项目本体建模咨询服务，星源AgentKit平台推出可视化开发运行工作台AgentKit Studio，大模型应用防火墙完成金融私有化形态落地。",
+      "url": "https://news.futunn.com/post/1005470804?level=0&global_content=%7B%22promote_content%22%3A%22nn%3A1005470804%22%7D",
+      "source": "富途牛牛",
+      "company": "金山云",
+      "published_at": "2026-11-24 00:00"
+    },
+    {
+      "category": "industry",
+      "title": "资拓宏宇取得公股行库主机降载合约，前10月营收增15.88%",
+      "summary": "资拓宏宇（6614）将AI整合进既有银行与政府专案，已协助客户建置云端与地端大语言模型；公司称其AI工法切入银行大型主机现代化，取得公股行库主机降载合约，并新增银行核心系统升级、大型银行征授信案，已为逾10家银行开发及维运分行系统。2026年前10月营收新台币42.17亿元，年增15.88%。",
+      "url": "https://www.moneydj.com/KMDJ/News/NewsViewer.aspx?a=c5449978-9c03-4faa-a877-8434bd7adeaa",
+      "source": "MoneyDJ",
+      "company": "资拓宏宇",
+      "published_at": "2026-11-24 10:10"
+    },
+    {
+      "category": "technology",
+      "title": "阿里云发布Qwen4-Max旗舰多模态模型",
+      "summary": "阿里云推出通义千问新一代旗舰多模态模型Qwen4-Max，支持文本、图像与视频输入及深度思考，上下文长度100万token，思考模式最大输出262,144 token，支持并行工具调用、网页搜索、结构化输出与显式缓存，兼容OpenAI与Anthropic接口。模型在多数地区定价为每百万输入/输出token 1.413/4.24美元。",
+      "url": "https://www.gateweb3.net/zh/news/detail/qwen4-max-multimodal-model-integrates-text-video-deep-thinking-25856469",
+      "source": "Gate.com",
+      "company": "阿里云",
+      "published_at": "2026-11-25 00:00"
+    },
+    {
+      "category": "technology",
+      "title": "蚂蚁国际发布支付风控基础模型Antom 3-in-1",
+      "summary": "蚂蚁国际发布论文披露支付基础模型Antom 3-in-1 Transformer，融合交易序列、表格特征与图关系表示，总参数约70亿、每个任务路由激活约17亿，基于其内部支付数据预训练。论文称跨业务迁移较从零训练提升34.5%，仅用25%标注即优于全标注基线；在十亿级支付平台四个月在线实验中，整体损失率较XGB-Online下降37.88%。因防欺诈风险，模型权重不公开。",
+      "url": "https://huggingface.co/papers/2611.25403",
+      "source": "HF Daily Papers",
+      "company": "蚂蚁国际",
+      "published_at": "2026-11-25 08:00"
+    },
+    {
+      "category": "technology",
+      "title": "LoomFormer提出逐token头间重连架构",
+      "summary": "研究团队发布LoomFormer，提出loom attention：对每个token将注意力头对先前头输出的纵向注意力与对token的横向注意力交织，实现逐token头间重连，并用归一化门控线性注意力维护每token矩阵记忆。",
+      "url": "https://huggingface.co/papers/2611.30634",
+      "source": "HF Daily Papers",
+      "company": "Caiyun-AI",
+      "published_at": "2026-11-25 08:00"
+    }
+  ],
+  "sources": [
+    {
+      "title": "中国银行招标大模型平台开发运营模块优化分包",
+      "url": "https://www.gxzbcg.com.cn/hwcgzb/662144.html"
+    },
+    {
+      "title": "招商银行苏州分行征集AI研发智能体资源服务供应商",
+      "url": "https://m.chinabidding.cn/zbgg/U-vzR2y3I.html"
+    },
+    {
+      "title": "英国FCA发布智能体AI指引，称技术标签不免授权",
+      "url": "https://aiweekly.co/alerts/fca-warns-agentic-ai-firms-a-tech-label-wont-exempt-them"
+    },
+    {
+      "title": "nCino将为荷兰Rabobank提供对公信贷平台",
+      "url": "https://financialpost.com/press-releases/globe-newswire/ncino-offers-lending-platform-to-rabobank/"
+    },
+    {
+      "title": "金山云三季度AI云收入16.8亿元，中标上海银行对公授信项目",
+      "url": "https://news.futunn.com/post/1005470804?level=0&global_content=%7B%22promote_content%22%3A%22nn%3A1005470804%22%7D"
+    },
+    {
+      "title": "资拓宏宇取得公股行库主机降载合约，前10月营收增15.88%",
+      "url": "https://www.moneydj.com/KMDJ/News/NewsViewer.aspx?a=c5449978-9c03-4faa-a877-8434bd7adeaa"
+    },
+    {
+      "title": "阿里云发布Qwen4-Max旗舰多模态模型",
+      "url": "https://www.gateweb3.net/zh/news/detail/qwen4-max-multimodal-model-integrates-text-video-deep-thinking-25856469"
+    },
+    {
+      "title": "蚂蚁国际发布支付风控基础模型Antom 3-in-1",
+      "url": "https://huggingface.co/papers/2611.25403"
+    },
+    {
+      "title": "LoomFormer提出逐token头间重连架构",
+      "url": "https://huggingface.co/papers/2611.30634"
+    }
+  ],
+  "confirmed_sent_events": []
+}

@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-26",
+  "page": 9,
+  "total_pages": 12,
+  "text1": "权重不公开。\n- **新闻链接：**[HF Daily Papers](https://huggingface.co/papers/2611.25403)\n\n#",
+  "text2": "## 3. LoomFormer提出逐token头间重连架构\n- **新闻概要：**11月25日，研究团队发布LoomFormer，提出loom attenti",
+  "text3": "on：对每个token将注意力头对先前头输出的纵向注意力与对token的横向注意力交织，实现逐token头间重连，并用归一化门控线性注意力维护每token矩阵记",
+  "text4": "忆。\n- **新闻链接：**[HF Daily Papers](https://huggingface.co/papers/2611.30634)\n\n## 四、"
+}
