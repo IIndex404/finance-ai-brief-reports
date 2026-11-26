@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-27",
+  "page": 8,
+  "total_pages": 11,
+  "text1": "nt替换为自定义Agent，工作区能在本地与多种云沙箱间迁移。据官方披露，Harness-Bench SWE81八模型平均分58.5居首，仅领先OpenCode",
+  "text2": " 0.3分。\n- **新闻链接：**[The AI News](https://theainews.cc/articles/2026-11-26-pax-har",
+  "text3": "ness-beta/)\n\n### 3. 谷歌开源生产环境智能体诊断工具AQuA\n- **新闻概要：**11月25日，谷歌开源环境质量智能体AQuA，用于分析生产",
+  "text4": "环境AI智能体的会话、对已部署源码做根因排查，与业务智能体并行运行，从Cloud Trace、Cloud Logging或BigQuery读取遥测数据。每次最多"
+}

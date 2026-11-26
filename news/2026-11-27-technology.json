@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-27",
+  "category": "technology",
+  "count": 3,
+  "events": [
+    {
+      "category": "technology",
+      "title": "Sand.ai发布480B视频模型MAGI-2并计划开源",
+      "summary": "Sand.ai发布480B参数全模态视频模型MAGI-2，总参数较8月Preview版的114B扩大约四倍、激活参数约280亿；在Artificial Analysis Video Arena v2.1四项任务上平均Elo从998.5升至1150.3，1080P成片定价每秒0.5元。模型支持单次30秒生成、最多20份图片/视频/音频参考与局部编辑，Sand.ai称计划尽快开放模型权重。",
+      "url": "https://www.qbitai.com/2026/11/512916.html",
+      "source": "量子位",
+      "company": "Sand.ai",
+      "published_at": "2026-11-26 14:41"
+    },
+    {
+      "category": "technology",
+      "title": "Pydantic发布编码智能体Pax，Harness进beta",
+      "summary": "Pydantic发布终端编码智能体Pax，Pydantic AI Harness同步进入beta，计划约一个月后发布1.0。Pax把编码智能体做成可关闭插件，可用--agent替换为自定义Agent，工作区能在本地与多种云沙箱间迁移。据官方披露，Harness-Bench SWE81八模型平均分58.5居首，仅领先OpenCode 0.3分。",
+      "url": "https://theainews.cc/articles/2026-11-26-pax-harness-beta/",
+      "source": "The AI News",
+      "company": "Pydantic",
+      "published_at": "2026-11-25"
+    },
+    {
+      "category": "technology",
+      "title": "谷歌开源生产环境智能体诊断工具AQuA",
+      "summary": "谷歌开源环境质量智能体AQuA，用于分析生产环境AI智能体的会话、对已部署源码做根因排查，与业务智能体并行运行，从Cloud Trace、Cloud Logging或BigQuery读取遥测数据。每次最多采样1000条近期会话，经采样、审查、聚类发现、核验、跟踪五阶段处理；在多智能体出行应用测试中，32条会话得出42条观测、6个已确认问题，改写提示词重放后绕过座位校验的会话从15条降至2条。",
+      "url": "https://www.newseekai.com/ai-news/5187",
+      "source": "新知NewSeekAI",
+      "company": "谷歌",
+      "published_at": "2026-11-25 21:00"
+    }
+  ]
+}

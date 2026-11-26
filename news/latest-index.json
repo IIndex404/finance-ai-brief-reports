@@ -1,5 +1,5 @@
 {
-  "report_date": "2026-11-26",
+  "report_date": "2026-11-27",
   "counts": {
     "market": 3,
     "industry": 3,
@@ -10,48 +10,48 @@
   "headlines": [
     {
       "category": "market",
-      "title": "中国银行招标大模型平台开发运营模块优化分包",
-      "url": "https://www.gxzbcg.com.cn/hwcgzb/662144.html"
+      "title": "兴业银行征集客户运营数据应用二期供应商，含智能体接口",
+      "url": "https://cg.cib.com.cn/cms/default/webfile/gyszj/20261126/2125842348900200450.html"
     },
     {
       "category": "market",
-      "title": "招商银行苏州分行征集AI研发智能体资源服务供应商",
-      "url": "https://m.chinabidding.cn/zbgg/U-vzR2y3I.html"
+      "title": "宝武财务公司累计建成141个智能体，司库风控智能体投运",
+      "url": "https://www.toutiao.com/article/7712291849980953129/?wid=1795677883618"
     },
     {
       "category": "market",
-      "title": "英国FCA发布智能体AI指引，称技术标签不免授权",
-      "url": "https://aiweekly.co/alerts/fca-warns-agentic-ai-firms-a-tech-label-wont-exempt-them"
+      "title": "永赢金融租赁征集大数据AI核心系统供应商，含流水分析智能体",
+      "url": "https://m.chinabidding.cn/cgxx/wfeBeI98s.html"
     },
     {
       "category": "industry",
-      "title": "nCino将为荷兰Rabobank提供对公信贷平台",
-      "url": "https://financialpost.com/press-releases/globe-newswire/ncino-offers-lending-platform-to-rabobank/"
+      "title": "广电运通中标广州农商银行智能厅堂机器人项目",
+      "url": "https://m.21jingji.com/timeline/c807f0bfd3d9660595944668c0fab07d.html"
     },
     {
       "category": "industry",
-      "title": "金山云三季度AI云收入16.8亿元，中标上海银行对公授信项目",
-      "url": "https://news.futunn.com/post/1005470804?level=0&global_content=%7B%22promote_content%22%3A%22nn%3A1005470804%22%7D"
+      "title": "Savana发布银行操作智能体Acta，覆盖139项操作",
+      "url": "https://disrupts.disruptsmedia.com/fintech/savana-launches-acta-give-banks-ai-acts-not-just-advises"
     },
     {
       "category": "industry",
-      "title": "资拓宏宇取得公股行库主机降载合约，前10月营收增15.88%",
-      "url": "https://www.moneydj.com/KMDJ/News/NewsViewer.aspx?a=c5449978-9c03-4faa-a877-8434bd7adeaa"
+      "title": "恒生电子中标华夏银行财私智能资配大模型项目",
+      "url": "https://bj.zhiliaobiaoxun.com/article/120825237"
     },
     {
       "category": "technology",
-      "title": "阿里云发布Qwen4-Max旗舰多模态模型",
-      "url": "https://www.gateweb3.net/zh/news/detail/qwen4-max-multimodal-model-integrates-text-video-deep-thinking-25856469"
+      "title": "Sand.ai发布480B视频模型MAGI-2并计划开源",
+      "url": "https://www.qbitai.com/2026/11/512916.html"
     },
     {
       "category": "technology",
-      "title": "蚂蚁国际发布支付风控基础模型Antom 3-in-1",
-      "url": "https://huggingface.co/papers/2611.25403"
+      "title": "Pydantic发布编码智能体Pax，Harness进beta",
+      "url": "https://theainews.cc/articles/2026-11-26-pax-harness-beta/"
     },
     {
       "category": "technology",
-      "title": "LoomFormer提出逐token头间重连架构",
-      "url": "https://huggingface.co/papers/2611.30634"
+      "title": "谷歌开源生产环境智能体诊断工具AQuA",
+      "url": "https://www.newseekai.com/ai-news/5187"
     }
   ],
   "confirmed_sent_events": []

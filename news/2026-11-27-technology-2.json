@@ -1,0 +1,25 @@
+{
+  "found": true,
+  "title": "Pydantic发布编码智能体Pax，Harness进beta",
+  "url": "https://theainews.cc/articles/2026-11-26-pax-harness-beta/",
+  "source": "The AI News",
+  "facts": [
+    "Pydantic AI 框架之上可以叠加可复用部件，形式是「能力」：一组工具、指令与钩子的打包。",
+    "Harness 的一项内置能力是持久化执行，可以跨崩溃与重启；它面向基于 SDK 构建的智能体，目前 Pax 中还没有提供。",
+    "Harness 提供一套统一的工作区 API，覆盖本机以及十余个云或本地沙箱。",
+    "Harness 内置模型回退能力，可以兜住模型给出的拒答。",
+    "Pax 默认开启代码模式：模型不再来回搬运工具结果，改用 Monty 写一小段 Python，在其中搜索、读取文件，只返回有用的内容。",
+    "Harness 还内置文件与 shell 工具、护栏、记忆、子智能体、上下文压缩与 Agent Skills，这些都属于 100 多个可用能力的一部分。",
+    "Pax 是 Coder() 之前的终端界面，Pydantic 将其定位为两件事的结合：日常可用的编码智能体，以及 Harness SDK 的能力展示。",
+    "Harness-Bench SWE81 对八个模型做横向评测，同一模型内部对比、只更换 harness，四个 harness 的平均分与单次平均成本为：Pax 58.5 分 / $7.69，OpenCode 58.2 分 / $8.04，deepagents-code 57.6 分 / $9.43，pi 57.3 分 / $6.47。",
+    "Pax 与原生 harness 的对比显示：在 GPT-6.2 Sol 上，Pax 为 64.7 分 / $9.21，Codex 为 60.1 分 / $21.05；在 Claude Opus 5.5 上，Pax 为 61.2 分 / $24.61，Claude Code 为 60.4 分 / $25.10。",
+    "官方给出明确限定：这只是 11 月的单次运行结果；Sol 与 Opus 使用了宽松重打分，并且该重打分对所有 harness 一致应用；跑 Sol 时 Pax 使用 Coder(autonomy='max') 的无人值守设置；完整方法论与重跑结果会随 1.0 一同发布。"
+  ],
+  "retrieved_at": "2026-11-26T17:25:38.861890+00:00",
+  "source_title": "Pydantic 发布终端编码智能体 Pax：Harness 冲刺 1.0，一切皆插件",
+  "message": "基于原文的辅助事实摘要，回答时保留原文链接。",
+  "report_date": "2026-11-27",
+  "category": "technology",
+  "number": 2,
+  "evidence_text": "1. Pydantic AI 框架之上可以叠加可复用部件，形式是「能力」：一组工具、指令与钩子的打包。\n2. Harness 的一项内置能力是持久化执行，可以跨崩溃与重启；它面向基于 SDK 构建的智能体，目前 Pax 中还没有提供。\n3. Harness 提供一套统一的工作区 API，覆盖本机以及十余个云或本地沙箱。\n4. Harness 内置模型回退能力，可以兜住模型给出的拒答。\n5. Pax 默认开启代码模式：模型不再来回搬运工具结果，改用 Monty 写一小段 Python，在其中搜索、读取文件，只返回有用的内容。\n6. Harness 还内置文件与 shell 工具、护栏、记忆、子智能体、上下文压缩与 Agent Skills，这些都属于 100 多个可用能力的一部分。\n7. Pax 是 Coder() 之前的终端界面，Pydantic 将其定位为两件事的结合：日常可用的编码智能体，以及 Harness SDK 的能力展示。\n8. Harness-Bench SWE81 对八个模型做横向评测，同一模型内部对比、只更换 harness，四个 harness 的平均分与单次平均成本为：Pax 58.5 分 / $7.69，OpenCode 58.2 分 / $8.04，deepagents-code 57.6 分 / $9.43，pi 57.3 分 / $6.47。\n9. Pax 与原生 harness 的对比显示：在 GPT-6.2 Sol 上，Pax 为 64.7 分 / $9.21，Codex 为 60.1 分 / $21.05；在 Claude Opus 5.5 上，Pax 为 61.2 分 / $24.61，Claude Code 为 60.4 分 / $25.10。\n10. 官方给出明确限定：这只是 11 月的单次运行结果；Sol 与 Opus 使用了宽松重打分，并且该重打分对所有 harness 一致应用；跑 Sol 时 Pax 使用 Coder(autonomy='max') 的无人值守设置；完整方法论与重跑结果会随 1.0 一同发布。"
+}

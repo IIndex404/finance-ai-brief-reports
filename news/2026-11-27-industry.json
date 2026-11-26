@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-11-27",
+  "category": "industry",
+  "count": 3,
+  "events": [
+    {
+      "category": "industry",
+      "title": "广电运通中标广州农商银行智能厅堂机器人项目",
+      "summary": "广电运通在投资者关系活动中披露，已完成G100网点AI机器人与G200人形机器人两款产品的研发，并持续推进试点应用及推广；G100已落地河北、山东、甘肃等地银行网点。公司近期中标广州农商银行2026年智能厅堂助手硬件智能机器人采购项目，为其全自研网点AI机器人首个中标案例，AI机器人应用场景正从网点服务向金库管理、档案管理等中后台延伸。",
+      "url": "https://m.21jingji.com/timeline/c807f0bfd3d9660595944668c0fab07d.html",
+      "source": "21财经",
+      "company": "广电运通",
+      "published_at": "2026-11-26 18:10"
+    },
+    {
+      "category": "industry",
+      "title": "Savana发布银行操作智能体Acta，覆盖139项操作",
+      "summary": "美国Savana推出面向银行与信用社的操作型AI产品Acta，上线时支持贷款服务、资金划转、卡片管理和开户等139项银行操作，可跨现有核心系统、CRM与数字渠道执行，无需更换核心系统。据该公司称，每项操作执行前需人工审批，在机构预设权限内运行并留存可防篡改审计记录，产品不绑定单一基础大模型。",
+      "url": "https://disrupts.disruptsmedia.com/fintech/savana-launches-acta-give-banks-ai-acts-not-just-advises",
+      "source": "disruptsmedia.com",
+      "company": "Savana",
+      "published_at": "2026-11-26 22:00"
+    },
+    {
+      "category": "industry",
+      "title": "恒生电子中标华夏银行财私智能资配大模型项目",
+      "summary": "恒生电子中标华夏银行财私智能资配大模型赋能项目（财私系统公募投顾模块），华夏银行以竞争性磋商方式采购并公布结果，合作供应商确定为恒生电子。该项目聚焦财私系统的公募投顾模块，把大模型能力接入财富管理与资产配置场景，目前处于采购结果落定阶段。",
+      "url": "https://bj.zhiliaobiaoxun.com/article/120825237",
+      "source": "知了标讯",
+      "company": "恒生电子",
+      "published_at": "2026-11-25"
+    }
+  ]
+}

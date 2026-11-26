@@ -1,0 +1,58 @@
+{
+  "report_date": "2026-11-27",
+  "counts": {
+    "market": 3,
+    "industry": 3,
+    "technology": 3
+  },
+  "all_parts_sent": false,
+  "exact_sent_copy": false,
+  "headlines": [
+    {
+      "category": "market",
+      "title": "兴业银行征集客户运营数据应用二期供应商，含智能体接口",
+      "url": "https://cg.cib.com.cn/cms/default/webfile/gyszj/20261126/2125842348900200450.html"
+    },
+    {
+      "category": "market",
+      "title": "宝武财务公司累计建成141个智能体，司库风控智能体投运",
+      "url": "https://www.toutiao.com/article/7712291849980953129/?wid=1795677883618"
+    },
+    {
+      "category": "market",
+      "title": "永赢金融租赁征集大数据AI核心系统供应商，含流水分析智能体",
+      "url": "https://m.chinabidding.cn/cgxx/wfeBeI98s.html"
+    },
+    {
+      "category": "industry",
+      "title": "广电运通中标广州农商银行智能厅堂机器人项目",
+      "url": "https://m.21jingji.com/timeline/c807f0bfd3d9660595944668c0fab07d.html"
+    },
+    {
+      "category": "industry",
+      "title": "Savana发布银行操作智能体Acta，覆盖139项操作",
+      "url": "https://disrupts.disruptsmedia.com/fintech/savana-launches-acta-give-banks-ai-acts-not-just-advises"
+    },
+    {
+      "category": "industry",
+      "title": "恒生电子中标华夏银行财私智能资配大模型项目",
+      "url": "https://bj.zhiliaobiaoxun.com/article/120825237"
+    },
+    {
+      "category": "technology",
+      "title": "Sand.ai发布480B视频模型MAGI-2并计划开源",
+      "url": "https://www.qbitai.com/2026/11/512916.html"
+    },
+    {
+      "category": "technology",
+      "title": "Pydantic发布编码智能体Pax，Harness进beta",
+      "url": "https://theainews.cc/articles/2026-11-26-pax-harness-beta/"
+    },
+    {
+      "category": "technology",
+      "title": "谷歌开源生产环境智能体诊断工具AQuA",
+      "url": "https://www.newseekai.com/ai-news/5187"
+    }
+  ],
+  "confirmed_sent_events": []
+}
